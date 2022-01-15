@@ -1,0 +1,35 @@
+{
+  "name": "covid-dashboard-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc && ncc build scripts/action.js -o dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yousfiSaad/covitsdashboard-data.git"
+  },
+  "keywords": [],
+  "author": "yousfi saad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yousfiSaad/covitsdashboard-data/issues"
+  },
+  "homepage": "https://github.com/yousfiSaad/covitsdashboard-data#readme",
+  "dependencies": {
+    "typescript": "^4.5.4"
+  },
+  "devDependencies": {
+    "@types/d3": "^7.1.0",
+    "@types/moment": "^2.13.0",
+    "@types/node": "^17.0.8",
+    "@types/ramda": "^0.27.63",
+    "@vercel/ncc": "^0.33.1",
+    "d3": "^7.3.0",
+    "moment": "^2.29.1",
+    "node-fetch-polyfill": "^2.0.6",
+    "ramda": "^0.27.2"
+  }
+}
