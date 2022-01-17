@@ -3,7 +3,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.aggregateWorldData = exports.aggregateAndAvg = exports.avgByWeek = exports.aggregate = exports.parseYYYYMMDD = exports.groupVaccinationDataByCountryAndParseDate = exports.groupByCountry = exports.cleanAndAddNewCases2 = exports.mapCountriesNames = void 0;
+exports.aggregateWorldData = exports.aggregateAndAvg = exports.avgByWeek = exports.groupVaccinationDataByCountryAndParseDate = exports.groupByCountry = exports.aggregate = exports.parseYYYYMMDD = exports.cleanAndAddNewCases2 = exports.mapCountriesNames = void 0;
 const moment_1 = __importDefault(require("moment"));
 const ramda_1 = require("ramda");
 exports.mapCountriesNames = (0, ramda_1.cond)([
@@ -15,14 +15,14 @@ exports.cleanAndAddNewCases2 = (0, ramda_1.pipe)((0, ramda_1.nth)(0), ramda_1.to
     dateAsStr: key,
     cases: parseInt(val),
 })), (0, ramda_1.scan)((acc, curr) => (Object.assign(Object.assign({}, curr), { newCases: curr.cases - acc.cases })), { cases: 0 }), (0, ramda_1.reject)(({ newCases }) => isNaN(newCases) || newCases < 0));
-exports.groupByCountry = (0, ramda_1.pipe)((0, ramda_1.groupBy)((0, ramda_1.propOr)("", "Country/Region")), (0, ramda_1.map)((0, ramda_1.groupBy)((0, ramda_1.propOr)("", "Province/State"))), (0, ramda_1.map)((0, ramda_1.map)(exports.cleanAndAddNewCases2)), (0, ramda_1.map)((0, ramda_1.propOr)([], "")));
-exports.groupVaccinationDataByCountryAndParseDate = (0, ramda_1.pipe)((0, ramda_1.groupBy)((0, ramda_1.propOr)("", "country")), (0, ramda_1.map)((0, ramda_1.pipe)((0, ramda_1.nth)(0), (0, ramda_1.propOr)([], "data"), (0, ramda_1.map)((d) => (Object.assign(Object.assign({}, d), { dateAsStr: d.date, date: (0, exports.parseYYYYMMDD)(d.date) }))))));
 const parseYYYYMMDD = (str) => {
     const [year, month, day] = str.split("-");
     return new Date(parseInt(year) || 0, (parseInt(month) || 0) - 1, parseInt(day) || 0);
 };
 exports.parseYYYYMMDD = parseYYYYMMDD;
-exports.aggregate = (0, ramda_1.pipe)(ramda_1.flatten, (0, ramda_1.groupBy)((0, ramda_1.propOr)(null, "date")), ramda_1.toPairs, (0, ramda_1.map)(([, datums]) => datums.reduce((a, b) => (Object.assign(Object.assign({}, b), { cases: a.cases + b.cases, newCases: a.newCases + b.newCases })), { cases: 0, newCases: 0 })), (0, ramda_1.map)((0, ramda_1.evolve)({ date: exports.parseYYYYMMDD })), (0, ramda_1.sortBy)((0, ramda_1.prop)("date")));
+exports.aggregate = (0, ramda_1.pipe)(ramda_1.flatten, (0, ramda_1.groupBy)((0, ramda_1.propOr)(null, "date")), ramda_1.toPairs, (0, ramda_1.map)(([, datums]) => datums.reduce((a, b) => (Object.assign(Object.assign({}, b), { cases: a.cases + b.cases, newCases: a.newCases + b.newCases })), { cases: 0, newCases: 0 })), (0, ramda_1.sortBy)((0, ramda_1.prop)("date")));
+exports.groupByCountry = (0, ramda_1.pipe)((0, ramda_1.groupBy)((0, ramda_1.propOr)("", "Country/Region")), (0, ramda_1.map)((0, ramda_1.groupBy)((0, ramda_1.propOr)("", "Province/State"))), (0, ramda_1.map)((0, ramda_1.map)(exports.cleanAndAddNewCases2)), (0, ramda_1.map)((0, ramda_1.propOr)([], "")), (0, ramda_1.map)(exports.aggregate));
+exports.groupVaccinationDataByCountryAndParseDate = (0, ramda_1.pipe)((0, ramda_1.groupBy)((0, ramda_1.propOr)("", "country")), (0, ramda_1.map)((0, ramda_1.pipe)((0, ramda_1.nth)(0), (0, ramda_1.propOr)([], "data"), (0, ramda_1.map)((d) => (Object.assign(Object.assign({}, d), { dateAsStr: d.date, date: (0, exports.parseYYYYMMDD)(d.date) }))))));
 const avgByGetter = (getter) => (data) => data.reduce((acc, cur) => acc + getter(cur), 0) /
     data.length;
 // TODO: create another lite worker without momentjs

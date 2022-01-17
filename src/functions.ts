@@ -54,11 +54,40 @@ export const cleanAndAddNewCases2 = pipe<any, any, any, any, any, any, any>(
   reject(({ newCases }) => isNaN(newCases) || newCases < 0)
 );
 
-export const groupByCountry = pipe<any, any, any, any, any>(
+export const parseYYYYMMDD = (str: string) => {
+  const [year, month, day] = str.split("-");
+  return new Date(
+    parseInt(year) || 0,
+    (parseInt(month) || 0) - 1,
+    parseInt(day) || 0
+  );
+};
+
+
+export const aggregate = pipe<any, any, any, any, any, any>(
+  flatten,
+  groupBy(propOr(null, "date")),
+  toPairs,
+  map(([, datums]) =>
+    datums.reduce(
+      (a: any, b: any) => ({
+        ...b,
+        cases: a.cases + b.cases,
+        newCases: a.newCases + b.newCases,
+      }),
+      { cases: 0, newCases: 0 }
+    )
+  ),
+  sortBy(prop("date"))
+);
+
+
+export const groupByCountry = pipe<any, any, any, any, any, any>(
   groupBy(propOr("", "Country/Region")),
   map(groupBy(propOr("", "Province/State"))),
   map(map(cleanAndAddNewCases2)),
-  map(propOr([], ""))
+  map(propOr([], "")),
+  map(aggregate)
 );
 
 export const groupVaccinationDataByCountryAndParseDate =
@@ -76,33 +105,6 @@ export const groupVaccinationDataByCountryAndParseDate =
       )
     )
   );
-
-export const parseYYYYMMDD = (str: string) => {
-  const [year, month, day] = str.split("-");
-  return new Date(
-    parseInt(year) || 0,
-    (parseInt(month) || 0) - 1,
-    parseInt(day) || 0
-  );
-};
-
-export const aggregate = pipe<any, any, any, any, any, any, any>(
-  flatten,
-  groupBy(propOr(null, "date")),
-  toPairs,
-  map(([, datums]) =>
-    datums.reduce(
-      (a: any, b: any) => ({
-        ...b,
-        cases: a.cases + b.cases,
-        newCases: a.newCases + b.newCases,
-      }),
-      { cases: 0, newCases: 0 }
-    )
-  ),
-  map(evolve({ date: parseYYYYMMDD })),
-  sortBy(prop("date"))
-);
 
 const avgByGetter =
   (getter: (datum: DatumType) => number) => (data: DatumType[]) =>

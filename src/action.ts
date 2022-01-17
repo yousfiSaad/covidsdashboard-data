@@ -2,7 +2,8 @@
 import { getallcountries, getGroupedConfirmed, getGroupedDeaths, getGroupedVaccination, getWeekly } from './data';
 import { mkdir, writeFile } from 'fs/promises';
 import { existsSync } from 'fs';
-import { mapCountriesNames } from './functions';
+import { avgByWeek, mapCountriesNames } from './functions';
+import { map } from 'ramda';
 
 const stringify = (obj: any) => JSON.stringify(obj, null, 4);
 
@@ -12,6 +13,9 @@ async function run() {
   const groupedDeaths = await getGroupedDeaths();
   const groupedConfirmed = await getGroupedConfirmed();
   const groupedVaccination = await getGroupedVaccination();
+
+  const groupedWeekAvgDeaths = map(avgByWeek)(groupedDeaths);
+  const groupedWeekAvgConfirmed = map(avgByWeek)(groupedConfirmed);
 
   await writeFile(
     'data/weekly-world-data.json',
@@ -37,6 +41,9 @@ async function run() {
   await saveAsSeparatedFiles(countriesList, 'grouped-deaths', groupedDeaths);
   await saveAsSeparatedFiles(countriesList, 'grouped-confirmed', groupedConfirmed);
   await saveAsSeparatedFiles(countriesList, 'grouped-vaccination', groupedVaccination, mapCountriesNames);
+
+  await saveAsSeparatedFiles(countriesList, 'grouped-week-avg-deaths', groupedWeekAvgDeaths);
+  await saveAsSeparatedFiles(countriesList, 'grouped-week-avg-confirmed', groupedWeekAvgConfirmed);
 }
 
 
