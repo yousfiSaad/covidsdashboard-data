@@ -2,6 +2,7 @@
 import { getallcountries, getGroupedConfirmed, getGroupedDeaths, getGroupedVaccination, getWeekly } from './data';
 import { mkdir, writeFile } from 'fs/promises';
 import { existsSync } from 'fs';
+import { mapCountriesNames } from './functions';
 
 const stringify = (obj: any) => JSON.stringify(obj, null, 4);
 
@@ -35,21 +36,27 @@ async function run() {
 
   await saveAsSeparatedFiles(countriesList, 'grouped-deaths', groupedDeaths);
   await saveAsSeparatedFiles(countriesList, 'grouped-confirmed', groupedConfirmed);
-  await saveAsSeparatedFiles(countriesList, 'grouped-vaccination', groupedVaccination);
+  await saveAsSeparatedFiles(countriesList, 'grouped-vaccination', groupedVaccination, mapCountriesNames);
 }
 
 
 run();
 
-async function saveAsSeparatedFiles(countriesList: string[], folderName: string, object: any) {
+async function saveAsSeparatedFiles(
+  countriesList: string[],
+  folderName: string,
+  object: any,
+  nameMapper?: { (b: string): string } | undefined
+) {
   const folderPath = `data/${folderName}`;
   const folderExits = existsSync(folderPath);
   if (!folderExits) {
     await mkdir(folderPath);
   }
-  const promises = countriesList.map(async country => {
-    const countryData = object[country] || [];
-    return await writeFile(
+  const promises = countriesList.map(country => {
+    const countryName = nameMapper ? nameMapper(country) : country;
+    const countryData = object[countryName] || [];
+    return writeFile(
       `${folderPath}/${country}.json`,
       stringify(countryData)
     );

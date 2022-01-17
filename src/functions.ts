@@ -1,8 +1,12 @@
 import moment from "moment";
 import {
+  always,
+  cond,
+  equals,
   evolve,
   flatten,
   groupBy,
+  identity,
   last,
   map,
   nth,
@@ -12,6 +16,7 @@ import {
   reject,
   scan,
   sortBy,
+  T,
   toPairs,
   values,
 } from "ramda";
@@ -22,86 +27,16 @@ export type DatumType = {
   newCases: number;
 };
 
-// export const isInRange = (selectedTimeRange: TimeRange) => (datum: any) => {
-//   return selectedTimeRange
-//     ? datum.date >= selectedTimeRange.start &&
-//         datum.date <= selectedTimeRange.end
-//     : true;
-// };
-// export const filterDataByCountries = (
-//   selectedTimeRange: TimeRange,
-//   selectedCountries: string[],
-//   data: any,
-//   data2: any
-// ) =>
-//   selectedCountries.map((country) => {
-//     const countryData: DatumType = refineAndCleanData(country)(data)
-//       .splice(1)
-//       .filter(isInRange(selectedTimeRange));
-//     const countryData2: DatumType = refineAndCleanData(country)(data2)
-//       .splice(1)
-//       .filter(isInRange(selectedTimeRange));
+export const mapCountriesNames: (b: string) => string = cond([
+  [equals("US"), always("United States")],
+  [T, identity],
+]) as (b: string) => string;
 
-//     return {
-//       country,
-//       data: countryData,
-//       data2: countryData2,
-//     };
-//   });
-
-// export const aggregate = pipe<any, any, any, any, any, any>(
-//   flatten,
-//   groupBy(propOr(null, "date")),
-//   toPairs,
-//   map(([key, datums]) =>
-//     datums.reduce(
-//       (a: any, b: any) => ({
-//         ...b,
-//         cases: a.cases + b.cases,
-//         newCases: a.newCases + b.newCases,
-//       }),
-//       { cases: 0, newCases: 0 }
-//     )
-//   ),
-//   sortBy(prop("date"))
-// );
-
-// export const cleanAndAddNewCases = pipe<any, any, any, any, any, any>(
-//   toPairs,
-//   reject(([key, val]: string[]) =>
-//     ["Province/State", "Country/Region", "Lat", "Long"].includes(key)
-//   ),
-//   map(([key, val]: string[]) => ({
-//     date: new Date(key),
-//     dateAsStr: key,
-//     cases: parseInt(val),
-//   })),
-//   scan(
-//     (acc: any, curr: any) => ({
-//       ...curr,
-//       newCases: curr.cases - acc.cases,
-//     }),
-//     { cases: 0 }
-//   ),
-//   reject(({ newCases }) => newCases < 0)
-// );
-
-// export const refineAndCleanData = (country: string) =>
-//   pipe<any, any, any, any>(
-//     filter(propEq("Country/Region", country)),
-//     map(cleanAndAddNewCases),
-//     aggregate
-//   );
-
-// export const refineData = pipe<any, any, any>(
-//   map(cleanAndAddNewCases),
-//   aggregate
-// );
 
 export const cleanAndAddNewCases2 = pipe<any, any, any, any, any, any, any>(
   nth(0),
   toPairs,
-  reject(([key, val]: string[]) =>
+  reject(([key, _val]: string[]) =>
     ["Province/State", "Country/Region", "Lat", "Long"].includes(key)
   ),
   map(([key, val]: string[]) => ({

@@ -12,6 +12,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const data_1 = require("./data");
 const promises_1 = require("fs/promises");
 const fs_1 = require("fs");
+const functions_1 = require("./functions");
 const stringify = (obj) => JSON.stringify(obj, null, 4);
 function run() {
     return __awaiter(this, void 0, void 0, function* () {
@@ -27,21 +28,22 @@ function run() {
         yield (0, promises_1.writeFile)('data/grouped-vaccination.json', stringify(groupedVaccination));
         yield saveAsSeparatedFiles(countriesList, 'grouped-deaths', groupedDeaths);
         yield saveAsSeparatedFiles(countriesList, 'grouped-confirmed', groupedConfirmed);
-        yield saveAsSeparatedFiles(countriesList, 'grouped-vaccination', groupedVaccination);
+        yield saveAsSeparatedFiles(countriesList, 'grouped-vaccination', groupedVaccination, functions_1.mapCountriesNames);
     });
 }
 run();
-function saveAsSeparatedFiles(countriesList, folderName, object) {
+function saveAsSeparatedFiles(countriesList, folderName, object, nameMapper) {
     return __awaiter(this, void 0, void 0, function* () {
         const folderPath = `data/${folderName}`;
         const folderExits = (0, fs_1.existsSync)(folderPath);
         if (!folderExits) {
             yield (0, promises_1.mkdir)(folderPath);
         }
-        const promises = countriesList.map((country) => __awaiter(this, void 0, void 0, function* () {
-            const countryData = object[country] || [];
-            return yield (0, promises_1.writeFile)(`${folderPath}/${country}.json`, stringify(countryData));
-        }));
+        const promises = countriesList.map(country => {
+            const countryName = nameMapper ? nameMapper(country) : country;
+            const countryData = object[countryName] || [];
+            return (0, promises_1.writeFile)(`${folderPath}/${country}.json`, stringify(countryData));
+        });
         yield Promise.all(promises);
     });
 }

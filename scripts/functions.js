@@ -3,80 +3,14 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.aggregateWorldData = exports.aggregateAndAvg = exports.avgByWeek = exports.aggregate = exports.parseYYYYMMDD = exports.groupVaccinationDataByCountryAndParseDate = exports.groupByCountry = exports.cleanAndAddNewCases2 = void 0;
+exports.aggregateWorldData = exports.aggregateAndAvg = exports.avgByWeek = exports.aggregate = exports.parseYYYYMMDD = exports.groupVaccinationDataByCountryAndParseDate = exports.groupByCountry = exports.cleanAndAddNewCases2 = exports.mapCountriesNames = void 0;
 const moment_1 = __importDefault(require("moment"));
 const ramda_1 = require("ramda");
-// export const isInRange = (selectedTimeRange: TimeRange) => (datum: any) => {
-//   return selectedTimeRange
-//     ? datum.date >= selectedTimeRange.start &&
-//         datum.date <= selectedTimeRange.end
-//     : true;
-// };
-// export const filterDataByCountries = (
-//   selectedTimeRange: TimeRange,
-//   selectedCountries: string[],
-//   data: any,
-//   data2: any
-// ) =>
-//   selectedCountries.map((country) => {
-//     const countryData: DatumType = refineAndCleanData(country)(data)
-//       .splice(1)
-//       .filter(isInRange(selectedTimeRange));
-//     const countryData2: DatumType = refineAndCleanData(country)(data2)
-//       .splice(1)
-//       .filter(isInRange(selectedTimeRange));
-//     return {
-//       country,
-//       data: countryData,
-//       data2: countryData2,
-//     };
-//   });
-// export const aggregate = pipe<any, any, any, any, any, any>(
-//   flatten,
-//   groupBy(propOr(null, "date")),
-//   toPairs,
-//   map(([key, datums]) =>
-//     datums.reduce(
-//       (a: any, b: any) => ({
-//         ...b,
-//         cases: a.cases + b.cases,
-//         newCases: a.newCases + b.newCases,
-//       }),
-//       { cases: 0, newCases: 0 }
-//     )
-//   ),
-//   sortBy(prop("date"))
-// );
-// export const cleanAndAddNewCases = pipe<any, any, any, any, any, any>(
-//   toPairs,
-//   reject(([key, val]: string[]) =>
-//     ["Province/State", "Country/Region", "Lat", "Long"].includes(key)
-//   ),
-//   map(([key, val]: string[]) => ({
-//     date: new Date(key),
-//     dateAsStr: key,
-//     cases: parseInt(val),
-//   })),
-//   scan(
-//     (acc: any, curr: any) => ({
-//       ...curr,
-//       newCases: curr.cases - acc.cases,
-//     }),
-//     { cases: 0 }
-//   ),
-//   reject(({ newCases }) => newCases < 0)
-// );
-// export const refineAndCleanData = (country: string) =>
-//   pipe<any, any, any, any>(
-//     filter(propEq("Country/Region", country)),
-//     map(cleanAndAddNewCases),
-//     aggregate
-//   );
-// export const refineData = pipe<any, any, any>(
-//   map(cleanAndAddNewCases),
-//   aggregate
-// );
-exports.cleanAndAddNewCases2 = (0, ramda_1.pipe)((0, ramda_1.nth)(0), ramda_1.toPairs, (0, ramda_1.reject)(([key, val]) => ["Province/State", "Country/Region", "Lat", "Long"].includes(key)), (0, ramda_1.map)(([key, val]) => ({
+exports.mapCountriesNames = (0, ramda_1.cond)([
+    [(0, ramda_1.equals)("US"), (0, ramda_1.always)("United States")],
+    [ramda_1.T, ramda_1.identity],
+]);
+exports.cleanAndAddNewCases2 = (0, ramda_1.pipe)((0, ramda_1.nth)(0), ramda_1.toPairs, (0, ramda_1.reject)(([key, _val]) => ["Province/State", "Country/Region", "Lat", "Long"].includes(key)), (0, ramda_1.map)(([key, val]) => ({
     date: new Date(key),
     dateAsStr: key,
     cases: parseInt(val),
