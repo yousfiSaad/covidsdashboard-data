@@ -4058,5 +4058,59 @@
         "daily_people_vaccinated": 104,
         "daily_people_vaccinated_per_hundred": 0.018,
         "dateAsStr": "2022-01-18"
+    },
+    {
+        "date": "2022-01-19T00:00:00.000Z",
+        "daily_vaccinations": 223,
+        "daily_vaccinations_per_million": 377,
+        "daily_people_vaccinated": 99,
+        "daily_people_vaccinated_per_hundred": 0.017,
+        "dateAsStr": "2022-01-19"
+    },
+    {
+        "date": "2022-01-20T00:00:00.000Z",
+        "daily_vaccinations": 201,
+        "daily_vaccinations_per_million": 340,
+        "daily_people_vaccinated": 88,
+        "daily_people_vaccinated_per_hundred": 0.015,
+        "dateAsStr": "2022-01-20"
+    },
+    {
+        "date": "2022-01-21T00:00:00.000Z",
+        "daily_vaccinations": 202,
+        "daily_vaccinations_per_million": 341,
+        "daily_people_vaccinated": 87,
+        "daily_people_vaccinated_per_hundred": 0.015,
+        "dateAsStr": "2022-01-21"
+    },
+    {
+        "date": "2022-01-22T00:00:00.000Z",
+        "daily_vaccinations": 203,
+        "daily_vaccinations_per_million": 343,
+        "daily_people_vaccinated": 87,
+        "daily_people_vaccinated_per_hundred": 0.015,
+        "dateAsStr": "2022-01-22"
+    },
+    {
+        "date": "2022-01-23T00:00:00.000Z",
+        "daily_vaccinations": 204,
+        "daily_vaccinations_per_million": 345,
+        "daily_people_vaccinated": 86,
+        "daily_people_vaccinated_per_hundred": 0.015,
+        "dateAsStr": "2022-01-23"
+    },
+    {
+        "date": "2022-01-24T00:00:00.000Z",
+        "total_vaccinations": 496244,
+        "people_vaccinated": 264166,
+        "people_fully_vaccinated": 232078,
+        "daily_vaccinations": 205,
+        "total_vaccinations_per_hundred": 83.85,
+        "people_vaccinated_per_hundred": 44.64,
+        "people_fully_vaccinated_per_hundred": 39.22,
+        "daily_vaccinations_per_million": 346,
+        "daily_people_vaccinated": 86,
+        "daily_people_vaccinated_per_hundred": 0.015,
+        "dateAsStr": "2022-01-24"
     }
 ]
