@@ -2215,5 +2215,59 @@
         "daily_people_vaccinated": 4246,
         "daily_people_vaccinated_per_hundred": 0.086,
         "dateAsStr": "2022-01-31"
+    },
+    {
+        "date": "2022-02-01T00:00:00.000Z",
+        "daily_vaccinations": 5242,
+        "daily_vaccinations_per_million": 1065,
+        "daily_people_vaccinated": 4752,
+        "daily_people_vaccinated_per_hundred": 0.097,
+        "dateAsStr": "2022-02-01"
+    },
+    {
+        "date": "2022-02-02T00:00:00.000Z",
+        "daily_vaccinations": 5666,
+        "daily_vaccinations_per_million": 1152,
+        "daily_people_vaccinated": 5258,
+        "daily_people_vaccinated_per_hundred": 0.107,
+        "dateAsStr": "2022-02-02"
+    },
+    {
+        "date": "2022-02-03T00:00:00.000Z",
+        "daily_vaccinations": 6091,
+        "daily_vaccinations_per_million": 1238,
+        "daily_people_vaccinated": 5765,
+        "daily_people_vaccinated_per_hundred": 0.117,
+        "dateAsStr": "2022-02-03"
+    },
+    {
+        "date": "2022-02-04T00:00:00.000Z",
+        "daily_vaccinations": 6515,
+        "daily_vaccinations_per_million": 1324,
+        "daily_people_vaccinated": 6271,
+        "daily_people_vaccinated_per_hundred": 0.127,
+        "dateAsStr": "2022-02-04"
+    },
+    {
+        "date": "2022-02-05T00:00:00.000Z",
+        "daily_vaccinations": 6940,
+        "daily_vaccinations_per_million": 1411,
+        "daily_people_vaccinated": 6777,
+        "daily_people_vaccinated_per_hundred": 0.138,
+        "dateAsStr": "2022-02-05"
+    },
+    {
+        "date": "2022-02-06T00:00:00.000Z",
+        "total_vaccinations": 698869,
+        "people_vaccinated": 619646,
+        "people_fully_vaccinated": 594847,
+        "daily_vaccinations": 7365,
+        "total_vaccinations_per_hundred": 14.2,
+        "people_vaccinated_per_hundred": 12.59,
+        "people_fully_vaccinated_per_hundred": 12.09,
+        "daily_vaccinations_per_million": 1497,
+        "daily_people_vaccinated": 7283,
+        "daily_people_vaccinated_per_hundred": 0.148,
+        "dateAsStr": "2022-02-06"
     }
 ]
