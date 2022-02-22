@@ -2769,9 +2769,59 @@
         "dateAsStr": "2022-02-13"
     },
     {
+        "date": "2022-02-14T00:00:00.000Z",
+        "daily_vaccinations": 10415,
+        "daily_vaccinations_per_million": 1497,
+        "daily_people_vaccinated": 4845,
+        "daily_people_vaccinated_per_hundred": 0.07,
+        "dateAsStr": "2022-02-14"
+    },
+    {
+        "date": "2022-02-15T00:00:00.000Z",
+        "daily_vaccinations": 10298,
+        "daily_vaccinations_per_million": 1480,
+        "daily_people_vaccinated": 4801,
+        "daily_people_vaccinated_per_hundred": 0.069,
+        "dateAsStr": "2022-02-15"
+    },
+    {
+        "date": "2022-02-16T00:00:00.000Z",
+        "daily_vaccinations": 10181,
+        "daily_vaccinations_per_million": 1463,
+        "daily_people_vaccinated": 4757,
+        "daily_people_vaccinated_per_hundred": 0.068,
+        "dateAsStr": "2022-02-16"
+    },
+    {
         "date": "2022-02-17T00:00:00.000Z",
         "total_boosters": 50165,
+        "daily_vaccinations": 10064,
         "total_boosters_per_hundred": 0.72,
+        "daily_vaccinations_per_million": 1446,
+        "daily_people_vaccinated": 4713,
+        "daily_people_vaccinated_per_hundred": 0.068,
         "dateAsStr": "2022-02-17"
+    },
+    {
+        "date": "2022-02-18T00:00:00.000Z",
+        "daily_vaccinations": 9947,
+        "daily_vaccinations_per_million": 1429,
+        "daily_people_vaccinated": 4669,
+        "daily_people_vaccinated_per_hundred": 0.067,
+        "dateAsStr": "2022-02-18"
+    },
+    {
+        "date": "2022-02-19T00:00:00.000Z",
+        "total_vaccinations": 3256672,
+        "people_vaccinated": 2128905,
+        "people_fully_vaccinated": 1070244,
+        "daily_vaccinations": 9831,
+        "total_vaccinations_per_hundred": 46.8,
+        "people_vaccinated_per_hundred": 30.59,
+        "people_fully_vaccinated_per_hundred": 15.38,
+        "daily_vaccinations_per_million": 1413,
+        "daily_people_vaccinated": 4625,
+        "daily_people_vaccinated_per_hundred": 0.066,
+        "dateAsStr": "2022-02-19"
     }
 ]
