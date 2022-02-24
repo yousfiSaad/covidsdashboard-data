@@ -6008,11 +6008,59 @@
         "dateAsStr": "2022-02-15"
     },
     {
+        "date": "2022-02-16T00:00:00.000Z",
+        "daily_vaccinations": 51313,
+        "daily_vaccinations_per_million": 10010,
+        "daily_people_vaccinated": 4845,
+        "daily_people_vaccinated_per_hundred": 0.095,
+        "dateAsStr": "2022-02-16"
+    },
+    {
+        "date": "2022-02-17T00:00:00.000Z",
+        "daily_vaccinations": 49018,
+        "daily_vaccinations_per_million": 9562,
+        "daily_people_vaccinated": 4732,
+        "daily_people_vaccinated_per_hundred": 0.092,
+        "dateAsStr": "2022-02-17"
+    },
+    {
+        "date": "2022-02-18T00:00:00.000Z",
+        "daily_vaccinations": 46724,
+        "daily_vaccinations_per_million": 9115,
+        "daily_people_vaccinated": 4618,
+        "daily_people_vaccinated_per_hundred": 0.09,
+        "dateAsStr": "2022-02-18"
+    },
+    {
+        "date": "2022-02-19T00:00:00.000Z",
+        "daily_vaccinations": 44430,
+        "daily_vaccinations_per_million": 8667,
+        "daily_people_vaccinated": 4505,
+        "daily_people_vaccinated_per_hundred": 0.088,
+        "dateAsStr": "2022-02-19"
+    },
+    {
+        "date": "2022-02-20T00:00:00.000Z",
+        "daily_vaccinations": 42136,
+        "daily_vaccinations_per_million": 8220,
+        "daily_people_vaccinated": 4391,
+        "daily_people_vaccinated_per_hundred": 0.086,
+        "dateAsStr": "2022-02-20"
+    },
+    {
         "date": "2022-02-21T00:00:00.000Z",
+        "total_vaccinations": 10661921,
+        "people_vaccinated": 4476042,
         "people_fully_vaccinated": 3955290,
         "total_boosters": 2230589,
+        "daily_vaccinations": 39842,
+        "total_vaccinations_per_hundred": 207.98,
+        "people_vaccinated_per_hundred": 87.32,
         "people_fully_vaccinated_per_hundred": 77.16,
         "total_boosters_per_hundred": 43.51,
+        "daily_vaccinations_per_million": 7772,
+        "daily_people_vaccinated": 4278,
+        "daily_people_vaccinated_per_hundred": 0.083,
         "dateAsStr": "2022-02-21"
     }
 ]
