@@ -6368,5 +6368,22 @@
         "daily_people_vaccinated": 7890,
         "daily_people_vaccinated_per_hundred": 0.009,
         "dateAsStr": "2022-02-23"
+    },
+    {
+        "date": "2022-02-24T00:00:00.000Z",
+        "total_vaccinations": 145344212,
+        "people_vaccinated": 57659736,
+        "people_fully_vaccinated": 52771929,
+        "total_boosters": 34912547,
+        "daily_vaccinations_raw": 100316,
+        "daily_vaccinations": 106405,
+        "total_vaccinations_per_hundred": 170.91,
+        "people_vaccinated_per_hundred": 67.8,
+        "people_fully_vaccinated_per_hundred": 62.05,
+        "total_boosters_per_hundred": 41.05,
+        "daily_vaccinations_per_million": 1251,
+        "daily_people_vaccinated": 7761,
+        "daily_people_vaccinated_per_hundred": 0.009,
+        "dateAsStr": "2022-02-24"
     }
 ]
