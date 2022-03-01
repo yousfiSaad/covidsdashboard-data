@@ -1188,10 +1188,16 @@
         "newCases": 0
     },
     {
+        "date": "2020-08-11T00:00:00.000Z",
+        "dateAsStr": "8/11/20",
+        "cases": 6159,
+        "newCases": 2
+    },
+    {
         "date": "2020-08-12T00:00:00.000Z",
         "dateAsStr": "8/12/20",
         "cases": 6161,
-        "newCases": 20
+        "newCases": 2
     },
     {
         "date": "2020-08-13T00:00:00.000Z",
@@ -2066,14 +2072,14 @@
     {
         "date": "2021-01-05T00:00:00.000Z",
         "dateAsStr": "1/5/21",
-        "cases": 11826,
-        "newCases": 151
+        "cases": 11862,
+        "newCases": 187
     },
     {
         "date": "2021-01-06T00:00:00.000Z",
         "dateAsStr": "1/6/21",
         "cases": 11999,
-        "newCases": 173
+        "newCases": 137
     },
     {
         "date": "2021-01-07T00:00:00.000Z",
@@ -4562,19 +4568,25 @@
     {
         "date": "2022-02-25T00:00:00.000Z",
         "dateAsStr": "2/25/22",
-        "cases": 21507,
-        "newCases": 0
+        "cases": 21512,
+        "newCases": 5
     },
     {
         "date": "2022-02-26T00:00:00.000Z",
         "dateAsStr": "2/26/22",
-        "cases": 21507,
-        "newCases": 0
+        "cases": 21518,
+        "newCases": 6
     },
     {
         "date": "2022-02-27T00:00:00.000Z",
         "dateAsStr": "2/27/22",
-        "cases": 21507,
-        "newCases": 0
+        "cases": 21521,
+        "newCases": 3
+    },
+    {
+        "date": "2022-02-28T00:00:00.000Z",
+        "dateAsStr": "2/28/22",
+        "cases": 21575,
+        "newCases": 54
     }
 ]
