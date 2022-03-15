@@ -4670,19 +4670,25 @@
     {
         "date": "2022-03-11T00:00:00.000Z",
         "dateAsStr": "3/11/22",
-        "cases": 43527,
-        "newCases": 0
+        "cases": 43659,
+        "newCases": 132
     },
     {
         "date": "2022-03-12T00:00:00.000Z",
         "dateAsStr": "3/12/22",
-        "cases": 43527,
-        "newCases": 0
+        "cases": 43785,
+        "newCases": 126
     },
     {
         "date": "2022-03-13T00:00:00.000Z",
         "dateAsStr": "3/13/22",
         "cases": 43879,
-        "newCases": 352
+        "newCases": 94
+    },
+    {
+        "date": "2022-03-14T00:00:00.000Z",
+        "dateAsStr": "3/14/22",
+        "cases": 44005,
+        "newCases": 126
     }
 ]
