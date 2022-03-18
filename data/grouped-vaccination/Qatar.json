@@ -4981,5 +4981,16 @@
         "total_boosters_per_hundred": 46.44,
         "daily_vaccinations_per_million": 3083,
         "dateAsStr": "2022-03-16"
+    },
+    {
+        "date": "2022-03-17T00:00:00.000Z",
+        "total_vaccinations": 6514699,
+        "total_boosters": 1370268,
+        "daily_vaccinations_raw": 12555,
+        "daily_vaccinations": 6033,
+        "total_vaccinations_per_hundred": 222.3,
+        "total_boosters_per_hundred": 46.76,
+        "daily_vaccinations_per_million": 2059,
+        "dateAsStr": "2022-03-17"
     }
 ]
