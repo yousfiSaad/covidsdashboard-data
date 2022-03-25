@@ -3756,5 +3756,16 @@
         "people_fully_vaccinated_per_hundred": 11.32,
         "daily_vaccinations_per_million": 822,
         "dateAsStr": "2022-03-23"
+    },
+    {
+        "date": "2022-03-24T00:00:00.000Z",
+        "total_vaccinations": 3345769,
+        "people_fully_vaccinated": 2152077,
+        "daily_vaccinations_raw": 20187,
+        "daily_vaccinations": 16942,
+        "total_vaccinations_per_hundred": 17.68,
+        "people_fully_vaccinated_per_hundred": 11.37,
+        "daily_vaccinations_per_million": 895,
+        "dateAsStr": "2022-03-24"
     }
 ]
