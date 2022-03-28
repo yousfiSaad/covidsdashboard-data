@@ -3161,5 +3161,59 @@
         "daily_people_vaccinated": 48,
         "daily_people_vaccinated_per_hundred": 0.002,
         "dateAsStr": "2022-03-14"
+    },
+    {
+        "date": "2022-03-15T00:00:00.000Z",
+        "daily_vaccinations": 42,
+        "daily_vaccinations_per_million": 17,
+        "daily_people_vaccinated": 41,
+        "daily_people_vaccinated_per_hundred": 0.002,
+        "dateAsStr": "2022-03-15"
+    },
+    {
+        "date": "2022-03-16T00:00:00.000Z",
+        "daily_vaccinations": 35,
+        "daily_vaccinations_per_million": 14,
+        "daily_people_vaccinated": 34,
+        "daily_people_vaccinated_per_hundred": 0.001,
+        "dateAsStr": "2022-03-16"
+    },
+    {
+        "date": "2022-03-17T00:00:00.000Z",
+        "daily_vaccinations": 28,
+        "daily_vaccinations_per_million": 11,
+        "daily_people_vaccinated": 27,
+        "daily_people_vaccinated_per_hundred": 0.001,
+        "dateAsStr": "2022-03-17"
+    },
+    {
+        "date": "2022-03-18T00:00:00.000Z",
+        "daily_vaccinations": 21,
+        "daily_vaccinations_per_million": 8,
+        "daily_people_vaccinated": 20,
+        "daily_people_vaccinated_per_hundred": 0.001,
+        "dateAsStr": "2022-03-18"
+    },
+    {
+        "date": "2022-03-19T00:00:00.000Z",
+        "daily_vaccinations": 14,
+        "daily_vaccinations_per_million": 6,
+        "daily_people_vaccinated": 14,
+        "daily_people_vaccinated_per_hundred": 0.001,
+        "dateAsStr": "2022-03-19"
+    },
+    {
+        "date": "2022-03-20T00:00:00.000Z",
+        "total_vaccinations": 363353,
+        "people_vaccinated": 331266,
+        "people_fully_vaccinated": 318161,
+        "daily_vaccinations": 7,
+        "total_vaccinations_per_hundred": 14.61,
+        "people_vaccinated_per_hundred": 13.32,
+        "people_fully_vaccinated_per_hundred": 12.79,
+        "daily_vaccinations_per_million": 3,
+        "daily_people_vaccinated": 7,
+        "daily_people_vaccinated_per_hundred": 0,
+        "dateAsStr": "2022-03-20"
     }
 ]
