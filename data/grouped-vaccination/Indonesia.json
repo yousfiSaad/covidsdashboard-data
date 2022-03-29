@@ -6354,8 +6354,10 @@
         "date": "2022-03-25T00:00:00.000Z",
         "people_vaccinated": 195533337,
         "people_fully_vaccinated": 156636335,
+        "daily_vaccinations": 1074470,
         "people_vaccinated_per_hundred": 70.75,
         "people_fully_vaccinated_per_hundred": 56.68,
+        "daily_vaccinations_per_million": 3888,
         "daily_people_vaccinated": 156545,
         "daily_people_vaccinated_per_hundred": 0.057,
         "dateAsStr": "2022-03-25"
@@ -6364,8 +6366,10 @@
         "date": "2022-03-26T00:00:00.000Z",
         "people_vaccinated": 195719065,
         "people_fully_vaccinated": 157569955,
+        "daily_vaccinations": 1249211,
         "people_vaccinated_per_hundred": 70.82,
         "people_fully_vaccinated_per_hundred": 57.02,
+        "daily_vaccinations_per_million": 4520,
         "daily_people_vaccinated": 165636,
         "daily_people_vaccinated_per_hundred": 0.06,
         "dateAsStr": "2022-03-26"
@@ -6374,10 +6378,28 @@
         "date": "2022-03-27T00:00:00.000Z",
         "people_vaccinated": 195889215,
         "people_fully_vaccinated": 157840758,
+        "daily_vaccinations": 1364200,
         "people_vaccinated_per_hundred": 70.88,
         "people_fully_vaccinated_per_hundred": 57.11,
+        "daily_vaccinations_per_million": 4936,
         "daily_people_vaccinated": 189943,
         "daily_people_vaccinated_per_hundred": 0.069,
         "dateAsStr": "2022-03-27"
+    },
+    {
+        "date": "2022-03-28T00:00:00.000Z",
+        "total_vaccinations": 375911010,
+        "people_vaccinated": 195958039,
+        "people_fully_vaccinated": 157974507,
+        "total_boosters": 21125889,
+        "daily_vaccinations": 1491019,
+        "total_vaccinations_per_hundred": 136.02,
+        "people_vaccinated_per_hundred": 70.91,
+        "people_fully_vaccinated_per_hundred": 57.16,
+        "total_boosters_per_hundred": 7.64,
+        "daily_vaccinations_per_million": 5395,
+        "daily_people_vaccinated": 167507,
+        "daily_people_vaccinated_per_hundred": 0.061,
+        "dateAsStr": "2022-03-28"
     }
 ]
