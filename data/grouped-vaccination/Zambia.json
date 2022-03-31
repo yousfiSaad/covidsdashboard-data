@@ -3811,12 +3811,21 @@
     {
         "date": "2022-03-29T00:00:00.000Z",
         "total_vaccinations": 3402612,
-        "people_fully_vaccinated": 2182849,
         "daily_vaccinations_raw": 12073,
         "daily_vaccinations": 13650,
         "total_vaccinations_per_hundred": 17.98,
-        "people_fully_vaccinated_per_hundred": 11.54,
         "daily_vaccinations_per_million": 721,
         "dateAsStr": "2022-03-29"
+    },
+    {
+        "date": "2022-03-30T00:00:00.000Z",
+        "total_vaccinations": 3415406,
+        "people_fully_vaccinated": 2180926,
+        "daily_vaccinations_raw": 12794,
+        "daily_vaccinations": 12832,
+        "total_vaccinations_per_hundred": 18.05,
+        "people_fully_vaccinated_per_hundred": 11.53,
+        "daily_vaccinations_per_million": 678,
+        "dateAsStr": "2022-03-30"
     }
 ]
