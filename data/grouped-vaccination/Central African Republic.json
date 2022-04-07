@@ -2675,5 +2675,59 @@
         "daily_people_vaccinated": 3092,
         "daily_people_vaccinated_per_hundred": 0.063,
         "dateAsStr": "2022-03-25"
+    },
+    {
+        "date": "2022-03-26T00:00:00.000Z",
+        "daily_vaccinations": 21950,
+        "daily_vaccinations_per_million": 4461,
+        "daily_people_vaccinated": 2650,
+        "daily_people_vaccinated_per_hundred": 0.054,
+        "dateAsStr": "2022-03-26"
+    },
+    {
+        "date": "2022-03-27T00:00:00.000Z",
+        "daily_vaccinations": 40754,
+        "daily_vaccinations_per_million": 8283,
+        "daily_people_vaccinated": 2208,
+        "daily_people_vaccinated_per_hundred": 0.045,
+        "dateAsStr": "2022-03-27"
+    },
+    {
+        "date": "2022-03-28T00:00:00.000Z",
+        "daily_vaccinations": 59559,
+        "daily_vaccinations_per_million": 12106,
+        "daily_people_vaccinated": 1767,
+        "daily_people_vaccinated_per_hundred": 0.036,
+        "dateAsStr": "2022-03-28"
+    },
+    {
+        "date": "2022-03-29T00:00:00.000Z",
+        "daily_vaccinations": 78363,
+        "daily_vaccinations_per_million": 15927,
+        "daily_people_vaccinated": 1325,
+        "daily_people_vaccinated_per_hundred": 0.027,
+        "dateAsStr": "2022-03-29"
+    },
+    {
+        "date": "2022-03-30T00:00:00.000Z",
+        "daily_vaccinations": 97167,
+        "daily_vaccinations_per_million": 19749,
+        "daily_people_vaccinated": 883,
+        "daily_people_vaccinated_per_hundred": 0.018,
+        "dateAsStr": "2022-03-30"
+    },
+    {
+        "date": "2022-03-31T00:00:00.000Z",
+        "total_vaccinations": 1821498,
+        "people_vaccinated": 923553,
+        "people_fully_vaccinated": 897945,
+        "daily_vaccinations": 115971,
+        "total_vaccinations_per_hundred": 37.02,
+        "people_vaccinated_per_hundred": 18.77,
+        "people_fully_vaccinated_per_hundred": 18.25,
+        "daily_vaccinations_per_million": 23571,
+        "daily_people_vaccinated": 442,
+        "daily_people_vaccinated_per_hundred": 0.009,
+        "dateAsStr": "2022-03-31"
     }
 ]
