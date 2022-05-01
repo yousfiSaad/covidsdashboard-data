@@ -5017,10 +5017,18 @@
     {
         "date": "2022-04-28T00:00:00.000Z",
         "total_vaccinations": 3340711000,
+        "people_vaccinated": 1284935000,
+        "people_fully_vaccinated": 1249688000,
+        "total_boosters": 750189000,
         "daily_vaccinations_raw": 2156000,
         "daily_vaccinations": 2237429,
         "total_vaccinations_per_hundred": 231.32,
+        "people_vaccinated_per_hundred": 88.97,
+        "people_fully_vaccinated_per_hundred": 86.53,
+        "total_boosters_per_hundred": 51.94,
         "daily_vaccinations_per_million": 1549,
+        "daily_people_vaccinated": 281857,
+        "daily_people_vaccinated_per_hundred": 0.02,
         "dateAsStr": "2022-04-28"
     },
     {
