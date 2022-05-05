@@ -6623,6 +6623,8 @@
         "people_fully_vaccinated_per_hundred": 29.78,
         "total_boosters_per_hundred": 10.72,
         "daily_vaccinations_per_million": 178,
+        "daily_people_vaccinated": 165,
+        "daily_people_vaccinated_per_hundred": 0.002,
         "dateAsStr": "2022-04-18"
     },
     {
@@ -6636,6 +6638,8 @@
         "people_fully_vaccinated_per_hundred": 29.78,
         "total_boosters_per_hundred": 10.73,
         "daily_vaccinations_per_million": 169,
+        "daily_people_vaccinated": 156,
+        "daily_people_vaccinated_per_hundred": 0.002,
         "dateAsStr": "2022-04-19"
     },
     {
@@ -6649,6 +6653,8 @@
         "people_fully_vaccinated_per_hundred": 29.79,
         "total_boosters_per_hundred": 10.75,
         "daily_vaccinations_per_million": 161,
+        "daily_people_vaccinated": 146,
+        "daily_people_vaccinated_per_hundred": 0.002,
         "dateAsStr": "2022-04-20"
     },
     {
@@ -6662,6 +6668,8 @@
         "people_fully_vaccinated_per_hundred": 29.79,
         "total_boosters_per_hundred": 10.76,
         "daily_vaccinations_per_million": 156,
+        "daily_people_vaccinated": 137,
+        "daily_people_vaccinated_per_hundred": 0.002,
         "dateAsStr": "2022-04-21"
     },
     {
@@ -6675,6 +6683,8 @@
         "people_fully_vaccinated_per_hundred": 29.79,
         "total_boosters_per_hundred": 10.76,
         "daily_vaccinations_per_million": 140,
+        "daily_people_vaccinated": 127,
+        "daily_people_vaccinated_per_hundred": 0.002,
         "dateAsStr": "2022-04-22"
     },
     {
@@ -6688,19 +6698,18 @@
         "people_fully_vaccinated_per_hundred": 29.79,
         "total_boosters_per_hundred": 10.76,
         "daily_vaccinations_per_million": 124,
+        "daily_people_vaccinated": 118,
+        "daily_people_vaccinated_per_hundred": 0.002,
         "dateAsStr": "2022-04-23"
     },
     {
         "date": "2022-04-24T00:00:00.000Z",
-        "total_vaccinations": 4376568,
-        "people_fully_vaccinated": 2054606,
-        "total_boosters": 742326,
-        "daily_vaccinations_raw": 11,
-        "daily_vaccinations": 738,
-        "total_vaccinations_per_hundred": 63.46,
-        "people_fully_vaccinated_per_hundred": 29.79,
-        "total_boosters_per_hundred": 10.76,
-        "daily_vaccinations_per_million": 107,
+        "people_vaccinated": 2086746,
+        "daily_vaccinations": 746,
+        "people_vaccinated_per_hundred": 30.26,
+        "daily_vaccinations_per_million": 108,
+        "daily_people_vaccinated": 108,
+        "daily_people_vaccinated_per_hundred": 0.002,
         "dateAsStr": "2022-04-24"
     },
     {
@@ -6708,7 +6717,6 @@
         "total_vaccinations": 4376702,
         "people_fully_vaccinated": 2054632,
         "total_boosters": 742428,
-        "daily_vaccinations_raw": 134,
         "daily_vaccinations": 637,
         "total_vaccinations_per_hundred": 63.46,
         "people_fully_vaccinated_per_hundred": 29.79,
@@ -6787,11 +6795,11 @@
         "people_fully_vaccinated": 2055832,
         "total_boosters": 746850,
         "daily_vaccinations_raw": 70,
-        "daily_vaccinations": 881,
+        "daily_vaccinations": 872,
         "total_vaccinations_per_hundred": 63.55,
         "people_fully_vaccinated_per_hundred": 29.81,
         "total_boosters_per_hundred": 10.83,
-        "daily_vaccinations_per_million": 128,
+        "daily_vaccinations_per_million": 126,
         "dateAsStr": "2022-05-01"
     },
     {
@@ -6819,5 +6827,18 @@
         "total_boosters_per_hundred": 10.84,
         "daily_vaccinations_per_million": 118,
         "dateAsStr": "2022-05-03"
+    },
+    {
+        "date": "2022-05-04T00:00:00.000Z",
+        "total_vaccinations": 4384884,
+        "people_fully_vaccinated": 2056369,
+        "total_boosters": 748313,
+        "daily_vaccinations_raw": 1143,
+        "daily_vaccinations": 790,
+        "total_vaccinations_per_hundred": 63.58,
+        "people_fully_vaccinated_per_hundred": 29.82,
+        "total_boosters_per_hundred": 10.85,
+        "daily_vaccinations_per_million": 115,
+        "dateAsStr": "2022-05-04"
     }
 ]
