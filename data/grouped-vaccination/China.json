@@ -5122,5 +5122,14 @@
         "total_vaccinations_per_hundred": 232.02,
         "daily_vaccinations_per_million": 784,
         "dateAsStr": "2022-05-06"
+    },
+    {
+        "date": "2022-05-07T00:00:00.000Z",
+        "total_vaccinations": 3352053000,
+        "daily_vaccinations_raw": 1119000,
+        "daily_vaccinations": 1075000,
+        "total_vaccinations_per_hundred": 232.1,
+        "daily_vaccinations_per_million": 744,
+        "dateAsStr": "2022-05-07"
     }
 ]
