@@ -4964,20 +4964,26 @@
     {
         "date": "2022-05-01T00:00:00.000Z",
         "dateAsStr": "5/1/22",
-        "cases": 104462,
-        "newCases": 6
+        "cases": 104456,
+        "newCases": 0
+    },
+    {
+        "date": "2022-05-02T00:00:00.000Z",
+        "dateAsStr": "5/2/22",
+        "cases": 104456,
+        "newCases": 0
     },
     {
         "date": "2022-05-03T00:00:00.000Z",
         "dateAsStr": "5/3/22",
-        "cases": 104456,
-        "newCases": 0
+        "cases": 104668,
+        "newCases": 212
     },
     {
         "date": "2022-05-04T00:00:00.000Z",
         "dateAsStr": "5/4/22",
         "cases": 104668,
-        "newCases": 212
+        "newCases": 0
     },
     {
         "date": "2022-05-05T00:00:00.000Z",
