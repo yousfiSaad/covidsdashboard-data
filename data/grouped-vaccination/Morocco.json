@@ -5390,15 +5390,53 @@
         "total_vaccinations": 54668746,
         "people_vaccinated": 24930030,
         "people_fully_vaccinated": 23411104,
-        "total_boosters": 6425325,
         "daily_vaccinations": 8190,
         "total_vaccinations_per_hundred": 146.39,
         "people_vaccinated_per_hundred": 66.76,
         "people_fully_vaccinated_per_hundred": 62.69,
-        "total_boosters_per_hundred": 17.21,
         "daily_vaccinations_per_million": 219,
         "daily_people_vaccinated": 978,
         "daily_people_vaccinated_per_hundred": 0.003,
         "dateAsStr": "2022-06-01"
+    },
+    {
+        "date": "2022-06-02T00:00:00.000Z",
+        "daily_vaccinations": 8527,
+        "daily_vaccinations_per_million": 228,
+        "daily_people_vaccinated": 839,
+        "daily_people_vaccinated_per_hundred": 0.002,
+        "dateAsStr": "2022-06-02"
+    },
+    {
+        "date": "2022-06-03T00:00:00.000Z",
+        "daily_vaccinations": 8864,
+        "daily_vaccinations_per_million": 237,
+        "daily_people_vaccinated": 699,
+        "daily_people_vaccinated_per_hundred": 0.002,
+        "dateAsStr": "2022-06-03"
+    },
+    {
+        "date": "2022-06-04T00:00:00.000Z",
+        "daily_vaccinations": 9201,
+        "daily_vaccinations_per_million": 246,
+        "daily_people_vaccinated": 559,
+        "daily_people_vaccinated_per_hundred": 0.001,
+        "dateAsStr": "2022-06-04"
+    },
+    {
+        "date": "2022-06-05T00:00:00.000Z",
+        "total_vaccinations": 54710937,
+        "people_vaccinated": 24930030,
+        "people_fully_vaccinated": 23411104,
+        "total_boosters": 6369803,
+        "daily_vaccinations": 9537,
+        "total_vaccinations_per_hundred": 146.5,
+        "people_vaccinated_per_hundred": 66.76,
+        "people_fully_vaccinated_per_hundred": 62.69,
+        "total_boosters_per_hundred": 17.06,
+        "daily_vaccinations_per_million": 255,
+        "daily_people_vaccinated": 419,
+        "daily_people_vaccinated_per_hundred": 0.001,
+        "dateAsStr": "2022-06-05"
     }
 ]
