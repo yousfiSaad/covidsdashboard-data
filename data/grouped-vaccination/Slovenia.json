@@ -8648,10 +8648,16 @@
     },
     {
         "date": "2022-06-19T00:00:00.000Z",
-        "total_vaccinations": 2995074,
         "daily_vaccinations": 75,
-        "total_vaccinations_per_hundred": 144.08,
         "daily_vaccinations_per_million": 36,
         "dateAsStr": "2022-06-19"
+    },
+    {
+        "date": "2022-06-20T00:00:00.000Z",
+        "total_vaccinations": 2995074,
+        "daily_vaccinations": 74,
+        "total_vaccinations_per_hundred": 144.08,
+        "daily_vaccinations_per_million": 36,
+        "dateAsStr": "2022-06-20"
     }
 ]
