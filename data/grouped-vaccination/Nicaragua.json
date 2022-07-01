@@ -4126,5 +4126,59 @@
         "daily_people_vaccinated": 7241,
         "daily_people_vaccinated_per_hundred": 0.108,
         "dateAsStr": "2022-06-24"
+    },
+    {
+        "date": "2022-06-25T00:00:00.000Z",
+        "daily_vaccinations": 25408,
+        "daily_vaccinations_per_million": 3791,
+        "daily_people_vaccinated": 6290,
+        "daily_people_vaccinated_per_hundred": 0.094,
+        "dateAsStr": "2022-06-25"
+    },
+    {
+        "date": "2022-06-26T00:00:00.000Z",
+        "daily_vaccinations": 22037,
+        "daily_vaccinations_per_million": 3288,
+        "daily_people_vaccinated": 5339,
+        "daily_people_vaccinated_per_hundred": 0.08,
+        "dateAsStr": "2022-06-26"
+    },
+    {
+        "date": "2022-06-27T00:00:00.000Z",
+        "daily_vaccinations": 18665,
+        "daily_vaccinations_per_million": 2785,
+        "daily_people_vaccinated": 4388,
+        "daily_people_vaccinated_per_hundred": 0.065,
+        "dateAsStr": "2022-06-27"
+    },
+    {
+        "date": "2022-06-28T00:00:00.000Z",
+        "daily_vaccinations": 15294,
+        "daily_vaccinations_per_million": 2282,
+        "daily_people_vaccinated": 3436,
+        "daily_people_vaccinated_per_hundred": 0.051,
+        "dateAsStr": "2022-06-28"
+    },
+    {
+        "date": "2022-06-29T00:00:00.000Z",
+        "daily_vaccinations": 11923,
+        "daily_vaccinations_per_million": 1779,
+        "daily_people_vaccinated": 2485,
+        "daily_people_vaccinated_per_hundred": 0.037,
+        "dateAsStr": "2022-06-29"
+    },
+    {
+        "date": "2022-06-30T00:00:00.000Z",
+        "total_vaccinations": 11441278,
+        "people_vaccinated": 5938231,
+        "people_fully_vaccinated": 5503047,
+        "daily_vaccinations": 14308,
+        "total_vaccinations_per_hundred": 170.7,
+        "people_vaccinated_per_hundred": 88.6,
+        "people_fully_vaccinated_per_hundred": 82.11,
+        "daily_vaccinations_per_million": 2135,
+        "daily_people_vaccinated": 2983,
+        "daily_people_vaccinated_per_hundred": 0.045,
+        "dateAsStr": "2022-06-30"
     }
 ]
