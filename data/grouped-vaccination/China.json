@@ -5789,5 +5789,32 @@
         "total_vaccinations_per_hundred": 235.67,
         "daily_vaccinations_per_million": 428,
         "dateAsStr": "2022-07-02"
+    },
+    {
+        "date": "2022-07-03T00:00:00.000Z",
+        "total_vaccinations": 3403989000,
+        "daily_vaccinations_raw": 346000,
+        "daily_vaccinations": 598000,
+        "total_vaccinations_per_hundred": 235.7,
+        "daily_vaccinations_per_million": 414,
+        "dateAsStr": "2022-07-03"
+    },
+    {
+        "date": "2022-07-04T00:00:00.000Z",
+        "total_vaccinations": 3404537000,
+        "daily_vaccinations_raw": 548000,
+        "daily_vaccinations": 590857,
+        "total_vaccinations_per_hundred": 235.74,
+        "daily_vaccinations_per_million": 409,
+        "dateAsStr": "2022-07-04"
+    },
+    {
+        "date": "2022-07-05T00:00:00.000Z",
+        "total_vaccinations": 3405158000,
+        "daily_vaccinations_raw": 621000,
+        "daily_vaccinations": 578000,
+        "total_vaccinations_per_hundred": 235.78,
+        "daily_vaccinations_per_million": 400,
+        "dateAsStr": "2022-07-05"
     }
 ]
