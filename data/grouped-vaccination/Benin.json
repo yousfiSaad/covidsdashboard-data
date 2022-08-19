@@ -3287,9 +3287,7 @@
     },
     {
         "date": "2022-06-05T00:00:00.000Z",
-        "people_fully_vaccinated": 2690085,
         "daily_vaccinations": 2213,
-        "people_fully_vaccinated_per_hundred": 20.7,
         "daily_vaccinations_per_million": 170,
         "daily_people_vaccinated": 481,
         "daily_people_vaccinated_per_hundred": 0.004,
@@ -3403,11 +3401,9 @@
         "date": "2022-06-19T00:00:00.000Z",
         "total_vaccinations": 3681560,
         "people_vaccinated": 3174135,
-        "people_fully_vaccinated": 2690085,
         "daily_vaccinations": 2213,
         "total_vaccinations_per_hundred": 28.33,
         "people_vaccinated_per_hundred": 24.42,
-        "people_fully_vaccinated_per_hundred": 20.7,
         "daily_vaccinations_per_million": 170,
         "daily_people_vaccinated": 481,
         "daily_people_vaccinated_per_hundred": 0.004,
@@ -3521,11 +3517,9 @@
         "date": "2022-07-03T00:00:00.000Z",
         "total_vaccinations": 3681560,
         "people_vaccinated": 3174135,
-        "people_fully_vaccinated": 2690085,
         "daily_vaccinations": 0,
         "total_vaccinations_per_hundred": 28.33,
         "people_vaccinated_per_hundred": 24.42,
-        "people_fully_vaccinated_per_hundred": 20.7,
         "daily_vaccinations_per_million": 0,
         "daily_people_vaccinated": 0,
         "daily_people_vaccinated_per_hundred": 0,
@@ -3807,14 +3801,74 @@
         "date": "2022-08-07T00:00:00.000Z",
         "total_vaccinations": 3681560,
         "people_vaccinated": 3190518,
-        "people_fully_vaccinated": 2690085,
         "daily_vaccinations": 0,
         "total_vaccinations_per_hundred": 28.33,
         "people_vaccinated_per_hundred": 24.55,
-        "people_fully_vaccinated_per_hundred": 20.7,
         "daily_vaccinations_per_million": 0,
         "daily_people_vaccinated": 468,
         "daily_people_vaccinated_per_hundred": 0.004,
         "dateAsStr": "2022-08-07"
+    },
+    {
+        "date": "2022-08-08T00:00:00.000Z",
+        "daily_vaccinations": 73,
+        "daily_vaccinations_per_million": 6,
+        "daily_people_vaccinated": 616,
+        "daily_people_vaccinated_per_hundred": 0.005,
+        "dateAsStr": "2022-08-08"
+    },
+    {
+        "date": "2022-08-09T00:00:00.000Z",
+        "daily_vaccinations": 145,
+        "daily_vaccinations_per_million": 11,
+        "daily_people_vaccinated": 765,
+        "daily_people_vaccinated_per_hundred": 0.006,
+        "dateAsStr": "2022-08-09"
+    },
+    {
+        "date": "2022-08-10T00:00:00.000Z",
+        "daily_vaccinations": 218,
+        "daily_vaccinations_per_million": 17,
+        "daily_people_vaccinated": 913,
+        "daily_people_vaccinated_per_hundred": 0.007,
+        "dateAsStr": "2022-08-10"
+    },
+    {
+        "date": "2022-08-11T00:00:00.000Z",
+        "daily_vaccinations": 290,
+        "daily_vaccinations_per_million": 22,
+        "daily_people_vaccinated": 1062,
+        "daily_people_vaccinated_per_hundred": 0.008,
+        "dateAsStr": "2022-08-11"
+    },
+    {
+        "date": "2022-08-12T00:00:00.000Z",
+        "daily_vaccinations": 363,
+        "daily_vaccinations_per_million": 28,
+        "daily_people_vaccinated": 1210,
+        "daily_people_vaccinated_per_hundred": 0.009,
+        "dateAsStr": "2022-08-12"
+    },
+    {
+        "date": "2022-08-13T00:00:00.000Z",
+        "daily_vaccinations": 435,
+        "daily_vaccinations_per_million": 33,
+        "daily_people_vaccinated": 1358,
+        "daily_people_vaccinated_per_hundred": 0.01,
+        "dateAsStr": "2022-08-13"
+    },
+    {
+        "date": "2022-08-14T00:00:00.000Z",
+        "total_vaccinations": 3685113,
+        "people_vaccinated": 3201065,
+        "people_fully_vaccinated": 2684742,
+        "daily_vaccinations": 508,
+        "total_vaccinations_per_hundred": 28.35,
+        "people_vaccinated_per_hundred": 24.63,
+        "people_fully_vaccinated_per_hundred": 20.66,
+        "daily_vaccinations_per_million": 39,
+        "daily_people_vaccinated": 1507,
+        "daily_people_vaccinated_per_hundred": 0.012,
+        "dateAsStr": "2022-08-14"
     }
 ]
