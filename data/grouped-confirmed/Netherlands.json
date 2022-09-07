@@ -5720,31 +5720,37 @@
     {
         "date": "2022-09-01T00:00:00.000Z",
         "dateAsStr": "9/1/22",
-        "cases": 8386189,
+        "cases": 8388554,
+        "newCases": 2365
+    },
+    {
+        "date": "2022-09-02T00:00:00.000Z",
+        "dateAsStr": "9/2/22",
+        "cases": 8388554,
         "newCases": 0
     },
     {
         "date": "2022-09-03T00:00:00.000Z",
         "dateAsStr": "9/3/22",
-        "cases": 7653265,
-        "newCases": 0
+        "cases": 8389695,
+        "newCases": 1141
     },
     {
         "date": "2022-09-04T00:00:00.000Z",
         "dateAsStr": "9/4/22",
-        "cases": 7653265,
-        "newCases": 0
+        "cases": 8390579,
+        "newCases": 884
     },
     {
         "date": "2022-09-05T00:00:00.000Z",
         "dateAsStr": "9/5/22",
-        "cases": 8388568,
-        "newCases": 735303
+        "cases": 8391380,
+        "newCases": 801
     },
     {
         "date": "2022-09-06T00:00:00.000Z",
         "dateAsStr": "9/6/22",
         "cases": 8392833,
-        "newCases": 4265
+        "newCases": 1453
     }
 ]
