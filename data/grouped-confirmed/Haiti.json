@@ -374,26 +374,26 @@
     {
         "date": "2020-03-24T00:00:00.000Z",
         "dateAsStr": "3/24/20",
-        "cases": 7,
-        "newCases": 5
+        "cases": 5,
+        "newCases": 3
     },
     {
         "date": "2020-03-25T00:00:00.000Z",
         "dateAsStr": "3/25/20",
         "cases": 7,
-        "newCases": 0
+        "newCases": 2
     },
     {
         "date": "2020-03-26T00:00:00.000Z",
         "dateAsStr": "3/26/20",
-        "cases": 8,
-        "newCases": 1
+        "cases": 7,
+        "newCases": 0
     },
     {
         "date": "2020-03-27T00:00:00.000Z",
         "dateAsStr": "3/27/20",
         "cases": 8,
-        "newCases": 0
+        "newCases": 1
     },
     {
         "date": "2020-03-28T00:00:00.000Z",
@@ -2012,26 +2012,26 @@
     {
         "date": "2020-12-22T00:00:00.000Z",
         "dateAsStr": "12/22/20",
-        "cases": 9771,
-        "newCases": 97
+        "cases": 9763,
+        "newCases": 89
     },
     {
         "date": "2020-12-23T00:00:00.000Z",
         "dateAsStr": "12/23/20",
-        "cases": 9805,
-        "newCases": 34
+        "cases": 9771,
+        "newCases": 8
     },
     {
         "date": "2020-12-24T00:00:00.000Z",
         "dateAsStr": "12/24/20",
-        "cases": 9846,
-        "newCases": 41
+        "cases": 9805,
+        "newCases": 34
     },
     {
         "date": "2020-12-25T00:00:00.000Z",
         "dateAsStr": "12/25/20",
         "cases": 9846,
-        "newCases": 0
+        "newCases": 41
     },
     {
         "date": "2020-12-26T00:00:00.000Z",
@@ -2216,14 +2216,14 @@
     {
         "date": "2021-01-25T00:00:00.000Z",
         "dateAsStr": "1/25/21",
-        "cases": 11099,
-        "newCases": 0
+        "cases": 11181,
+        "newCases": 82
     },
     {
         "date": "2021-01-26T00:00:00.000Z",
         "dateAsStr": "1/26/21",
         "cases": 11286,
-        "newCases": 187
+        "newCases": 105
     },
     {
         "date": "2021-01-27T00:00:00.000Z",
@@ -2246,3506 +2246,3500 @@
     {
         "date": "2021-01-30T00:00:00.000Z",
         "dateAsStr": "1/30/21",
-        "cases": 11460,
-        "newCases": 58
+        "cases": 11590,
+        "newCases": 188
     },
     {
         "date": "2021-01-31T00:00:00.000Z",
         "dateAsStr": "1/31/21",
-        "cases": 11533,
-        "newCases": 73
-    },
-    {
-        "date": "2021-02-01T00:00:00.000Z",
-        "dateAsStr": "2/1/21",
-        "cases": 11533,
-        "newCases": 0
-    },
-    {
-        "date": "2021-02-02T00:00:00.000Z",
-        "dateAsStr": "2/2/21",
-        "cases": 11590,
-        "newCases": 57
-    },
-    {
-        "date": "2021-02-03T00:00:00.000Z",
-        "dateAsStr": "2/3/21",
         "cases": 11672,
         "newCases": 82
     },
     {
-        "date": "2021-02-04T00:00:00.000Z",
-        "dateAsStr": "2/4/21",
+        "date": "2021-02-01T00:00:00.000Z",
+        "dateAsStr": "2/1/21",
         "cases": 11692,
         "newCases": 20
     },
     {
-        "date": "2021-02-05T00:00:00.000Z",
-        "dateAsStr": "2/5/21",
-        "cases": 11692,
-        "newCases": 0
+        "date": "2021-02-02T00:00:00.000Z",
+        "dateAsStr": "2/2/21",
+        "cases": 11705,
+        "newCases": 13
     },
     {
-        "date": "2021-02-06T00:00:00.000Z",
-        "dateAsStr": "2/6/21",
+        "date": "2021-02-03T00:00:00.000Z",
+        "dateAsStr": "2/3/21",
         "cases": 11758,
-        "newCases": 66
+        "newCases": 53
     },
     {
-        "date": "2021-02-07T00:00:00.000Z",
-        "dateAsStr": "2/7/21",
+        "date": "2021-02-04T00:00:00.000Z",
+        "dateAsStr": "2/4/21",
         "cases": 11806,
         "newCases": 48
     },
     {
-        "date": "2021-02-08T00:00:00.000Z",
-        "dateAsStr": "2/8/21",
-        "cases": 11806,
-        "newCases": 0
+        "date": "2021-02-05T00:00:00.000Z",
+        "dateAsStr": "2/5/21",
+        "cases": 11860,
+        "newCases": 54
     },
     {
-        "date": "2021-02-09T00:00:00.000Z",
-        "dateAsStr": "2/9/21",
+        "date": "2021-02-06T00:00:00.000Z",
+        "dateAsStr": "2/6/21",
         "cases": 11908,
-        "newCases": 102
+        "newCases": 48
     },
     {
-        "date": "2021-02-10T00:00:00.000Z",
-        "dateAsStr": "2/10/21",
+        "date": "2021-02-07T00:00:00.000Z",
+        "dateAsStr": "2/7/21",
         "cases": 11969,
         "newCases": 61
     },
     {
-        "date": "2021-02-11T00:00:00.000Z",
-        "dateAsStr": "2/11/21",
+        "date": "2021-02-08T00:00:00.000Z",
+        "dateAsStr": "2/8/21",
         "cases": 11991,
         "newCases": 22
     },
     {
-        "date": "2021-02-12T00:00:00.000Z",
-        "dateAsStr": "2/12/21",
+        "date": "2021-02-09T00:00:00.000Z",
+        "dateAsStr": "2/9/21",
         "cases": 12016,
         "newCases": 25
     },
     {
+        "date": "2021-02-10T00:00:00.000Z",
+        "dateAsStr": "2/10/21",
+        "cases": 12037,
+        "newCases": 21
+    },
+    {
+        "date": "2021-02-11T00:00:00.000Z",
+        "dateAsStr": "2/11/21",
+        "cases": 12114,
+        "newCases": 77
+    },
+    {
+        "date": "2021-02-12T00:00:00.000Z",
+        "dateAsStr": "2/12/21",
+        "cases": 12143,
+        "newCases": 29
+    },
+    {
         "date": "2021-02-13T00:00:00.000Z",
         "dateAsStr": "2/13/21",
-        "cases": 12016,
-        "newCases": 0
+        "cases": 12192,
+        "newCases": 49
     },
     {
         "date": "2021-02-14T00:00:00.000Z",
         "dateAsStr": "2/14/21",
-        "cases": 12143,
-        "newCases": 127
+        "cases": 12206,
+        "newCases": 14
     },
     {
         "date": "2021-02-15T00:00:00.000Z",
         "dateAsStr": "2/15/21",
-        "cases": 12143,
+        "cases": 12206,
         "newCases": 0
     },
     {
         "date": "2021-02-16T00:00:00.000Z",
         "dateAsStr": "2/16/21",
-        "cases": 12192,
-        "newCases": 49
+        "cases": 12236,
+        "newCases": 30
     },
     {
         "date": "2021-02-17T00:00:00.000Z",
         "dateAsStr": "2/17/21",
-        "cases": 12206,
-        "newCases": 14
+        "cases": 12254,
+        "newCases": 18
     },
     {
         "date": "2021-02-18T00:00:00.000Z",
         "dateAsStr": "2/18/21",
-        "cases": 12206,
-        "newCases": 0
-    },
-    {
-        "date": "2021-02-19T00:00:00.000Z",
-        "dateAsStr": "2/19/21",
-        "cases": 12206,
-        "newCases": 0
-    },
-    {
-        "date": "2021-02-20T00:00:00.000Z",
-        "dateAsStr": "2/20/21",
-        "cases": 12254,
-        "newCases": 48
-    },
-    {
-        "date": "2021-02-21T00:00:00.000Z",
-        "dateAsStr": "2/21/21",
         "cases": 12274,
         "newCases": 20
     },
     {
-        "date": "2021-02-22T00:00:00.000Z",
-        "dateAsStr": "2/22/21",
+        "date": "2021-02-19T00:00:00.000Z",
+        "dateAsStr": "2/19/21",
         "cases": 12309,
         "newCases": 35
     },
     {
+        "date": "2021-02-20T00:00:00.000Z",
+        "dateAsStr": "2/20/21",
+        "cases": 12325,
+        "newCases": 16
+    },
+    {
+        "date": "2021-02-21T00:00:00.000Z",
+        "dateAsStr": "2/21/21",
+        "cases": 12352,
+        "newCases": 27
+    },
+    {
+        "date": "2021-02-22T00:00:00.000Z",
+        "dateAsStr": "2/22/21",
+        "cases": 12354,
+        "newCases": 2
+    },
+    {
         "date": "2021-02-23T00:00:00.000Z",
         "dateAsStr": "2/23/21",
-        "cases": 12309,
-        "newCases": 0
+        "cases": 12390,
+        "newCases": 36
     },
     {
         "date": "2021-02-24T00:00:00.000Z",
         "dateAsStr": "2/24/21",
-        "cases": 12352,
-        "newCases": 43
+        "cases": 12430,
+        "newCases": 40
     },
     {
         "date": "2021-02-25T00:00:00.000Z",
         "dateAsStr": "2/25/21",
-        "cases": 12352,
-        "newCases": 0
-    },
-    {
-        "date": "2021-02-26T00:00:00.000Z",
-        "dateAsStr": "2/26/21",
-        "cases": 12352,
-        "newCases": 0
-    },
-    {
-        "date": "2021-02-27T00:00:00.000Z",
-        "dateAsStr": "2/27/21",
-        "cases": 12430,
-        "newCases": 78
-    },
-    {
-        "date": "2021-02-28T00:00:00.000Z",
-        "dateAsStr": "2/28/21",
-        "cases": 12430,
-        "newCases": 0
-    },
-    {
-        "date": "2021-03-01T00:00:00.000Z",
-        "dateAsStr": "3/1/21",
         "cases": 12448,
         "newCases": 18
     },
     {
-        "date": "2021-03-02T00:00:00.000Z",
-        "dateAsStr": "3/2/21",
-        "cases": 12493,
-        "newCases": 45
+        "date": "2021-02-26T00:00:00.000Z",
+        "dateAsStr": "2/26/21",
+        "cases": 12474,
+        "newCases": 26
     },
     {
-        "date": "2021-03-03T00:00:00.000Z",
-        "dateAsStr": "3/3/21",
+        "date": "2021-02-27T00:00:00.000Z",
+        "dateAsStr": "2/27/21",
+        "cases": 12493,
+        "newCases": 19
+    },
+    {
+        "date": "2021-02-28T00:00:00.000Z",
+        "dateAsStr": "2/28/21",
         "cases": 12531,
         "newCases": 38
     },
     {
-        "date": "2021-03-04T00:00:00.000Z",
-        "dateAsStr": "3/4/21",
+        "date": "2021-03-01T00:00:00.000Z",
+        "dateAsStr": "3/1/21",
         "cases": 12536,
         "newCases": 5
+    },
+    {
+        "date": "2021-03-02T00:00:00.000Z",
+        "dateAsStr": "3/2/21",
+        "cases": 12554,
+        "newCases": 18
+    },
+    {
+        "date": "2021-03-03T00:00:00.000Z",
+        "dateAsStr": "3/3/21",
+        "cases": 12559,
+        "newCases": 5
+    },
+    {
+        "date": "2021-03-04T00:00:00.000Z",
+        "dateAsStr": "3/4/21",
+        "cases": 12577,
+        "newCases": 18
     },
     {
         "date": "2021-03-05T00:00:00.000Z",
         "dateAsStr": "3/5/21",
-        "cases": 12536,
-        "newCases": 0
+        "cases": 12594,
+        "newCases": 17
     },
     {
         "date": "2021-03-06T00:00:00.000Z",
         "dateAsStr": "3/6/21",
-        "cases": 12536,
-        "newCases": 0
+        "cases": 12614,
+        "newCases": 20
     },
     {
         "date": "2021-03-07T00:00:00.000Z",
         "dateAsStr": "3/7/21",
-        "cases": 12536,
-        "newCases": 0
+        "cases": 12632,
+        "newCases": 18
     },
     {
         "date": "2021-03-08T00:00:00.000Z",
         "dateAsStr": "3/8/21",
-        "cases": 12536,
-        "newCases": 0
+        "cases": 12647,
+        "newCases": 15
     },
     {
         "date": "2021-03-09T00:00:00.000Z",
         "dateAsStr": "3/9/21",
-        "cases": 12536,
-        "newCases": 0
+        "cases": 12663,
+        "newCases": 16
     },
     {
         "date": "2021-03-10T00:00:00.000Z",
         "dateAsStr": "3/10/21",
-        "cases": 12594,
-        "newCases": 58
+        "cases": 12664,
+        "newCases": 1
     },
     {
         "date": "2021-03-11T00:00:00.000Z",
         "dateAsStr": "3/11/21",
-        "cases": 12594,
-        "newCases": 0
-    },
-    {
-        "date": "2021-03-12T00:00:00.000Z",
-        "dateAsStr": "3/12/21",
-        "cases": 12632,
-        "newCases": 38
-    },
-    {
-        "date": "2021-03-13T00:00:00.000Z",
-        "dateAsStr": "3/13/21",
-        "cases": 12632,
-        "newCases": 0
-    },
-    {
-        "date": "2021-03-14T00:00:00.000Z",
-        "dateAsStr": "3/14/21",
-        "cases": 12632,
-        "newCases": 0
-    },
-    {
-        "date": "2021-03-15T00:00:00.000Z",
-        "dateAsStr": "3/15/21",
-        "cases": 12632,
-        "newCases": 0
-    },
-    {
-        "date": "2021-03-16T00:00:00.000Z",
-        "dateAsStr": "3/16/21",
-        "cases": 12664,
-        "newCases": 32
-    },
-    {
-        "date": "2021-03-17T00:00:00.000Z",
-        "dateAsStr": "3/17/21",
         "cases": 12669,
         "newCases": 5
     },
     {
-        "date": "2021-03-18T00:00:00.000Z",
-        "dateAsStr": "3/18/21",
+        "date": "2021-03-12T00:00:00.000Z",
+        "dateAsStr": "3/12/21",
         "cases": 12686,
         "newCases": 17
     },
     {
+        "date": "2021-03-13T00:00:00.000Z",
+        "dateAsStr": "3/13/21",
+        "cases": 12688,
+        "newCases": 2
+    },
+    {
+        "date": "2021-03-14T00:00:00.000Z",
+        "dateAsStr": "3/14/21",
+        "cases": 12698,
+        "newCases": 10
+    },
+    {
+        "date": "2021-03-15T00:00:00.000Z",
+        "dateAsStr": "3/15/21",
+        "cases": 12700,
+        "newCases": 2
+    },
+    {
+        "date": "2021-03-16T00:00:00.000Z",
+        "dateAsStr": "3/16/21",
+        "cases": 12714,
+        "newCases": 14
+    },
+    {
+        "date": "2021-03-17T00:00:00.000Z",
+        "dateAsStr": "3/17/21",
+        "cases": 12722,
+        "newCases": 8
+    },
+    {
+        "date": "2021-03-18T00:00:00.000Z",
+        "dateAsStr": "3/18/21",
+        "cases": 12730,
+        "newCases": 8
+    },
+    {
         "date": "2021-03-19T00:00:00.000Z",
         "dateAsStr": "3/19/21",
-        "cases": 12688,
+        "cases": 12732,
         "newCases": 2
     },
     {
         "date": "2021-03-20T00:00:00.000Z",
         "dateAsStr": "3/20/21",
-        "cases": 12700,
-        "newCases": 12
+        "cases": 12736,
+        "newCases": 4
     },
     {
         "date": "2021-03-21T00:00:00.000Z",
         "dateAsStr": "3/21/21",
-        "cases": 12714,
-        "newCases": 14
+        "cases": 12758,
+        "newCases": 22
     },
     {
         "date": "2021-03-22T00:00:00.000Z",
         "dateAsStr": "3/22/21",
-        "cases": 12714,
-        "newCases": 0
+        "cases": 12760,
+        "newCases": 2
     },
     {
         "date": "2021-03-23T00:00:00.000Z",
         "dateAsStr": "3/23/21",
-        "cases": 12722,
-        "newCases": 8
+        "cases": 12762,
+        "newCases": 2
     },
     {
         "date": "2021-03-24T00:00:00.000Z",
         "dateAsStr": "3/24/21",
-        "cases": 12732,
-        "newCases": 10
+        "cases": 12779,
+        "newCases": 17
     },
     {
         "date": "2021-03-25T00:00:00.000Z",
         "dateAsStr": "3/25/21",
-        "cases": 12732,
-        "newCases": 0
+        "cases": 12788,
+        "newCases": 9
     },
     {
         "date": "2021-03-26T00:00:00.000Z",
         "dateAsStr": "3/26/21",
-        "cases": 12736,
+        "cases": 12792,
         "newCases": 4
     },
     {
         "date": "2021-03-27T00:00:00.000Z",
         "dateAsStr": "3/27/21",
-        "cases": 12736,
-        "newCases": 0
+        "cases": 12797,
+        "newCases": 5
     },
     {
         "date": "2021-03-28T00:00:00.000Z",
         "dateAsStr": "3/28/21",
-        "cases": 12736,
-        "newCases": 0
+        "cases": 12803,
+        "newCases": 6
     },
     {
         "date": "2021-03-29T00:00:00.000Z",
         "dateAsStr": "3/29/21",
-        "cases": 12736,
+        "cases": 12803,
         "newCases": 0
     },
     {
         "date": "2021-03-30T00:00:00.000Z",
         "dateAsStr": "3/30/21",
-        "cases": 12758,
-        "newCases": 22
+        "cases": 12807,
+        "newCases": 4
     },
     {
         "date": "2021-03-31T00:00:00.000Z",
         "dateAsStr": "3/31/21",
-        "cases": 12758,
-        "newCases": 0
+        "cases": 12816,
+        "newCases": 9
     },
     {
         "date": "2021-04-01T00:00:00.000Z",
         "dateAsStr": "4/1/21",
-        "cases": 12762,
-        "newCases": 4
+        "cases": 12840,
+        "newCases": 24
     },
     {
         "date": "2021-04-02T00:00:00.000Z",
         "dateAsStr": "4/2/21",
-        "cases": 12788,
-        "newCases": 26
+        "cases": 12852,
+        "newCases": 12
     },
     {
         "date": "2021-04-03T00:00:00.000Z",
         "dateAsStr": "4/3/21",
-        "cases": 12788,
-        "newCases": 0
+        "cases": 12855,
+        "newCases": 3
     },
     {
         "date": "2021-04-04T00:00:00.000Z",
         "dateAsStr": "4/4/21",
-        "cases": 12788,
-        "newCases": 0
+        "cases": 12857,
+        "newCases": 2
     },
     {
         "date": "2021-04-05T00:00:00.000Z",
         "dateAsStr": "4/5/21",
-        "cases": 12788,
+        "cases": 12857,
         "newCases": 0
     },
     {
         "date": "2021-04-06T00:00:00.000Z",
         "dateAsStr": "4/6/21",
-        "cases": 12803,
-        "newCases": 15
+        "cases": 12863,
+        "newCases": 6
     },
     {
         "date": "2021-04-07T00:00:00.000Z",
         "dateAsStr": "4/7/21",
-        "cases": 12803,
-        "newCases": 0
+        "cases": 12876,
+        "newCases": 13
     },
     {
         "date": "2021-04-08T00:00:00.000Z",
         "dateAsStr": "4/8/21",
-        "cases": 12803,
-        "newCases": 0
+        "cases": 12885,
+        "newCases": 9
     },
     {
         "date": "2021-04-09T00:00:00.000Z",
         "dateAsStr": "4/9/21",
-        "cases": 12816,
-        "newCases": 13
+        "cases": 12906,
+        "newCases": 21
     },
     {
         "date": "2021-04-10T00:00:00.000Z",
         "dateAsStr": "4/10/21",
-        "cases": 12840,
-        "newCases": 24
+        "cases": 12918,
+        "newCases": 12
     },
     {
         "date": "2021-04-11T00:00:00.000Z",
         "dateAsStr": "4/11/21",
-        "cases": 12840,
-        "newCases": 0
+        "cases": 12920,
+        "newCases": 2
     },
     {
         "date": "2021-04-12T00:00:00.000Z",
         "dateAsStr": "4/12/21",
-        "cases": 12840,
-        "newCases": 0
+        "cases": 12937,
+        "newCases": 17
     },
     {
         "date": "2021-04-13T00:00:00.000Z",
         "dateAsStr": "4/13/21",
-        "cases": 12855,
-        "newCases": 15
+        "cases": 12938,
+        "newCases": 1
     },
     {
         "date": "2021-04-14T00:00:00.000Z",
         "dateAsStr": "4/14/21",
-        "cases": 12855,
-        "newCases": 0
+        "cases": 12944,
+        "newCases": 6
     },
     {
         "date": "2021-04-15T00:00:00.000Z",
         "dateAsStr": "4/15/21",
-        "cases": 12857,
-        "newCases": 2
+        "cases": 12958,
+        "newCases": 14
     },
     {
         "date": "2021-04-16T00:00:00.000Z",
         "dateAsStr": "4/16/21",
-        "cases": 12876,
+        "cases": 12977,
         "newCases": 19
     },
     {
         "date": "2021-04-17T00:00:00.000Z",
         "dateAsStr": "4/17/21",
-        "cases": 12885,
-        "newCases": 9
+        "cases": 12999,
+        "newCases": 22
     },
     {
         "date": "2021-04-18T00:00:00.000Z",
         "dateAsStr": "4/18/21",
-        "cases": 12918,
-        "newCases": 33
+        "cases": 13005,
+        "newCases": 6
     },
     {
         "date": "2021-04-19T00:00:00.000Z",
         "dateAsStr": "4/19/21",
-        "cases": 12918,
-        "newCases": 0
+        "cases": 13006,
+        "newCases": 1
     },
     {
         "date": "2021-04-20T00:00:00.000Z",
         "dateAsStr": "4/20/21",
-        "cases": 12918,
-        "newCases": 0
+        "cases": 13017,
+        "newCases": 11
     },
     {
         "date": "2021-04-21T00:00:00.000Z",
         "dateAsStr": "4/21/21",
-        "cases": 12918,
-        "newCases": 0
+        "cases": 13031,
+        "newCases": 14
     },
     {
         "date": "2021-04-22T00:00:00.000Z",
         "dateAsStr": "4/22/21",
-        "cases": 12944,
-        "newCases": 26
+        "cases": 13044,
+        "newCases": 13
     },
     {
         "date": "2021-04-23T00:00:00.000Z",
         "dateAsStr": "4/23/21",
-        "cases": 12944,
-        "newCases": 0
+        "cases": 13056,
+        "newCases": 12
     },
     {
         "date": "2021-04-24T00:00:00.000Z",
         "dateAsStr": "4/24/21",
-        "cases": 12944,
-        "newCases": 0
+        "cases": 13078,
+        "newCases": 22
     },
     {
         "date": "2021-04-25T00:00:00.000Z",
         "dateAsStr": "4/25/21",
-        "cases": 12958,
-        "newCases": 14
+        "cases": 13094,
+        "newCases": 16
     },
     {
         "date": "2021-04-26T00:00:00.000Z",
         "dateAsStr": "4/26/21",
-        "cases": 12958,
-        "newCases": 0
+        "cases": 13096,
+        "newCases": 2
     },
     {
         "date": "2021-04-27T00:00:00.000Z",
         "dateAsStr": "4/27/21",
-        "cases": 12999,
-        "newCases": 41
+        "cases": 13101,
+        "newCases": 5
     },
     {
         "date": "2021-04-28T00:00:00.000Z",
         "dateAsStr": "4/28/21",
-        "cases": 13017,
+        "cases": 13119,
         "newCases": 18
     },
     {
         "date": "2021-04-29T00:00:00.000Z",
         "dateAsStr": "4/29/21",
-        "cases": 13017,
-        "newCases": 0
+        "cases": 13135,
+        "newCases": 16
     },
     {
         "date": "2021-04-30T00:00:00.000Z",
         "dateAsStr": "4/30/21",
-        "cases": 13056,
-        "newCases": 39
-    },
-    {
-        "date": "2021-05-01T00:00:00.000Z",
-        "dateAsStr": "5/1/21",
-        "cases": 13056,
-        "newCases": 0
-    },
-    {
-        "date": "2021-05-02T00:00:00.000Z",
-        "dateAsStr": "5/2/21",
-        "cases": 13094,
-        "newCases": 38
-    },
-    {
-        "date": "2021-05-03T00:00:00.000Z",
-        "dateAsStr": "5/3/21",
-        "cases": 13094,
-        "newCases": 0
-    },
-    {
-        "date": "2021-05-04T00:00:00.000Z",
-        "dateAsStr": "5/4/21",
-        "cases": 13135,
-        "newCases": 41
-    },
-    {
-        "date": "2021-05-05T00:00:00.000Z",
-        "dateAsStr": "5/5/21",
         "cases": 13149,
         "newCases": 14
     },
     {
-        "date": "2021-05-06T00:00:00.000Z",
-        "dateAsStr": "5/6/21",
+        "date": "2021-05-01T00:00:00.000Z",
+        "dateAsStr": "5/1/21",
         "cases": 13164,
         "newCases": 15
+    },
+    {
+        "date": "2021-05-02T00:00:00.000Z",
+        "dateAsStr": "5/2/21",
+        "cases": 13170,
+        "newCases": 6
+    },
+    {
+        "date": "2021-05-03T00:00:00.000Z",
+        "dateAsStr": "5/3/21",
+        "cases": 13179,
+        "newCases": 9
+    },
+    {
+        "date": "2021-05-04T00:00:00.000Z",
+        "dateAsStr": "5/4/21",
+        "cases": 13193,
+        "newCases": 14
+    },
+    {
+        "date": "2021-05-05T00:00:00.000Z",
+        "dateAsStr": "5/5/21",
+        "cases": 13210,
+        "newCases": 17
+    },
+    {
+        "date": "2021-05-06T00:00:00.000Z",
+        "dateAsStr": "5/6/21",
+        "cases": 13227,
+        "newCases": 17
     },
     {
         "date": "2021-05-07T00:00:00.000Z",
         "dateAsStr": "5/7/21",
-        "cases": 13164,
-        "newCases": 0
+        "cases": 13245,
+        "newCases": 18
     },
     {
         "date": "2021-05-08T00:00:00.000Z",
         "dateAsStr": "5/8/21",
-        "cases": 13164,
-        "newCases": 0
+        "cases": 13255,
+        "newCases": 10
     },
     {
         "date": "2021-05-09T00:00:00.000Z",
         "dateAsStr": "5/9/21",
-        "cases": 13164,
-        "newCases": 0
+        "cases": 13267,
+        "newCases": 12
     },
     {
         "date": "2021-05-10T00:00:00.000Z",
         "dateAsStr": "5/10/21",
-        "cases": 13164,
-        "newCases": 0
+        "cases": 13268,
+        "newCases": 1
     },
     {
         "date": "2021-05-11T00:00:00.000Z",
         "dateAsStr": "5/11/21",
-        "cases": 13179,
-        "newCases": 15
+        "cases": 13305,
+        "newCases": 37
     },
     {
         "date": "2021-05-12T00:00:00.000Z",
         "dateAsStr": "5/12/21",
-        "cases": 13227,
+        "cases": 13353,
         "newCases": 48
     },
     {
         "date": "2021-05-13T00:00:00.000Z",
         "dateAsStr": "5/13/21",
-        "cases": 13255,
-        "newCases": 28
-    },
-    {
-        "date": "2021-05-14T00:00:00.000Z",
-        "dateAsStr": "5/14/21",
-        "cases": 13268,
-        "newCases": 13
-    },
-    {
-        "date": "2021-05-15T00:00:00.000Z",
-        "dateAsStr": "5/15/21",
-        "cases": 13353,
-        "newCases": 85
-    },
-    {
-        "date": "2021-05-16T00:00:00.000Z",
-        "dateAsStr": "5/16/21",
         "cases": 13393,
         "newCases": 40
     },
     {
-        "date": "2021-05-17T00:00:00.000Z",
-        "dateAsStr": "5/17/21",
+        "date": "2021-05-14T00:00:00.000Z",
+        "dateAsStr": "5/14/21",
         "cases": 13460,
         "newCases": 67
     },
     {
-        "date": "2021-05-18T00:00:00.000Z",
-        "dateAsStr": "5/18/21",
+        "date": "2021-05-15T00:00:00.000Z",
+        "dateAsStr": "5/15/21",
         "cases": 13520,
         "newCases": 60
     },
     {
-        "date": "2021-05-19T00:00:00.000Z",
-        "dateAsStr": "5/19/21",
+        "date": "2021-05-16T00:00:00.000Z",
+        "dateAsStr": "5/16/21",
         "cases": 13598,
         "newCases": 78
     },
     {
-        "date": "2021-05-20T00:00:00.000Z",
-        "dateAsStr": "5/20/21",
-        "cases": 13598,
-        "newCases": 0
-    },
-    {
-        "date": "2021-05-21T00:00:00.000Z",
-        "dateAsStr": "5/21/21",
+        "date": "2021-05-17T00:00:00.000Z",
+        "dateAsStr": "5/17/21",
         "cases": 13624,
         "newCases": 26
     },
     {
+        "date": "2021-05-18T00:00:00.000Z",
+        "dateAsStr": "5/18/21",
+        "cases": 13668,
+        "newCases": 44
+    },
+    {
+        "date": "2021-05-19T00:00:00.000Z",
+        "dateAsStr": "5/19/21",
+        "cases": 13735,
+        "newCases": 67
+    },
+    {
+        "date": "2021-05-20T00:00:00.000Z",
+        "dateAsStr": "5/20/21",
+        "cases": 13843,
+        "newCases": 108
+    },
+    {
+        "date": "2021-05-21T00:00:00.000Z",
+        "dateAsStr": "5/21/21",
+        "cases": 13906,
+        "newCases": 63
+    },
+    {
         "date": "2021-05-22T00:00:00.000Z",
         "dateAsStr": "5/22/21",
-        "cases": 13624,
-        "newCases": 0
-    },
-    {
-        "date": "2021-05-23T00:00:00.000Z",
-        "dateAsStr": "5/23/21",
-        "cases": 13735,
-        "newCases": 111
-    },
-    {
-        "date": "2021-05-24T00:00:00.000Z",
-        "dateAsStr": "5/24/21",
-        "cases": 13906,
-        "newCases": 171
-    },
-    {
-        "date": "2021-05-25T00:00:00.000Z",
-        "dateAsStr": "5/25/21",
-        "cases": 13906,
-        "newCases": 0
-    },
-    {
-        "date": "2021-05-26T00:00:00.000Z",
-        "dateAsStr": "5/26/21",
         "cases": 14037,
         "newCases": 131
     },
     {
-        "date": "2021-05-27T00:00:00.000Z",
-        "dateAsStr": "5/27/21",
-        "cases": 14037,
-        "newCases": 0
-    },
-    {
-        "date": "2021-05-28T00:00:00.000Z",
-        "dateAsStr": "5/28/21",
-        "cases": 14037,
-        "newCases": 0
-    },
-    {
-        "date": "2021-05-29T00:00:00.000Z",
-        "dateAsStr": "5/29/21",
+        "date": "2021-05-23T00:00:00.000Z",
+        "dateAsStr": "5/23/21",
         "cases": 14128,
         "newCases": 91
     },
     {
-        "date": "2021-05-30T00:00:00.000Z",
-        "dateAsStr": "5/30/21",
+        "date": "2021-05-24T00:00:00.000Z",
+        "dateAsStr": "5/24/21",
         "cases": 14258,
         "newCases": 130
     },
     {
-        "date": "2021-05-31T00:00:00.000Z",
-        "dateAsStr": "5/31/21",
+        "date": "2021-05-25T00:00:00.000Z",
+        "dateAsStr": "5/25/21",
         "cases": 14351,
         "newCases": 93
     },
     {
-        "date": "2021-06-01T00:00:00.000Z",
-        "dateAsStr": "6/1/21",
-        "cases": 14565,
-        "newCases": 214
+        "date": "2021-05-26T00:00:00.000Z",
+        "dateAsStr": "5/26/21",
+        "cases": 14453,
+        "newCases": 102
     },
     {
-        "date": "2021-06-02T00:00:00.000Z",
-        "dateAsStr": "6/2/21",
+        "date": "2021-05-27T00:00:00.000Z",
+        "dateAsStr": "5/27/21",
+        "cases": 14565,
+        "newCases": 112
+    },
+    {
+        "date": "2021-05-28T00:00:00.000Z",
+        "dateAsStr": "5/28/21",
         "cases": 14711,
         "newCases": 146
     },
     {
-        "date": "2021-06-03T00:00:00.000Z",
-        "dateAsStr": "6/3/21",
+        "date": "2021-05-29T00:00:00.000Z",
+        "dateAsStr": "5/29/21",
         "cases": 14931,
         "newCases": 220
     },
     {
-        "date": "2021-06-04T00:00:00.000Z",
-        "dateAsStr": "6/4/21",
-        "cases": 15058,
-        "newCases": 127
+        "date": "2021-05-30T00:00:00.000Z",
+        "dateAsStr": "5/30/21",
+        "cases": 15045,
+        "newCases": 114
     },
     {
-        "date": "2021-06-05T00:00:00.000Z",
-        "dateAsStr": "6/5/21",
+        "date": "2021-05-31T00:00:00.000Z",
+        "dateAsStr": "5/31/21",
         "cases": 15123,
-        "newCases": 65
+        "newCases": 78
     },
     {
-        "date": "2021-06-06T00:00:00.000Z",
-        "dateAsStr": "6/6/21",
+        "date": "2021-06-01T00:00:00.000Z",
+        "dateAsStr": "6/1/21",
         "cases": 15282,
         "newCases": 159
     },
     {
-        "date": "2021-06-07T00:00:00.000Z",
-        "dateAsStr": "6/7/21",
+        "date": "2021-06-02T00:00:00.000Z",
+        "dateAsStr": "6/2/21",
         "cases": 15435,
         "newCases": 153
     },
     {
-        "date": "2021-06-08T00:00:00.000Z",
-        "dateAsStr": "6/8/21",
-        "cases": 15895,
-        "newCases": 460
+        "date": "2021-06-03T00:00:00.000Z",
+        "dateAsStr": "6/3/21",
+        "cases": 15604,
+        "newCases": 169
     },
     {
-        "date": "2021-06-09T00:00:00.000Z",
-        "dateAsStr": "6/9/21",
+        "date": "2021-06-04T00:00:00.000Z",
+        "dateAsStr": "6/4/21",
+        "cases": 15754,
+        "newCases": 150
+    },
+    {
+        "date": "2021-06-05T00:00:00.000Z",
+        "dateAsStr": "6/5/21",
+        "cases": 15895,
+        "newCases": 141
+    },
+    {
+        "date": "2021-06-06T00:00:00.000Z",
+        "dateAsStr": "6/6/21",
         "cases": 16001,
         "newCases": 106
     },
     {
-        "date": "2021-06-10T00:00:00.000Z",
-        "dateAsStr": "6/10/21",
-        "cases": 16001,
-        "newCases": 0
-    },
-    {
-        "date": "2021-06-11T00:00:00.000Z",
-        "dateAsStr": "6/11/21",
+        "date": "2021-06-07T00:00:00.000Z",
+        "dateAsStr": "6/7/21",
         "cases": 16079,
         "newCases": 78
     },
     {
+        "date": "2021-06-08T00:00:00.000Z",
+        "dateAsStr": "6/8/21",
+        "cases": 16206,
+        "newCases": 127
+    },
+    {
+        "date": "2021-06-09T00:00:00.000Z",
+        "dateAsStr": "6/9/21",
+        "cases": 16356,
+        "newCases": 150
+    },
+    {
+        "date": "2021-06-10T00:00:00.000Z",
+        "dateAsStr": "6/10/21",
+        "cases": 16561,
+        "newCases": 205
+    },
+    {
+        "date": "2021-06-11T00:00:00.000Z",
+        "dateAsStr": "6/11/21",
+        "cases": 16662,
+        "newCases": 101
+    },
+    {
         "date": "2021-06-12T00:00:00.000Z",
         "dateAsStr": "6/12/21",
-        "cases": 16079,
-        "newCases": 0
+        "cases": 16775,
+        "newCases": 113
     },
     {
         "date": "2021-06-13T00:00:00.000Z",
         "dateAsStr": "6/13/21",
-        "cases": 16079,
-        "newCases": 0
+        "cases": 16859,
+        "newCases": 84
     },
     {
         "date": "2021-06-14T00:00:00.000Z",
         "dateAsStr": "6/14/21",
-        "cases": 16561,
-        "newCases": 482
+        "cases": 16966,
+        "newCases": 107
     },
     {
         "date": "2021-06-15T00:00:00.000Z",
         "dateAsStr": "6/15/21",
-        "cases": 16662,
-        "newCases": 101
+        "cases": 17048,
+        "newCases": 82
     },
     {
         "date": "2021-06-16T00:00:00.000Z",
         "dateAsStr": "6/16/21",
-        "cases": 16662,
-        "newCases": 0
+        "cases": 17239,
+        "newCases": 191
     },
     {
         "date": "2021-06-17T00:00:00.000Z",
         "dateAsStr": "6/17/21",
-        "cases": 16859,
-        "newCases": 197
+        "cases": 17371,
+        "newCases": 132
     },
     {
         "date": "2021-06-18T00:00:00.000Z",
         "dateAsStr": "6/18/21",
-        "cases": 16859,
-        "newCases": 0
+        "cases": 17603,
+        "newCases": 232
     },
     {
         "date": "2021-06-19T00:00:00.000Z",
         "dateAsStr": "6/19/21",
-        "cases": 16859,
-        "newCases": 0
+        "cases": 17710,
+        "newCases": 107
     },
     {
         "date": "2021-06-20T00:00:00.000Z",
         "dateAsStr": "6/20/21",
-        "cases": 16859,
-        "newCases": 0
+        "cases": 17902,
+        "newCases": 192
     },
     {
         "date": "2021-06-21T00:00:00.000Z",
         "dateAsStr": "6/21/21",
-        "cases": 17061,
-        "newCases": 202
+        "cases": 17963,
+        "newCases": 61
     },
     {
         "date": "2021-06-22T00:00:00.000Z",
         "dateAsStr": "6/22/21",
-        "cases": 17061,
-        "newCases": 0
+        "cases": 18073,
+        "newCases": 110
     },
     {
         "date": "2021-06-23T00:00:00.000Z",
         "dateAsStr": "6/23/21",
-        "cases": 17603,
-        "newCases": 542
+        "cases": 18212,
+        "newCases": 139
     },
     {
         "date": "2021-06-24T00:00:00.000Z",
         "dateAsStr": "6/24/21",
-        "cases": 17603,
-        "newCases": 0
-    },
-    {
-        "date": "2021-06-25T00:00:00.000Z",
-        "dateAsStr": "6/25/21",
-        "cases": 17963,
-        "newCases": 360
-    },
-    {
-        "date": "2021-06-26T00:00:00.000Z",
-        "dateAsStr": "6/26/21",
-        "cases": 17963,
-        "newCases": 0
-    },
-    {
-        "date": "2021-06-27T00:00:00.000Z",
-        "dateAsStr": "6/27/21",
-        "cases": 17963,
-        "newCases": 0
-    },
-    {
-        "date": "2021-06-28T00:00:00.000Z",
-        "dateAsStr": "6/28/21",
-        "cases": 18212,
-        "newCases": 249
-    },
-    {
-        "date": "2021-06-29T00:00:00.000Z",
-        "dateAsStr": "6/29/21",
         "cases": 18341,
         "newCases": 129
     },
     {
-        "date": "2021-06-30T00:00:00.000Z",
-        "dateAsStr": "6/30/21",
-        "cases": 18562,
-        "newCases": 221
+        "date": "2021-06-25T00:00:00.000Z",
+        "dateAsStr": "6/25/21",
+        "cases": 18460,
+        "newCases": 119
     },
     {
-        "date": "2021-07-01T00:00:00.000Z",
-        "dateAsStr": "7/1/21",
+        "date": "2021-06-26T00:00:00.000Z",
+        "dateAsStr": "6/26/21",
+        "cases": 18562,
+        "newCases": 102
+    },
+    {
+        "date": "2021-06-27T00:00:00.000Z",
+        "dateAsStr": "6/27/21",
         "cases": 18658,
         "newCases": 96
     },
     {
+        "date": "2021-06-28T00:00:00.000Z",
+        "dateAsStr": "6/28/21",
+        "cases": 18665,
+        "newCases": 7
+    },
+    {
+        "date": "2021-06-29T00:00:00.000Z",
+        "dateAsStr": "6/29/21",
+        "cases": 18737,
+        "newCases": 72
+    },
+    {
+        "date": "2021-06-30T00:00:00.000Z",
+        "dateAsStr": "6/30/21",
+        "cases": 18844,
+        "newCases": 107
+    },
+    {
+        "date": "2021-07-01T00:00:00.000Z",
+        "dateAsStr": "7/1/21",
+        "cases": 18952,
+        "newCases": 108
+    },
+    {
         "date": "2021-07-02T00:00:00.000Z",
         "dateAsStr": "7/2/21",
-        "cases": 18658,
-        "newCases": 0
+        "cases": 19053,
+        "newCases": 101
     },
     {
         "date": "2021-07-03T00:00:00.000Z",
         "dateAsStr": "7/3/21",
-        "cases": 18658,
-        "newCases": 0
+        "cases": 19107,
+        "newCases": 54
     },
     {
         "date": "2021-07-04T00:00:00.000Z",
         "dateAsStr": "7/4/21",
-        "cases": 18658,
-        "newCases": 0
-    },
-    {
-        "date": "2021-07-05T00:00:00.000Z",
-        "dateAsStr": "7/5/21",
-        "cases": 18952,
-        "newCases": 294
-    },
-    {
-        "date": "2021-07-06T00:00:00.000Z",
-        "dateAsStr": "7/6/21",
-        "cases": 19107,
-        "newCases": 155
-    },
-    {
-        "date": "2021-07-07T00:00:00.000Z",
-        "dateAsStr": "7/7/21",
         "cases": 19172,
         "newCases": 65
     },
     {
-        "date": "2021-07-08T00:00:00.000Z",
-        "dateAsStr": "7/8/21",
-        "cases": 19172,
-        "newCases": 0
-    },
-    {
-        "date": "2021-07-09T00:00:00.000Z",
-        "dateAsStr": "7/9/21",
+        "date": "2021-07-05T00:00:00.000Z",
+        "dateAsStr": "7/5/21",
         "cases": 19220,
         "newCases": 48
     },
     {
+        "date": "2021-07-06T00:00:00.000Z",
+        "dateAsStr": "7/6/21",
+        "cases": 19295,
+        "newCases": 75
+    },
+    {
+        "date": "2021-07-07T00:00:00.000Z",
+        "dateAsStr": "7/7/21",
+        "cases": 19374,
+        "newCases": 79
+    },
+    {
+        "date": "2021-07-08T00:00:00.000Z",
+        "dateAsStr": "7/8/21",
+        "cases": 19427,
+        "newCases": 53
+    },
+    {
+        "date": "2021-07-09T00:00:00.000Z",
+        "dateAsStr": "7/9/21",
+        "cases": 19457,
+        "newCases": 30
+    },
+    {
         "date": "2021-07-10T00:00:00.000Z",
         "dateAsStr": "7/10/21",
-        "cases": 19220,
-        "newCases": 0
+        "cases": 19512,
+        "newCases": 55
     },
     {
         "date": "2021-07-11T00:00:00.000Z",
         "dateAsStr": "7/11/21",
-        "cases": 19220,
-        "newCases": 0
+        "cases": 19547,
+        "newCases": 35
     },
     {
         "date": "2021-07-12T00:00:00.000Z",
         "dateAsStr": "7/12/21",
-        "cases": 19220,
-        "newCases": 0
-    },
-    {
-        "date": "2021-07-13T00:00:00.000Z",
-        "dateAsStr": "7/13/21",
-        "cases": 19220,
-        "newCases": 0
-    },
-    {
-        "date": "2021-07-14T00:00:00.000Z",
-        "dateAsStr": "7/14/21",
-        "cases": 19374,
-        "newCases": 154
-    },
-    {
-        "date": "2021-07-15T00:00:00.000Z",
-        "dateAsStr": "7/15/21",
-        "cases": 19374,
-        "newCases": 0
-    },
-    {
-        "date": "2021-07-16T00:00:00.000Z",
-        "dateAsStr": "7/16/21",
-        "cases": 19374,
-        "newCases": 0
-    },
-    {
-        "date": "2021-07-17T00:00:00.000Z",
-        "dateAsStr": "7/17/21",
-        "cases": 19374,
-        "newCases": 0
-    },
-    {
-        "date": "2021-07-18T00:00:00.000Z",
-        "dateAsStr": "7/18/21",
-        "cases": 19374,
-        "newCases": 0
-    },
-    {
-        "date": "2021-07-19T00:00:00.000Z",
-        "dateAsStr": "7/19/21",
-        "cases": 19547,
-        "newCases": 173
-    },
-    {
-        "date": "2021-07-20T00:00:00.000Z",
-        "dateAsStr": "7/20/21",
         "cases": 19563,
         "newCases": 16
     },
     {
-        "date": "2021-07-21T00:00:00.000Z",
-        "dateAsStr": "7/21/21",
-        "cases": 19563,
-        "newCases": 0
-    },
-    {
-        "date": "2021-07-22T00:00:00.000Z",
-        "dateAsStr": "7/22/21",
+        "date": "2021-07-13T00:00:00.000Z",
+        "dateAsStr": "7/13/21",
         "cases": 19627,
         "newCases": 64
     },
     {
-        "date": "2021-07-23T00:00:00.000Z",
-        "dateAsStr": "7/23/21",
-        "cases": 19762,
-        "newCases": 135
-    },
-    {
-        "date": "2021-07-24T00:00:00.000Z",
-        "dateAsStr": "7/24/21",
-        "cases": 19762,
-        "newCases": 0
-    },
-    {
-        "date": "2021-07-25T00:00:00.000Z",
-        "dateAsStr": "7/25/21",
-        "cases": 19762,
-        "newCases": 0
-    },
-    {
-        "date": "2021-07-26T00:00:00.000Z",
-        "dateAsStr": "7/26/21",
-        "cases": 19817,
+        "date": "2021-07-14T00:00:00.000Z",
+        "dateAsStr": "7/14/21",
+        "cases": 19682,
         "newCases": 55
     },
     {
-        "date": "2021-07-27T00:00:00.000Z",
-        "dateAsStr": "7/27/21",
-        "cases": 19918,
-        "newCases": 101
+        "date": "2021-07-15T00:00:00.000Z",
+        "dateAsStr": "7/15/21",
+        "cases": 19722,
+        "newCases": 40
     },
     {
-        "date": "2021-07-28T00:00:00.000Z",
-        "dateAsStr": "7/28/21",
+        "date": "2021-07-16T00:00:00.000Z",
+        "dateAsStr": "7/16/21",
+        "cases": 19762,
+        "newCases": 40
+    },
+    {
+        "date": "2021-07-17T00:00:00.000Z",
+        "dateAsStr": "7/17/21",
+        "cases": 19783,
+        "newCases": 21
+    },
+    {
+        "date": "2021-07-18T00:00:00.000Z",
+        "dateAsStr": "7/18/21",
+        "cases": 19811,
+        "newCases": 28
+    },
+    {
+        "date": "2021-07-19T00:00:00.000Z",
+        "dateAsStr": "7/19/21",
+        "cases": 19817,
+        "newCases": 6
+    },
+    {
+        "date": "2021-07-20T00:00:00.000Z",
+        "dateAsStr": "7/20/21",
+        "cases": 19876,
+        "newCases": 59
+    },
+    {
+        "date": "2021-07-21T00:00:00.000Z",
+        "dateAsStr": "7/21/21",
+        "cases": 19918,
+        "newCases": 42
+    },
+    {
+        "date": "2021-07-22T00:00:00.000Z",
+        "dateAsStr": "7/22/21",
         "cases": 20000,
         "newCases": 82
     },
     {
+        "date": "2021-07-23T00:00:00.000Z",
+        "dateAsStr": "7/23/21",
+        "cases": 20068,
+        "newCases": 68
+    },
+    {
+        "date": "2021-07-24T00:00:00.000Z",
+        "dateAsStr": "7/24/21",
+        "cases": 20077,
+        "newCases": 9
+    },
+    {
+        "date": "2021-07-25T00:00:00.000Z",
+        "dateAsStr": "7/25/21",
+        "cases": 20116,
+        "newCases": 39
+    },
+    {
+        "date": "2021-07-26T00:00:00.000Z",
+        "dateAsStr": "7/26/21",
+        "cases": 20125,
+        "newCases": 9
+    },
+    {
+        "date": "2021-07-27T00:00:00.000Z",
+        "dateAsStr": "7/27/21",
+        "cases": 20157,
+        "newCases": 32
+    },
+    {
+        "date": "2021-07-28T00:00:00.000Z",
+        "dateAsStr": "7/28/21",
+        "cases": 20203,
+        "newCases": 46
+    },
+    {
         "date": "2021-07-29T00:00:00.000Z",
         "dateAsStr": "7/29/21",
-        "cases": 20077,
-        "newCases": 77
+        "cases": 20245,
+        "newCases": 42
     },
     {
         "date": "2021-07-30T00:00:00.000Z",
         "dateAsStr": "7/30/21",
-        "cases": 20077,
-        "newCases": 0
+        "cases": 20307,
+        "newCases": 62
     },
     {
         "date": "2021-07-31T00:00:00.000Z",
         "dateAsStr": "7/31/21",
-        "cases": 20077,
-        "newCases": 0
-    },
-    {
-        "date": "2021-08-01T00:00:00.000Z",
-        "dateAsStr": "8/1/21",
-        "cases": 20077,
-        "newCases": 0
-    },
-    {
-        "date": "2021-08-02T00:00:00.000Z",
-        "dateAsStr": "8/2/21",
-        "cases": 20157,
-        "newCases": 80
-    },
-    {
-        "date": "2021-08-03T00:00:00.000Z",
-        "dateAsStr": "8/3/21",
-        "cases": 20307,
-        "newCases": 150
-    },
-    {
-        "date": "2021-08-04T00:00:00.000Z",
-        "dateAsStr": "8/4/21",
-        "cases": 20307,
-        "newCases": 0
-    },
-    {
-        "date": "2021-08-05T00:00:00.000Z",
-        "dateAsStr": "8/5/21",
         "cases": 20326,
         "newCases": 19
     },
     {
+        "date": "2021-08-01T00:00:00.000Z",
+        "dateAsStr": "8/1/21",
+        "cases": 20345,
+        "newCases": 19
+    },
+    {
+        "date": "2021-08-02T00:00:00.000Z",
+        "dateAsStr": "8/2/21",
+        "cases": 20363,
+        "newCases": 18
+    },
+    {
+        "date": "2021-08-03T00:00:00.000Z",
+        "dateAsStr": "8/3/21",
+        "cases": 20389,
+        "newCases": 26
+    },
+    {
+        "date": "2021-08-04T00:00:00.000Z",
+        "dateAsStr": "8/4/21",
+        "cases": 20433,
+        "newCases": 44
+    },
+    {
+        "date": "2021-08-05T00:00:00.000Z",
+        "dateAsStr": "8/5/21",
+        "cases": 20477,
+        "newCases": 44
+    },
+    {
         "date": "2021-08-06T00:00:00.000Z",
         "dateAsStr": "8/6/21",
-        "cases": 20326,
-        "newCases": 0
+        "cases": 20507,
+        "newCases": 30
     },
     {
         "date": "2021-08-07T00:00:00.000Z",
         "dateAsStr": "8/7/21",
-        "cases": 20326,
-        "newCases": 0
+        "cases": 20541,
+        "newCases": 34
     },
     {
         "date": "2021-08-08T00:00:00.000Z",
         "dateAsStr": "8/8/21",
-        "cases": 20326,
-        "newCases": 0
+        "cases": 20556,
+        "newCases": 15
     },
     {
         "date": "2021-08-09T00:00:00.000Z",
         "dateAsStr": "8/9/21",
-        "cases": 20389,
-        "newCases": 63
+        "cases": 20562,
+        "newCases": 6
     },
     {
         "date": "2021-08-10T00:00:00.000Z",
         "dateAsStr": "8/10/21",
-        "cases": 20389,
-        "newCases": 0
+        "cases": 20585,
+        "newCases": 23
     },
     {
         "date": "2021-08-11T00:00:00.000Z",
         "dateAsStr": "8/11/21",
-        "cases": 20389,
-        "newCases": 0
+        "cases": 20622,
+        "newCases": 37
     },
     {
         "date": "2021-08-12T00:00:00.000Z",
         "dateAsStr": "8/12/21",
-        "cases": 20507,
-        "newCases": 118
+        "cases": 20658,
+        "newCases": 36
     },
     {
         "date": "2021-08-13T00:00:00.000Z",
         "dateAsStr": "8/13/21",
-        "cases": 20507,
-        "newCases": 0
+        "cases": 20689,
+        "newCases": 31
     },
     {
         "date": "2021-08-14T00:00:00.000Z",
         "dateAsStr": "8/14/21",
-        "cases": 20507,
-        "newCases": 0
+        "cases": 20705,
+        "newCases": 16
     },
     {
         "date": "2021-08-15T00:00:00.000Z",
         "dateAsStr": "8/15/21",
-        "cases": 20507,
-        "newCases": 0
+        "cases": 20719,
+        "newCases": 14
     },
     {
         "date": "2021-08-16T00:00:00.000Z",
         "dateAsStr": "8/16/21",
-        "cases": 20556,
-        "newCases": 49
+        "cases": 20732,
+        "newCases": 13
     },
     {
         "date": "2021-08-17T00:00:00.000Z",
         "dateAsStr": "8/17/21",
-        "cases": 20556,
-        "newCases": 0
+        "cases": 20746,
+        "newCases": 14
     },
     {
         "date": "2021-08-18T00:00:00.000Z",
         "dateAsStr": "8/18/21",
-        "cases": 20556,
-        "newCases": 0
+        "cases": 20768,
+        "newCases": 22
     },
     {
         "date": "2021-08-19T00:00:00.000Z",
         "dateAsStr": "8/19/21",
-        "cases": 20689,
-        "newCases": 133
+        "cases": 20803,
+        "newCases": 35
     },
     {
         "date": "2021-08-20T00:00:00.000Z",
         "dateAsStr": "8/20/21",
-        "cases": 20689,
+        "cases": 20803,
         "newCases": 0
     },
     {
         "date": "2021-08-21T00:00:00.000Z",
         "dateAsStr": "8/21/21",
-        "cases": 20689,
-        "newCases": 0
+        "cases": 20845,
+        "newCases": 42
     },
     {
         "date": "2021-08-22T00:00:00.000Z",
         "dateAsStr": "8/22/21",
-        "cases": 20689,
-        "newCases": 0
+        "cases": 20850,
+        "newCases": 5
     },
     {
         "date": "2021-08-23T00:00:00.000Z",
         "dateAsStr": "8/23/21",
-        "cases": 20719,
-        "newCases": 30
+        "cases": 20870,
+        "newCases": 20
     },
     {
         "date": "2021-08-24T00:00:00.000Z",
         "dateAsStr": "8/24/21",
-        "cases": 20746,
-        "newCases": 27
+        "cases": 20896,
+        "newCases": 26
     },
     {
         "date": "2021-08-25T00:00:00.000Z",
         "dateAsStr": "8/25/21",
-        "cases": 20746,
-        "newCases": 0
-    },
-    {
-        "date": "2021-08-26T00:00:00.000Z",
-        "dateAsStr": "8/26/21",
-        "cases": 20833,
-        "newCases": 87
-    },
-    {
-        "date": "2021-08-27T00:00:00.000Z",
-        "dateAsStr": "8/27/21",
-        "cases": 20833,
-        "newCases": 0
-    },
-    {
-        "date": "2021-08-28T00:00:00.000Z",
-        "dateAsStr": "8/28/21",
-        "cases": 20833,
-        "newCases": 0
-    },
-    {
-        "date": "2021-08-29T00:00:00.000Z",
-        "dateAsStr": "8/29/21",
-        "cases": 20833,
-        "newCases": 0
-    },
-    {
-        "date": "2021-08-30T00:00:00.000Z",
-        "dateAsStr": "8/30/21",
-        "cases": 20850,
-        "newCases": 17
-    },
-    {
-        "date": "2021-08-31T00:00:00.000Z",
-        "dateAsStr": "8/31/21",
-        "cases": 20896,
-        "newCases": 46
-    },
-    {
-        "date": "2021-09-01T00:00:00.000Z",
-        "dateAsStr": "9/1/21",
         "cases": 20916,
         "newCases": 20
     },
     {
+        "date": "2021-08-26T00:00:00.000Z",
+        "dateAsStr": "8/26/21",
+        "cases": 20931,
+        "newCases": 15
+    },
+    {
+        "date": "2021-08-27T00:00:00.000Z",
+        "dateAsStr": "8/27/21",
+        "cases": 20941,
+        "newCases": 10
+    },
+    {
+        "date": "2021-08-28T00:00:00.000Z",
+        "dateAsStr": "8/28/21",
+        "cases": 20962,
+        "newCases": 21
+    },
+    {
+        "date": "2021-08-29T00:00:00.000Z",
+        "dateAsStr": "8/29/21",
+        "cases": 20977,
+        "newCases": 15
+    },
+    {
+        "date": "2021-08-30T00:00:00.000Z",
+        "dateAsStr": "8/30/21",
+        "cases": 21017,
+        "newCases": 40
+    },
+    {
+        "date": "2021-08-31T00:00:00.000Z",
+        "dateAsStr": "8/31/21",
+        "cases": 21047,
+        "newCases": 30
+    },
+    {
+        "date": "2021-09-01T00:00:00.000Z",
+        "dateAsStr": "9/1/21",
+        "cases": 21069,
+        "newCases": 22
+    },
+    {
         "date": "2021-09-02T00:00:00.000Z",
         "dateAsStr": "9/2/21",
-        "cases": 20941,
+        "cases": 21094,
         "newCases": 25
     },
     {
         "date": "2021-09-03T00:00:00.000Z",
         "dateAsStr": "9/3/21",
-        "cases": 20977,
-        "newCases": 36
-    },
-    {
-        "date": "2021-09-04T00:00:00.000Z",
-        "dateAsStr": "9/4/21",
-        "cases": 20977,
-        "newCases": 0
-    },
-    {
-        "date": "2021-09-05T00:00:00.000Z",
-        "dateAsStr": "9/5/21",
-        "cases": 20977,
-        "newCases": 0
-    },
-    {
-        "date": "2021-09-06T00:00:00.000Z",
-        "dateAsStr": "9/6/21",
-        "cases": 21069,
-        "newCases": 92
-    },
-    {
-        "date": "2021-09-07T00:00:00.000Z",
-        "dateAsStr": "9/7/21",
-        "cases": 21094,
-        "newCases": 25
-    },
-    {
-        "date": "2021-09-08T00:00:00.000Z",
-        "dateAsStr": "9/8/21",
         "cases": 21124,
         "newCases": 30
     },
     {
-        "date": "2021-09-09T00:00:00.000Z",
-        "dateAsStr": "9/9/21",
-        "cases": 21124,
-        "newCases": 0
+        "date": "2021-09-04T00:00:00.000Z",
+        "dateAsStr": "9/4/21",
+        "cases": 21139,
+        "newCases": 15
     },
     {
-        "date": "2021-09-10T00:00:00.000Z",
-        "dateAsStr": "9/10/21",
+        "date": "2021-09-05T00:00:00.000Z",
+        "dateAsStr": "9/5/21",
         "cases": 21162,
-        "newCases": 38
+        "newCases": 23
     },
     {
-        "date": "2021-09-11T00:00:00.000Z",
-        "dateAsStr": "9/11/21",
-        "cases": 21162,
-        "newCases": 0
-    },
-    {
-        "date": "2021-09-12T00:00:00.000Z",
-        "dateAsStr": "9/12/21",
-        "cases": 21162,
-        "newCases": 0
-    },
-    {
-        "date": "2021-09-13T00:00:00.000Z",
-        "dateAsStr": "9/13/21",
+        "date": "2021-09-06T00:00:00.000Z",
+        "dateAsStr": "9/6/21",
         "cases": 21178,
         "newCases": 16
     },
     {
+        "date": "2021-09-07T00:00:00.000Z",
+        "dateAsStr": "9/7/21",
+        "cases": 21192,
+        "newCases": 14
+    },
+    {
+        "date": "2021-09-08T00:00:00.000Z",
+        "dateAsStr": "9/8/21",
+        "cases": 21219,
+        "newCases": 27
+    },
+    {
+        "date": "2021-09-09T00:00:00.000Z",
+        "dateAsStr": "9/9/21",
+        "cases": 21244,
+        "newCases": 25
+    },
+    {
+        "date": "2021-09-10T00:00:00.000Z",
+        "dateAsStr": "9/10/21",
+        "cases": 21271,
+        "newCases": 27
+    },
+    {
+        "date": "2021-09-11T00:00:00.000Z",
+        "dateAsStr": "9/11/21",
+        "cases": 21299,
+        "newCases": 28
+    },
+    {
+        "date": "2021-09-12T00:00:00.000Z",
+        "dateAsStr": "9/12/21",
+        "cases": 21318,
+        "newCases": 19
+    },
+    {
+        "date": "2021-09-13T00:00:00.000Z",
+        "dateAsStr": "9/13/21",
+        "cases": 21330,
+        "newCases": 12
+    },
+    {
         "date": "2021-09-14T00:00:00.000Z",
         "dateAsStr": "9/14/21",
-        "cases": 21271,
-        "newCases": 93
+        "cases": 21330,
+        "newCases": 0
     },
     {
         "date": "2021-09-15T00:00:00.000Z",
         "dateAsStr": "9/15/21",
-        "cases": 21318,
-        "newCases": 47
+        "cases": 21330,
+        "newCases": 0
     },
     {
         "date": "2021-09-16T00:00:00.000Z",
         "dateAsStr": "9/16/21",
-        "cases": 21318,
+        "cases": 21330,
         "newCases": 0
     },
     {
         "date": "2021-09-17T00:00:00.000Z",
         "dateAsStr": "9/17/21",
         "cases": 21330,
-        "newCases": 12
+        "newCases": 0
     },
     {
         "date": "2021-09-18T00:00:00.000Z",
         "dateAsStr": "9/18/21",
-        "cases": 21330,
-        "newCases": 0
+        "cases": 21486,
+        "newCases": 156
     },
     {
         "date": "2021-09-19T00:00:00.000Z",
         "dateAsStr": "9/19/21",
-        "cases": 21330,
-        "newCases": 0
+        "cases": 21508,
+        "newCases": 22
     },
     {
         "date": "2021-09-20T00:00:00.000Z",
         "dateAsStr": "9/20/21",
-        "cases": 21368,
-        "newCases": 38
+        "cases": 21540,
+        "newCases": 32
     },
     {
         "date": "2021-09-21T00:00:00.000Z",
         "dateAsStr": "9/21/21",
-        "cases": 21431,
-        "newCases": 63
+        "cases": 21583,
+        "newCases": 43
     },
     {
         "date": "2021-09-22T00:00:00.000Z",
         "dateAsStr": "9/22/21",
-        "cases": 21431,
-        "newCases": 0
+        "cases": 21647,
+        "newCases": 64
     },
     {
         "date": "2021-09-23T00:00:00.000Z",
         "dateAsStr": "9/23/21",
-        "cases": 21453,
-        "newCases": 22
+        "cases": 21700,
+        "newCases": 53
     },
     {
         "date": "2021-09-24T00:00:00.000Z",
         "dateAsStr": "9/24/21",
-        "cases": 21486,
-        "newCases": 33
+        "cases": 21761,
+        "newCases": 61
     },
     {
         "date": "2021-09-25T00:00:00.000Z",
         "dateAsStr": "9/25/21",
-        "cases": 21486,
-        "newCases": 0
+        "cases": 21873,
+        "newCases": 112
     },
     {
         "date": "2021-09-26T00:00:00.000Z",
         "dateAsStr": "9/26/21",
-        "cases": 21486,
-        "newCases": 0
+        "cases": 21916,
+        "newCases": 43
     },
     {
         "date": "2021-09-27T00:00:00.000Z",
         "dateAsStr": "9/27/21",
-        "cases": 21540,
-        "newCases": 54
-    },
-    {
-        "date": "2021-09-28T00:00:00.000Z",
-        "dateAsStr": "9/28/21",
-        "cases": 21647,
-        "newCases": 107
-    },
-    {
-        "date": "2021-09-29T00:00:00.000Z",
-        "dateAsStr": "9/29/21",
-        "cases": 21647,
-        "newCases": 0
-    },
-    {
-        "date": "2021-09-30T00:00:00.000Z",
-        "dateAsStr": "9/30/21",
-        "cases": 21647,
-        "newCases": 0
-    },
-    {
-        "date": "2021-10-01T00:00:00.000Z",
-        "dateAsStr": "10/1/21",
-        "cases": 21916,
-        "newCases": 269
-    },
-    {
-        "date": "2021-10-02T00:00:00.000Z",
-        "dateAsStr": "10/2/21",
-        "cases": 21916,
-        "newCases": 0
-    },
-    {
-        "date": "2021-10-03T00:00:00.000Z",
-        "dateAsStr": "10/3/21",
-        "cases": 21916,
-        "newCases": 0
-    },
-    {
-        "date": "2021-10-04T00:00:00.000Z",
-        "dateAsStr": "10/4/21",
         "cases": 21972,
         "newCases": 56
     },
     {
-        "date": "2021-10-05T00:00:00.000Z",
-        "dateAsStr": "10/5/21",
+        "date": "2021-09-28T00:00:00.000Z",
+        "dateAsStr": "9/28/21",
+        "cases": 22041,
+        "newCases": 69
+    },
+    {
+        "date": "2021-09-29T00:00:00.000Z",
+        "dateAsStr": "9/29/21",
         "cases": 22125,
-        "newCases": 153
+        "newCases": 84
     },
     {
-        "date": "2021-10-06T00:00:00.000Z",
-        "dateAsStr": "10/6/21",
+        "date": "2021-09-30T00:00:00.000Z",
+        "dateAsStr": "9/30/21",
+        "cases": 22173,
+        "newCases": 48
+    },
+    {
+        "date": "2021-10-01T00:00:00.000Z",
+        "dateAsStr": "10/1/21",
+        "cases": 22273,
+        "newCases": 100
+    },
+    {
+        "date": "2021-10-02T00:00:00.000Z",
+        "dateAsStr": "10/2/21",
         "cases": 22354,
-        "newCases": 229
+        "newCases": 81
     },
     {
-        "date": "2021-10-07T00:00:00.000Z",
-        "dateAsStr": "10/7/21",
-        "cases": 22354,
-        "newCases": 0
-    },
-    {
-        "date": "2021-10-08T00:00:00.000Z",
-        "dateAsStr": "10/8/21",
-        "cases": 22354,
-        "newCases": 0
-    },
-    {
-        "date": "2021-10-09T00:00:00.000Z",
-        "dateAsStr": "10/9/21",
+        "date": "2021-10-03T00:00:00.000Z",
+        "dateAsStr": "10/3/21",
         "cases": 22382,
         "newCases": 28
     },
     {
-        "date": "2021-10-10T00:00:00.000Z",
-        "dateAsStr": "10/10/21",
-        "cases": 22526,
-        "newCases": 144
+        "date": "2021-10-04T00:00:00.000Z",
+        "dateAsStr": "10/4/21",
+        "cases": 22447,
+        "newCases": 65
     },
     {
-        "date": "2021-10-11T00:00:00.000Z",
-        "dateAsStr": "10/11/21",
+        "date": "2021-10-05T00:00:00.000Z",
+        "dateAsStr": "10/5/21",
+        "cases": 22526,
+        "newCases": 79
+    },
+    {
+        "date": "2021-10-06T00:00:00.000Z",
+        "dateAsStr": "10/6/21",
         "cases": 22614,
         "newCases": 88
     },
     {
-        "date": "2021-10-12T00:00:00.000Z",
-        "dateAsStr": "10/12/21",
+        "date": "2021-10-07T00:00:00.000Z",
+        "dateAsStr": "10/7/21",
         "cases": 22675,
         "newCases": 61
     },
     {
-        "date": "2021-10-13T00:00:00.000Z",
-        "dateAsStr": "10/13/21",
+        "date": "2021-10-08T00:00:00.000Z",
+        "dateAsStr": "10/8/21",
         "cases": 22731,
         "newCases": 56
     },
     {
-        "date": "2021-10-14T00:00:00.000Z",
-        "dateAsStr": "10/14/21",
+        "date": "2021-10-09T00:00:00.000Z",
+        "dateAsStr": "10/9/21",
         "cases": 22827,
         "newCases": 96
     },
     {
-        "date": "2021-10-15T00:00:00.000Z",
-        "dateAsStr": "10/15/21",
-        "cases": 22827,
-        "newCases": 0
+        "date": "2021-10-10T00:00:00.000Z",
+        "dateAsStr": "10/10/21",
+        "cases": 22911,
+        "newCases": 84
     },
     {
-        "date": "2021-10-16T00:00:00.000Z",
-        "dateAsStr": "10/16/21",
+        "date": "2021-10-11T00:00:00.000Z",
+        "dateAsStr": "10/11/21",
         "cases": 22933,
-        "newCases": 106
+        "newCases": 22
     },
     {
-        "date": "2021-10-17T00:00:00.000Z",
-        "dateAsStr": "10/17/21",
-        "cases": 22933,
-        "newCases": 0
-    },
-    {
-        "date": "2021-10-18T00:00:00.000Z",
-        "dateAsStr": "10/18/21",
+        "date": "2021-10-12T00:00:00.000Z",
+        "dateAsStr": "10/12/21",
         "cases": 23042,
         "newCases": 109
     },
     {
-        "date": "2021-10-19T00:00:00.000Z",
-        "dateAsStr": "10/19/21",
-        "cases": 23324,
-        "newCases": 282
+        "date": "2021-10-13T00:00:00.000Z",
+        "dateAsStr": "10/13/21",
+        "cases": 23160,
+        "newCases": 118
     },
     {
-        "date": "2021-10-20T00:00:00.000Z",
-        "dateAsStr": "10/20/21",
+        "date": "2021-10-14T00:00:00.000Z",
+        "dateAsStr": "10/14/21",
+        "cases": 23241,
+        "newCases": 81
+    },
+    {
+        "date": "2021-10-15T00:00:00.000Z",
+        "dateAsStr": "10/15/21",
+        "cases": 23324,
+        "newCases": 83
+    },
+    {
+        "date": "2021-10-16T00:00:00.000Z",
+        "dateAsStr": "10/16/21",
         "cases": 23406,
         "newCases": 82
     },
     {
+        "date": "2021-10-17T00:00:00.000Z",
+        "dateAsStr": "10/17/21",
+        "cases": 23446,
+        "newCases": 40
+    },
+    {
+        "date": "2021-10-18T00:00:00.000Z",
+        "dateAsStr": "10/18/21",
+        "cases": 23490,
+        "newCases": 44
+    },
+    {
+        "date": "2021-10-19T00:00:00.000Z",
+        "dateAsStr": "10/19/21",
+        "cases": 23569,
+        "newCases": 79
+    },
+    {
+        "date": "2021-10-20T00:00:00.000Z",
+        "dateAsStr": "10/20/21",
+        "cases": 23619,
+        "newCases": 50
+    },
+    {
         "date": "2021-10-21T00:00:00.000Z",
         "dateAsStr": "10/21/21",
-        "cases": 23406,
-        "newCases": 0
+        "cases": 23726,
+        "newCases": 107
     },
     {
         "date": "2021-10-22T00:00:00.000Z",
         "dateAsStr": "10/22/21",
-        "cases": 23406,
-        "newCases": 0
+        "cases": 23773,
+        "newCases": 47
     },
     {
         "date": "2021-10-23T00:00:00.000Z",
         "dateAsStr": "10/23/21",
-        "cases": 23406,
-        "newCases": 0
+        "cases": 23863,
+        "newCases": 90
     },
     {
         "date": "2021-10-24T00:00:00.000Z",
         "dateAsStr": "10/24/21",
-        "cases": 23406,
-        "newCases": 0
+        "cases": 23909,
+        "newCases": 46
     },
     {
         "date": "2021-10-25T00:00:00.000Z",
         "dateAsStr": "10/25/21",
-        "cases": 23619,
-        "newCases": 213
+        "cases": 23927,
+        "newCases": 18
     },
     {
         "date": "2021-10-26T00:00:00.000Z",
         "dateAsStr": "10/26/21",
-        "cases": 23619,
-        "newCases": 0
+        "cases": 23960,
+        "newCases": 33
     },
     {
         "date": "2021-10-27T00:00:00.000Z",
         "dateAsStr": "10/27/21",
-        "cases": 23773,
-        "newCases": 154
+        "cases": 23981,
+        "newCases": 21
     },
     {
         "date": "2021-10-28T00:00:00.000Z",
         "dateAsStr": "10/28/21",
-        "cases": 23823,
-        "newCases": 50
+        "cases": 24004,
+        "newCases": 23
     },
     {
         "date": "2021-10-29T00:00:00.000Z",
         "dateAsStr": "10/29/21",
-        "cases": 23823,
-        "newCases": 0
-    },
-    {
-        "date": "2021-10-30T00:00:00.000Z",
-        "dateAsStr": "10/30/21",
-        "cases": 23960,
-        "newCases": 137
-    },
-    {
-        "date": "2021-10-31T00:00:00.000Z",
-        "dateAsStr": "10/31/21",
-        "cases": 23960,
-        "newCases": 0
-    },
-    {
-        "date": "2021-11-01T00:00:00.000Z",
-        "dateAsStr": "11/1/21",
-        "cases": 23960,
-        "newCases": 0
-    },
-    {
-        "date": "2021-11-02T00:00:00.000Z",
-        "dateAsStr": "11/2/21",
-        "cases": 24004,
-        "newCases": 44
-    },
-    {
-        "date": "2021-11-03T00:00:00.000Z",
-        "dateAsStr": "11/3/21",
-        "cases": 24004,
-        "newCases": 0
-    },
-    {
-        "date": "2021-11-04T00:00:00.000Z",
-        "dateAsStr": "11/4/21",
         "cases": 24032,
         "newCases": 28
     },
     {
-        "date": "2021-11-05T00:00:00.000Z",
-        "dateAsStr": "11/5/21",
+        "date": "2021-10-30T00:00:00.000Z",
+        "dateAsStr": "10/30/21",
         "cases": 24073,
         "newCases": 41
     },
     {
+        "date": "2021-10-31T00:00:00.000Z",
+        "dateAsStr": "10/31/21",
+        "cases": 24091,
+        "newCases": 18
+    },
+    {
+        "date": "2021-11-01T00:00:00.000Z",
+        "dateAsStr": "11/1/21",
+        "cases": 24104,
+        "newCases": 13
+    },
+    {
+        "date": "2021-11-02T00:00:00.000Z",
+        "dateAsStr": "11/2/21",
+        "cases": 24110,
+        "newCases": 6
+    },
+    {
+        "date": "2021-11-03T00:00:00.000Z",
+        "dateAsStr": "11/3/21",
+        "cases": 24128,
+        "newCases": 18
+    },
+    {
+        "date": "2021-11-04T00:00:00.000Z",
+        "dateAsStr": "11/4/21",
+        "cases": 24233,
+        "newCases": 105
+    },
+    {
+        "date": "2021-11-05T00:00:00.000Z",
+        "dateAsStr": "11/5/21",
+        "cases": 24286,
+        "newCases": 53
+    },
+    {
         "date": "2021-11-06T00:00:00.000Z",
         "dateAsStr": "11/6/21",
-        "cases": 24073,
-        "newCases": 0
+        "cases": 24359,
+        "newCases": 73
     },
     {
         "date": "2021-11-07T00:00:00.000Z",
         "dateAsStr": "11/7/21",
-        "cases": 24073,
-        "newCases": 0
+        "cases": 24383,
+        "newCases": 24
     },
     {
         "date": "2021-11-08T00:00:00.000Z",
         "dateAsStr": "11/8/21",
-        "cases": 24233,
-        "newCases": 160
+        "cases": 24485,
+        "newCases": 102
     },
     {
         "date": "2021-11-09T00:00:00.000Z",
         "dateAsStr": "11/9/21",
-        "cases": 24233,
-        "newCases": 0
+        "cases": 24543,
+        "newCases": 58
     },
     {
         "date": "2021-11-10T00:00:00.000Z",
         "dateAsStr": "11/10/21",
-        "cases": 24233,
-        "newCases": 0
+        "cases": 24599,
+        "newCases": 56
     },
     {
         "date": "2021-11-11T00:00:00.000Z",
         "dateAsStr": "11/11/21",
-        "cases": 24233,
-        "newCases": 0
+        "cases": 24635,
+        "newCases": 36
     },
     {
         "date": "2021-11-12T00:00:00.000Z",
         "dateAsStr": "11/12/21",
-        "cases": 24543,
-        "newCases": 310
+        "cases": 24694,
+        "newCases": 59
     },
     {
         "date": "2021-11-13T00:00:00.000Z",
         "dateAsStr": "11/13/21",
-        "cases": 24543,
-        "newCases": 0
+        "cases": 24710,
+        "newCases": 16
     },
     {
         "date": "2021-11-14T00:00:00.000Z",
         "dateAsStr": "11/14/21",
-        "cases": 24543,
-        "newCases": 0
-    },
-    {
-        "date": "2021-11-15T00:00:00.000Z",
-        "dateAsStr": "11/15/21",
-        "cases": 24635,
-        "newCases": 92
-    },
-    {
-        "date": "2021-11-16T00:00:00.000Z",
-        "dateAsStr": "11/16/21",
-        "cases": 24710,
-        "newCases": 75
-    },
-    {
-        "date": "2021-11-17T00:00:00.000Z",
-        "dateAsStr": "11/17/21",
-        "cases": 24710,
-        "newCases": 0
-    },
-    {
-        "date": "2021-11-18T00:00:00.000Z",
-        "dateAsStr": "11/18/21",
-        "cases": 24710,
-        "newCases": 0
-    },
-    {
-        "date": "2021-11-19T00:00:00.000Z",
-        "dateAsStr": "11/19/21",
         "cases": 24768,
         "newCases": 58
     },
     {
+        "date": "2021-11-15T00:00:00.000Z",
+        "dateAsStr": "11/15/21",
+        "cases": 24819,
+        "newCases": 51
+    },
+    {
+        "date": "2021-11-16T00:00:00.000Z",
+        "dateAsStr": "11/16/21",
+        "cases": 24883,
+        "newCases": 64
+    },
+    {
+        "date": "2021-11-17T00:00:00.000Z",
+        "dateAsStr": "11/17/21",
+        "cases": 24936,
+        "newCases": 53
+    },
+    {
+        "date": "2021-11-18T00:00:00.000Z",
+        "dateAsStr": "11/18/21",
+        "cases": 24950,
+        "newCases": 14
+    },
+    {
+        "date": "2021-11-19T00:00:00.000Z",
+        "dateAsStr": "11/19/21",
+        "cases": 24974,
+        "newCases": 24
+    },
+    {
         "date": "2021-11-20T00:00:00.000Z",
         "dateAsStr": "11/20/21",
-        "cases": 24768,
+        "cases": 24974,
         "newCases": 0
     },
     {
         "date": "2021-11-21T00:00:00.000Z",
         "dateAsStr": "11/21/21",
-        "cases": 24768,
-        "newCases": 0
+        "cases": 25016,
+        "newCases": 42
     },
     {
         "date": "2021-11-22T00:00:00.000Z",
         "dateAsStr": "11/22/21",
-        "cases": 24950,
-        "newCases": 182
+        "cases": 25027,
+        "newCases": 11
     },
     {
         "date": "2021-11-23T00:00:00.000Z",
         "dateAsStr": "11/23/21",
-        "cases": 24950,
-        "newCases": 0
+        "cases": 25039,
+        "newCases": 12
     },
     {
         "date": "2021-11-24T00:00:00.000Z",
         "dateAsStr": "11/24/21",
-        "cases": 24974,
-        "newCases": 24
+        "cases": 25062,
+        "newCases": 23
     },
     {
         "date": "2021-11-25T00:00:00.000Z",
         "dateAsStr": "11/25/21",
-        "cases": 24974,
-        "newCases": 0
+        "cases": 25146,
+        "newCases": 84
     },
     {
         "date": "2021-11-26T00:00:00.000Z",
         "dateAsStr": "11/26/21",
-        "cases": 25027,
-        "newCases": 53
+        "cases": 25175,
+        "newCases": 29
     },
     {
         "date": "2021-11-27T00:00:00.000Z",
         "dateAsStr": "11/27/21",
-        "cases": 25027,
-        "newCases": 0
+        "cases": 25202,
+        "newCases": 27
     },
     {
         "date": "2021-11-28T00:00:00.000Z",
         "dateAsStr": "11/28/21",
-        "cases": 25027,
-        "newCases": 0
+        "cases": 25265,
+        "newCases": 63
     },
     {
         "date": "2021-11-29T00:00:00.000Z",
         "dateAsStr": "11/29/21",
-        "cases": 25175,
-        "newCases": 148
+        "cases": 25296,
+        "newCases": 31
     },
     {
         "date": "2021-11-30T00:00:00.000Z",
         "dateAsStr": "11/30/21",
-        "cases": 25175,
-        "newCases": 0
+        "cases": 25351,
+        "newCases": 55
     },
     {
         "date": "2021-12-01T00:00:00.000Z",
         "dateAsStr": "12/1/21",
-        "cases": 25351,
-        "newCases": 176
+        "cases": 25463,
+        "newCases": 112
     },
     {
         "date": "2021-12-02T00:00:00.000Z",
         "dateAsStr": "12/2/21",
-        "cases": 25351,
+        "cases": 25463,
         "newCases": 0
     },
     {
         "date": "2021-12-03T00:00:00.000Z",
         "dateAsStr": "12/3/21",
-        "cases": 25463,
-        "newCases": 112
+        "cases": 25578,
+        "newCases": 115
     },
     {
         "date": "2021-12-04T00:00:00.000Z",
         "dateAsStr": "12/4/21",
-        "cases": 25510,
-        "newCases": 47
+        "cases": 25638,
+        "newCases": 60
     },
     {
         "date": "2021-12-05T00:00:00.000Z",
         "dateAsStr": "12/5/21",
-        "cases": 25510,
-        "newCases": 0
+        "cases": 25674,
+        "newCases": 36
     },
     {
         "date": "2021-12-06T00:00:00.000Z",
         "dateAsStr": "12/6/21",
-        "cases": 25638,
-        "newCases": 128
+        "cases": 25691,
+        "newCases": 17
     },
     {
         "date": "2021-12-07T00:00:00.000Z",
         "dateAsStr": "12/7/21",
-        "cases": 25638,
-        "newCases": 0
+        "cases": 25705,
+        "newCases": 14
     },
     {
         "date": "2021-12-08T00:00:00.000Z",
         "dateAsStr": "12/8/21",
-        "cases": 25691,
-        "newCases": 53
+        "cases": 25744,
+        "newCases": 39
     },
     {
         "date": "2021-12-09T00:00:00.000Z",
         "dateAsStr": "12/9/21",
-        "cases": 25744,
-        "newCases": 53
+        "cases": 25758,
+        "newCases": 14
     },
     {
         "date": "2021-12-10T00:00:00.000Z",
         "dateAsStr": "12/10/21",
-        "cases": 25744,
-        "newCases": 0
+        "cases": 25794,
+        "newCases": 36
     },
     {
         "date": "2021-12-11T00:00:00.000Z",
         "dateAsStr": "12/11/21",
-        "cases": 25744,
-        "newCases": 0
+        "cases": 25853,
+        "newCases": 59
     },
     {
         "date": "2021-12-12T00:00:00.000Z",
         "dateAsStr": "12/12/21",
-        "cases": 25744,
-        "newCases": 0
+        "cases": 25865,
+        "newCases": 12
     },
     {
         "date": "2021-12-13T00:00:00.000Z",
         "dateAsStr": "12/13/21",
-        "cases": 25758,
+        "cases": 25879,
         "newCases": 14
     },
     {
         "date": "2021-12-14T00:00:00.000Z",
         "dateAsStr": "12/14/21",
-        "cases": 25865,
-        "newCases": 107
+        "cases": 25893,
+        "newCases": 14
     },
     {
         "date": "2021-12-15T00:00:00.000Z",
         "dateAsStr": "12/15/21",
-        "cases": 25879,
+        "cases": 25907,
         "newCases": 14
     },
     {
         "date": "2021-12-16T00:00:00.000Z",
         "dateAsStr": "12/16/21",
-        "cases": 25907,
-        "newCases": 28
+        "cases": 25917,
+        "newCases": 10
     },
     {
         "date": "2021-12-17T00:00:00.000Z",
         "dateAsStr": "12/17/21",
-        "cases": 25907,
-        "newCases": 0
+        "cases": 25920,
+        "newCases": 3
     },
     {
         "date": "2021-12-18T00:00:00.000Z",
         "dateAsStr": "12/18/21",
-        "cases": 25920,
-        "newCases": 13
-    },
-    {
-        "date": "2021-12-19T00:00:00.000Z",
-        "dateAsStr": "12/19/21",
-        "cases": 25920,
-        "newCases": 0
-    },
-    {
-        "date": "2021-12-20T00:00:00.000Z",
-        "dateAsStr": "12/20/21",
         "cases": 25923,
         "newCases": 3
     },
     {
+        "date": "2021-12-19T00:00:00.000Z",
+        "dateAsStr": "12/19/21",
+        "cases": 25934,
+        "newCases": 11
+    },
+    {
+        "date": "2021-12-20T00:00:00.000Z",
+        "dateAsStr": "12/20/21",
+        "cases": 25941,
+        "newCases": 7
+    },
+    {
         "date": "2021-12-21T00:00:00.000Z",
         "dateAsStr": "12/21/21",
-        "cases": 25923,
-        "newCases": 0
+        "cases": 25945,
+        "newCases": 4
     },
     {
         "date": "2021-12-22T00:00:00.000Z",
         "dateAsStr": "12/22/21",
-        "cases": 25941,
-        "newCases": 18
+        "cases": 25945,
+        "newCases": 0
     },
     {
         "date": "2021-12-23T00:00:00.000Z",
         "dateAsStr": "12/23/21",
         "cases": 25945,
-        "newCases": 4
+        "newCases": 0
     },
     {
         "date": "2021-12-24T00:00:00.000Z",
         "dateAsStr": "12/24/21",
-        "cases": 25950,
-        "newCases": 5
+        "cases": 25972,
+        "newCases": 27
     },
     {
         "date": "2021-12-25T00:00:00.000Z",
         "dateAsStr": "12/25/21",
-        "cases": 25950,
-        "newCases": 0
+        "cases": 25974,
+        "newCases": 2
     },
     {
         "date": "2021-12-26T00:00:00.000Z",
         "dateAsStr": "12/26/21",
-        "cases": 25950,
+        "cases": 25974,
         "newCases": 0
     },
     {
         "date": "2021-12-27T00:00:00.000Z",
         "dateAsStr": "12/27/21",
-        "cases": 25974,
-        "newCases": 24
+        "cases": 25985,
+        "newCases": 11
     },
     {
         "date": "2021-12-28T00:00:00.000Z",
         "dateAsStr": "12/28/21",
-        "cases": 25976,
-        "newCases": 2
+        "cases": 25996,
+        "newCases": 11
     },
     {
         "date": "2021-12-29T00:00:00.000Z",
         "dateAsStr": "12/29/21",
-        "cases": 25985,
-        "newCases": 9
+        "cases": 26024,
+        "newCases": 28
     },
     {
         "date": "2021-12-30T00:00:00.000Z",
         "dateAsStr": "12/30/21",
-        "cases": 25985,
-        "newCases": 0
+        "cases": 26056,
+        "newCases": 32
     },
     {
         "date": "2021-12-31T00:00:00.000Z",
         "dateAsStr": "12/31/21",
-        "cases": 25985,
-        "newCases": 0
+        "cases": 26169,
+        "newCases": 113
     },
     {
         "date": "2022-01-01T00:00:00.000Z",
         "dateAsStr": "1/1/22",
-        "cases": 25985,
-        "newCases": 0
+        "cases": 26213,
+        "newCases": 44
     },
     {
         "date": "2022-01-02T00:00:00.000Z",
         "dateAsStr": "1/2/22",
-        "cases": 25985,
-        "newCases": 0
+        "cases": 26255,
+        "newCases": 42
     },
     {
         "date": "2022-01-03T00:00:00.000Z",
         "dateAsStr": "1/3/22",
-        "cases": 26056,
-        "newCases": 71
+        "cases": 26259,
+        "newCases": 4
     },
     {
         "date": "2022-01-04T00:00:00.000Z",
         "dateAsStr": "1/4/22",
-        "cases": 26213,
-        "newCases": 157
+        "cases": 26259,
+        "newCases": 0
     },
     {
         "date": "2022-01-05T00:00:00.000Z",
         "dateAsStr": "1/5/22",
-        "cases": 26259,
-        "newCases": 46
-    },
-    {
-        "date": "2022-01-06T00:00:00.000Z",
-        "dateAsStr": "1/6/22",
         "cases": 26304,
         "newCases": 45
     },
     {
+        "date": "2022-01-06T00:00:00.000Z",
+        "dateAsStr": "1/6/22",
+        "cases": 26406,
+        "newCases": 102
+    },
+    {
         "date": "2022-01-07T00:00:00.000Z",
         "dateAsStr": "1/7/22",
-        "cases": 26304,
-        "newCases": 0
+        "cases": 26509,
+        "newCases": 103
     },
     {
         "date": "2022-01-08T00:00:00.000Z",
         "dateAsStr": "1/8/22",
-        "cases": 26304,
-        "newCases": 0
+        "cases": 26654,
+        "newCases": 145
     },
     {
         "date": "2022-01-09T00:00:00.000Z",
         "dateAsStr": "1/9/22",
-        "cases": 26654,
-        "newCases": 350
-    },
-    {
-        "date": "2022-01-10T00:00:00.000Z",
-        "dateAsStr": "1/10/22",
         "cases": 26807,
         "newCases": 153
     },
     {
+        "date": "2022-01-10T00:00:00.000Z",
+        "dateAsStr": "1/10/22",
+        "cases": 27000,
+        "newCases": 193
+    },
+    {
         "date": "2022-01-11T00:00:00.000Z",
         "dateAsStr": "1/11/22",
-        "cases": 26807,
-        "newCases": 0
+        "cases": 27082,
+        "newCases": 82
     },
     {
         "date": "2022-01-12T00:00:00.000Z",
         "dateAsStr": "1/12/22",
-        "cases": 26807,
-        "newCases": 0
+        "cases": 27318,
+        "newCases": 236
     },
     {
         "date": "2022-01-13T00:00:00.000Z",
         "dateAsStr": "1/13/22",
-        "cases": 27082,
-        "newCases": 275
+        "cases": 27490,
+        "newCases": 172
     },
     {
         "date": "2022-01-14T00:00:00.000Z",
         "dateAsStr": "1/14/22",
-        "cases": 27082,
-        "newCases": 0
+        "cases": 27619,
+        "newCases": 129
     },
     {
         "date": "2022-01-15T00:00:00.000Z",
         "dateAsStr": "1/15/22",
-        "cases": 27082,
-        "newCases": 0
+        "cases": 27819,
+        "newCases": 200
     },
     {
         "date": "2022-01-16T00:00:00.000Z",
         "dateAsStr": "1/16/22",
-        "cases": 27082,
-        "newCases": 0
+        "cases": 27973,
+        "newCases": 154
     },
     {
         "date": "2022-01-17T00:00:00.000Z",
         "dateAsStr": "1/17/22",
-        "cases": 27819,
-        "newCases": 737
+        "cases": 28030,
+        "newCases": 57
     },
     {
         "date": "2022-01-18T00:00:00.000Z",
         "dateAsStr": "1/18/22",
-        "cases": 27819,
-        "newCases": 0
-    },
-    {
-        "date": "2022-01-19T00:00:00.000Z",
-        "dateAsStr": "1/19/22",
-        "cases": 28030,
-        "newCases": 211
-    },
-    {
-        "date": "2022-01-20T00:00:00.000Z",
-        "dateAsStr": "1/20/22",
         "cases": 28117,
         "newCases": 87
     },
     {
-        "date": "2022-01-21T00:00:00.000Z",
-        "dateAsStr": "1/21/22",
+        "date": "2022-01-19T00:00:00.000Z",
+        "dateAsStr": "1/19/22",
         "cases": 28250,
         "newCases": 133
     },
     {
-        "date": "2022-01-22T00:00:00.000Z",
-        "dateAsStr": "1/22/22",
+        "date": "2022-01-20T00:00:00.000Z",
+        "dateAsStr": "1/20/22",
         "cases": 28352,
         "newCases": 102
     },
     {
-        "date": "2022-01-23T00:00:00.000Z",
-        "dateAsStr": "1/23/22",
+        "date": "2022-01-21T00:00:00.000Z",
+        "dateAsStr": "1/21/22",
         "cases": 28471,
         "newCases": 119
     },
     {
-        "date": "2022-01-24T00:00:00.000Z",
-        "dateAsStr": "1/24/22",
+        "date": "2022-01-22T00:00:00.000Z",
+        "dateAsStr": "1/22/22",
         "cases": 28561,
         "newCases": 90
     },
     {
+        "date": "2022-01-23T00:00:00.000Z",
+        "dateAsStr": "1/23/22",
+        "cases": 28709,
+        "newCases": 148
+    },
+    {
+        "date": "2022-01-24T00:00:00.000Z",
+        "dateAsStr": "1/24/22",
+        "cases": 28743,
+        "newCases": 34
+    },
+    {
         "date": "2022-01-25T00:00:00.000Z",
         "dateAsStr": "1/25/22",
-        "cases": 28561,
-        "newCases": 0
+        "cases": 28875,
+        "newCases": 132
     },
     {
         "date": "2022-01-26T00:00:00.000Z",
         "dateAsStr": "1/26/22",
-        "cases": 28561,
-        "newCases": 0
+        "cases": 29053,
+        "newCases": 178
     },
     {
         "date": "2022-01-27T00:00:00.000Z",
         "dateAsStr": "1/27/22",
-        "cases": 28875,
-        "newCases": 314
+        "cases": 29123,
+        "newCases": 70
     },
     {
         "date": "2022-01-28T00:00:00.000Z",
         "dateAsStr": "1/28/22",
-        "cases": 28875,
-        "newCases": 0
+        "cases": 29217,
+        "newCases": 94
     },
     {
         "date": "2022-01-29T00:00:00.000Z",
         "dateAsStr": "1/29/22",
-        "cases": 28875,
-        "newCases": 0
-    },
-    {
-        "date": "2022-01-30T00:00:00.000Z",
-        "dateAsStr": "1/30/22",
-        "cases": 28875,
-        "newCases": 0
-    },
-    {
-        "date": "2022-01-31T00:00:00.000Z",
-        "dateAsStr": "1/31/22",
-        "cases": 29217,
-        "newCases": 342
-    },
-    {
-        "date": "2022-02-01T00:00:00.000Z",
-        "dateAsStr": "2/1/22",
         "cases": 29323,
         "newCases": 106
     },
     {
+        "date": "2022-01-30T00:00:00.000Z",
+        "dateAsStr": "1/30/22",
+        "cases": 29444,
+        "newCases": 121
+    },
+    {
+        "date": "2022-01-31T00:00:00.000Z",
+        "dateAsStr": "1/31/22",
+        "cases": 29477,
+        "newCases": 33
+    },
+    {
+        "date": "2022-02-01T00:00:00.000Z",
+        "dateAsStr": "2/1/22",
+        "cases": 29549,
+        "newCases": 72
+    },
+    {
         "date": "2022-02-02T00:00:00.000Z",
         "dateAsStr": "2/2/22",
-        "cases": 29323,
+        "cases": 29549,
         "newCases": 0
     },
     {
         "date": "2022-02-03T00:00:00.000Z",
         "dateAsStr": "2/3/22",
-        "cases": 29323,
-        "newCases": 0
+        "cases": 29715,
+        "newCases": 166
     },
     {
         "date": "2022-02-04T00:00:00.000Z",
         "dateAsStr": "2/4/22",
-        "cases": 29593,
-        "newCases": 270
+        "cases": 29779,
+        "newCases": 64
     },
     {
         "date": "2022-02-05T00:00:00.000Z",
         "dateAsStr": "2/5/22",
-        "cases": 29593,
-        "newCases": 0
+        "cases": 29832,
+        "newCases": 53
     },
     {
         "date": "2022-02-06T00:00:00.000Z",
         "dateAsStr": "2/6/22",
-        "cases": 29715,
-        "newCases": 122
+        "cases": 29848,
+        "newCases": 16
     },
     {
         "date": "2022-02-07T00:00:00.000Z",
         "dateAsStr": "2/7/22",
-        "cases": 29832,
-        "newCases": 117
+        "cases": 29879,
+        "newCases": 31
     },
     {
         "date": "2022-02-08T00:00:00.000Z",
         "dateAsStr": "2/8/22",
-        "cases": 29879,
-        "newCases": 47
+        "cases": 29888,
+        "newCases": 9
     },
     {
         "date": "2022-02-09T00:00:00.000Z",
         "dateAsStr": "2/9/22",
-        "cases": 29888,
-        "newCases": 9
+        "cases": 29907,
+        "newCases": 19
     },
     {
         "date": "2022-02-10T00:00:00.000Z",
         "dateAsStr": "2/10/22",
         "cases": 29907,
-        "newCases": 19
+        "newCases": 0
     },
     {
         "date": "2022-02-11T00:00:00.000Z",
         "dateAsStr": "2/11/22",
-        "cases": 29939,
-        "newCases": 32
+        "cases": 29907,
+        "newCases": 0
     },
     {
         "date": "2022-02-12T00:00:00.000Z",
         "dateAsStr": "2/12/22",
-        "cases": 29939,
-        "newCases": 0
+        "cases": 30055,
+        "newCases": 148
     },
     {
         "date": "2022-02-13T00:00:00.000Z",
         "dateAsStr": "2/13/22",
-        "cases": 29969,
-        "newCases": 30
+        "cases": 30055,
+        "newCases": 0
     },
     {
         "date": "2022-02-14T00:00:00.000Z",
         "dateAsStr": "2/14/22",
-        "cases": 29983,
-        "newCases": 14
+        "cases": 30102,
+        "newCases": 47
     },
     {
         "date": "2022-02-15T00:00:00.000Z",
         "dateAsStr": "2/15/22",
-        "cases": 30055,
-        "newCases": 72
+        "cases": 30121,
+        "newCases": 19
     },
     {
         "date": "2022-02-16T00:00:00.000Z",
         "dateAsStr": "2/16/22",
-        "cases": 30121,
-        "newCases": 66
-    },
-    {
-        "date": "2022-02-17T00:00:00.000Z",
-        "dateAsStr": "2/17/22",
         "cases": 30162,
         "newCases": 41
     },
     {
+        "date": "2022-02-17T00:00:00.000Z",
+        "dateAsStr": "2/17/22",
+        "cases": 30208,
+        "newCases": 46
+    },
+    {
         "date": "2022-02-18T00:00:00.000Z",
         "dateAsStr": "2/18/22",
-        "cases": 30162,
-        "newCases": 0
+        "cases": 30226,
+        "newCases": 18
     },
     {
         "date": "2022-02-19T00:00:00.000Z",
         "dateAsStr": "2/19/22",
-        "cases": 30162,
-        "newCases": 0
-    },
-    {
-        "date": "2022-02-20T00:00:00.000Z",
-        "dateAsStr": "2/20/22",
-        "cases": 30226,
-        "newCases": 64
-    },
-    {
-        "date": "2022-02-21T00:00:00.000Z",
-        "dateAsStr": "2/21/22",
         "cases": 30260,
         "newCases": 34
     },
     {
+        "date": "2022-02-20T00:00:00.000Z",
+        "dateAsStr": "2/20/22",
+        "cases": 30273,
+        "newCases": 13
+    },
+    {
+        "date": "2022-02-21T00:00:00.000Z",
+        "dateAsStr": "2/21/22",
+        "cases": 30287,
+        "newCases": 14
+    },
+    {
         "date": "2022-02-22T00:00:00.000Z",
         "dateAsStr": "2/22/22",
-        "cases": 30287,
-        "newCases": 27
+        "cases": 30299,
+        "newCases": 12
     },
     {
         "date": "2022-02-23T00:00:00.000Z",
         "dateAsStr": "2/23/22",
-        "cases": 30299,
-        "newCases": 12
+        "cases": 30314,
+        "newCases": 15
     },
     {
         "date": "2022-02-24T00:00:00.000Z",
         "dateAsStr": "2/24/22",
         "cases": 30336,
-        "newCases": 37
+        "newCases": 22
     },
     {
         "date": "2022-02-25T00:00:00.000Z",
         "dateAsStr": "2/25/22",
-        "cases": 30336,
-        "newCases": 0
+        "cases": 30340,
+        "newCases": 4
     },
     {
         "date": "2022-02-26T00:00:00.000Z",
         "dateAsStr": "2/26/22",
-        "cases": 30340,
-        "newCases": 4
+        "cases": 30342,
+        "newCases": 2
     },
     {
         "date": "2022-02-27T00:00:00.000Z",
         "dateAsStr": "2/27/22",
         "cases": 30342,
-        "newCases": 2
+        "newCases": 0
     },
     {
         "date": "2022-02-28T00:00:00.000Z",
         "dateAsStr": "2/28/22",
-        "cases": 30342,
-        "newCases": 0
-    },
-    {
-        "date": "2022-03-01T00:00:00.000Z",
-        "dateAsStr": "3/1/22",
-        "cases": 30342,
-        "newCases": 0
-    },
-    {
-        "date": "2022-03-02T00:00:00.000Z",
-        "dateAsStr": "3/2/22",
         "cases": 30350,
         "newCases": 8
     },
     {
-        "date": "2022-03-03T00:00:00.000Z",
-        "dateAsStr": "3/3/22",
+        "date": "2022-03-01T00:00:00.000Z",
+        "dateAsStr": "3/1/22",
         "cases": 30353,
         "newCases": 3
     },
     {
-        "date": "2022-03-04T00:00:00.000Z",
-        "dateAsStr": "3/4/22",
-        "cases": 30382,
-        "newCases": 29
+        "date": "2022-03-02T00:00:00.000Z",
+        "dateAsStr": "3/2/22",
+        "cases": 30375,
+        "newCases": 22
     },
     {
-        "date": "2022-03-05T00:00:00.000Z",
-        "dateAsStr": "3/5/22",
+        "date": "2022-03-03T00:00:00.000Z",
+        "dateAsStr": "3/3/22",
+        "cases": 30382,
+        "newCases": 7
+    },
+    {
+        "date": "2022-03-04T00:00:00.000Z",
+        "dateAsStr": "3/4/22",
         "cases": 30385,
         "newCases": 3
     },
     {
+        "date": "2022-03-05T00:00:00.000Z",
+        "dateAsStr": "3/5/22",
+        "cases": 30400,
+        "newCases": 15
+    },
+    {
         "date": "2022-03-06T00:00:00.000Z",
         "dateAsStr": "3/6/22",
-        "cases": 30385,
-        "newCases": 0
+        "cases": 30430,
+        "newCases": 30
     },
     {
         "date": "2022-03-07T00:00:00.000Z",
         "dateAsStr": "3/7/22",
-        "cases": 30385,
+        "cases": 30430,
         "newCases": 0
     },
     {
         "date": "2022-03-08T00:00:00.000Z",
         "dateAsStr": "3/8/22",
-        "cases": 30400,
-        "newCases": 15
+        "cases": 30432,
+        "newCases": 2
     },
     {
         "date": "2022-03-09T00:00:00.000Z",
         "dateAsStr": "3/9/22",
-        "cases": 30430,
-        "newCases": 30
+        "cases": 30433,
+        "newCases": 1
     },
     {
         "date": "2022-03-10T00:00:00.000Z",
         "dateAsStr": "3/10/22",
-        "cases": 30433,
-        "newCases": 3
-    },
-    {
-        "date": "2022-03-11T00:00:00.000Z",
-        "dateAsStr": "3/11/22",
         "cases": 30438,
         "newCases": 5
     },
     {
-        "date": "2022-03-12T00:00:00.000Z",
-        "dateAsStr": "3/12/22",
+        "date": "2022-03-11T00:00:00.000Z",
+        "dateAsStr": "3/11/22",
         "cases": 30446,
         "newCases": 8
     },
     {
-        "date": "2022-03-13T00:00:00.000Z",
-        "dateAsStr": "3/13/22",
+        "date": "2022-03-12T00:00:00.000Z",
+        "dateAsStr": "3/12/22",
         "cases": 30461,
         "newCases": 15
     },
     {
+        "date": "2022-03-13T00:00:00.000Z",
+        "dateAsStr": "3/13/22",
+        "cases": 30473,
+        "newCases": 12
+    },
+    {
         "date": "2022-03-14T00:00:00.000Z",
         "dateAsStr": "3/14/22",
-        "cases": 30461,
+        "cases": 30473,
         "newCases": 0
     },
     {
         "date": "2022-03-15T00:00:00.000Z",
         "dateAsStr": "3/15/22",
-        "cases": 30473,
-        "newCases": 12
-    },
-    {
-        "date": "2022-03-16T00:00:00.000Z",
-        "dateAsStr": "3/16/22",
         "cases": 30478,
         "newCases": 5
     },
     {
+        "date": "2022-03-16T00:00:00.000Z",
+        "dateAsStr": "3/16/22",
+        "cases": 30487,
+        "newCases": 9
+    },
+    {
         "date": "2022-03-17T00:00:00.000Z",
         "dateAsStr": "3/17/22",
-        "cases": 30478,
-        "newCases": 0
+        "cases": 30488,
+        "newCases": 1
     },
     {
         "date": "2022-03-18T00:00:00.000Z",
         "dateAsStr": "3/18/22",
-        "cases": 30478,
-        "newCases": 0
+        "cases": 30494,
+        "newCases": 6
     },
     {
         "date": "2022-03-19T00:00:00.000Z",
         "dateAsStr": "3/19/22",
-        "cases": 30478,
-        "newCases": 0
+        "cases": 30496,
+        "newCases": 2
     },
     {
         "date": "2022-03-20T00:00:00.000Z",
         "dateAsStr": "3/20/22",
-        "cases": 30478,
-        "newCases": 0
+        "cases": 30509,
+        "newCases": 13
     },
     {
         "date": "2022-03-21T00:00:00.000Z",
         "dateAsStr": "3/21/22",
-        "cases": 30509,
-        "newCases": 31
+        "cases": 30511,
+        "newCases": 2
     },
     {
         "date": "2022-03-22T00:00:00.000Z",
         "dateAsStr": "3/22/22",
         "cases": 30511,
-        "newCases": 2
+        "newCases": 0
     },
     {
         "date": "2022-03-23T00:00:00.000Z",
         "dateAsStr": "3/23/22",
-        "cases": 30511,
-        "newCases": 0
+        "cases": 30515,
+        "newCases": 4
     },
     {
         "date": "2022-03-24T00:00:00.000Z",
         "dateAsStr": "3/24/22",
-        "cases": 30511,
-        "newCases": 0
+        "cases": 30522,
+        "newCases": 7
     },
     {
         "date": "2022-03-25T00:00:00.000Z",
         "dateAsStr": "3/25/22",
-        "cases": 30511,
-        "newCases": 0
+        "cases": 30528,
+        "newCases": 6
     },
     {
         "date": "2022-03-26T00:00:00.000Z",
         "dateAsStr": "3/26/22",
-        "cases": 30511,
+        "cases": 30528,
         "newCases": 0
     },
     {
         "date": "2022-03-27T00:00:00.000Z",
         "dateAsStr": "3/27/22",
-        "cases": 30511,
+        "cases": 30528,
         "newCases": 0
     },
     {
         "date": "2022-03-28T00:00:00.000Z",
         "dateAsStr": "3/28/22",
-        "cases": 30529,
-        "newCases": 18
+        "cases": 30545,
+        "newCases": 17
     },
     {
         "date": "2022-03-29T00:00:00.000Z",
         "dateAsStr": "3/29/22",
-        "cases": 30529,
+        "cases": 30545,
         "newCases": 0
     },
     {
         "date": "2022-03-30T00:00:00.000Z",
         "dateAsStr": "3/30/22",
         "cases": 30545,
-        "newCases": 16
+        "newCases": 0
     },
     {
         "date": "2022-03-31T00:00:00.000Z",
         "dateAsStr": "3/31/22",
-        "cases": 30547,
-        "newCases": 2
+        "cases": 30563,
+        "newCases": 18
     },
     {
         "date": "2022-04-01T00:00:00.000Z",
         "dateAsStr": "4/1/22",
-        "cases": 30547,
-        "newCases": 0
+        "cases": 30567,
+        "newCases": 4
     },
     {
         "date": "2022-04-02T00:00:00.000Z",
         "dateAsStr": "4/2/22",
-        "cases": 30549,
-        "newCases": 2
+        "cases": 30571,
+        "newCases": 4
     },
     {
         "date": "2022-04-03T00:00:00.000Z",
         "dateAsStr": "4/3/22",
-        "cases": 30549,
-        "newCases": 0
+        "cases": 30575,
+        "newCases": 4
     },
     {
         "date": "2022-04-04T00:00:00.000Z",
         "dateAsStr": "4/4/22",
-        "cases": 30567,
-        "newCases": 18
+        "cases": 30575,
+        "newCases": 0
     },
     {
         "date": "2022-04-05T00:00:00.000Z",
         "dateAsStr": "4/5/22",
-        "cases": 30567,
-        "newCases": 0
+        "cases": 30576,
+        "newCases": 1
     },
     {
         "date": "2022-04-06T00:00:00.000Z",
         "dateAsStr": "4/6/22",
-        "cases": 30575,
-        "newCases": 8
+        "cases": 30578,
+        "newCases": 2
     },
     {
         "date": "2022-04-07T00:00:00.000Z",
         "dateAsStr": "4/7/22",
-        "cases": 30575,
+        "cases": 30578,
         "newCases": 0
     },
     {
         "date": "2022-04-08T00:00:00.000Z",
         "dateAsStr": "4/8/22",
-        "cases": 30578,
-        "newCases": 3
-    },
-    {
-        "date": "2022-04-09T00:00:00.000Z",
-        "dateAsStr": "4/9/22",
         "cases": 30585,
         "newCases": 7
     },
     {
+        "date": "2022-04-09T00:00:00.000Z",
+        "dateAsStr": "4/9/22",
+        "cases": 30586,
+        "newCases": 1
+    },
+    {
         "date": "2022-04-10T00:00:00.000Z",
         "dateAsStr": "4/10/22",
-        "cases": 30585,
+        "cases": 30586,
         "newCases": 0
     },
     {
         "date": "2022-04-11T00:00:00.000Z",
         "dateAsStr": "4/11/22",
-        "cases": 30586,
+        "cases": 30587,
         "newCases": 1
     },
     {
         "date": "2022-04-12T00:00:00.000Z",
         "dateAsStr": "4/12/22",
-        "cases": 30586,
-        "newCases": 0
+        "cases": 30594,
+        "newCases": 7
     },
     {
         "date": "2022-04-13T00:00:00.000Z",
         "dateAsStr": "4/13/22",
-        "cases": 30586,
-        "newCases": 0
+        "cases": 30610,
+        "newCases": 16
     },
     {
         "date": "2022-04-14T00:00:00.000Z",
         "dateAsStr": "4/14/22",
-        "cases": 30586,
-        "newCases": 0
+        "cases": 30612,
+        "newCases": 2
     },
     {
         "date": "2022-04-15T00:00:00.000Z",
         "dateAsStr": "4/15/22",
-        "cases": 30594,
-        "newCases": 8
+        "cases": 30615,
+        "newCases": 3
     },
     {
         "date": "2022-04-16T00:00:00.000Z",
         "dateAsStr": "4/16/22",
-        "cases": 30594,
-        "newCases": 0
+        "cases": 30623,
+        "newCases": 8
     },
     {
         "date": "2022-04-17T00:00:00.000Z",
         "dateAsStr": "4/17/22",
-        "cases": 30594,
-        "newCases": 0
+        "cases": 30640,
+        "newCases": 17
     },
     {
         "date": "2022-04-18T00:00:00.000Z",
         "dateAsStr": "4/18/22",
-        "cases": 30594,
-        "newCases": 0
+        "cases": 30643,
+        "newCases": 3
     },
     {
         "date": "2022-04-19T00:00:00.000Z",
         "dateAsStr": "4/19/22",
-        "cases": 30615,
-        "newCases": 21
+        "cases": 30648,
+        "newCases": 5
     },
     {
         "date": "2022-04-20T00:00:00.000Z",
         "dateAsStr": "4/20/22",
-        "cases": 30615,
-        "newCases": 0
+        "cases": 30649,
+        "newCases": 1
     },
     {
         "date": "2022-04-21T00:00:00.000Z",
         "dateAsStr": "4/21/22",
-        "cases": 30615,
-        "newCases": 0
+        "cases": 30650,
+        "newCases": 1
     },
     {
         "date": "2022-04-22T00:00:00.000Z",
         "dateAsStr": "4/22/22",
-        "cases": 30640,
-        "newCases": 25
+        "cases": 30655,
+        "newCases": 5
     },
     {
         "date": "2022-04-23T00:00:00.000Z",
         "dateAsStr": "4/23/22",
-        "cases": 30640,
-        "newCases": 0
+        "cases": 30659,
+        "newCases": 4
     },
     {
         "date": "2022-04-24T00:00:00.000Z",
         "dateAsStr": "4/24/22",
-        "cases": 30640,
+        "cases": 30659,
         "newCases": 0
     },
     {
         "date": "2022-04-25T00:00:00.000Z",
         "dateAsStr": "4/25/22",
-        "cases": 30640,
-        "newCases": 0
+        "cases": 30690,
+        "newCases": 31
     },
     {
         "date": "2022-04-26T00:00:00.000Z",
         "dateAsStr": "4/26/22",
-        "cases": 30655,
-        "newCases": 15
+        "cases": 30690,
+        "newCases": 0
     },
     {
         "date": "2022-04-27T00:00:00.000Z",
         "dateAsStr": "4/27/22",
-        "cases": 30655,
-        "newCases": 0
-    },
-    {
-        "date": "2022-04-28T00:00:00.000Z",
-        "dateAsStr": "4/28/22",
-        "cases": 30655,
-        "newCases": 0
-    },
-    {
-        "date": "2022-04-29T00:00:00.000Z",
-        "dateAsStr": "4/29/22",
-        "cases": 30690,
-        "newCases": 35
-    },
-    {
-        "date": "2022-04-30T00:00:00.000Z",
-        "dateAsStr": "4/30/22",
-        "cases": 30690,
-        "newCases": 0
-    },
-    {
-        "date": "2022-05-01T00:00:00.000Z",
-        "dateAsStr": "5/1/22",
-        "cases": 30690,
-        "newCases": 0
-    },
-    {
-        "date": "2022-05-02T00:00:00.000Z",
-        "dateAsStr": "5/2/22",
         "cases": 30697,
         "newCases": 7
     },
     {
+        "date": "2022-04-28T00:00:00.000Z",
+        "dateAsStr": "4/28/22",
+        "cases": 30699,
+        "newCases": 2
+    },
+    {
+        "date": "2022-04-29T00:00:00.000Z",
+        "dateAsStr": "4/29/22",
+        "cases": 30702,
+        "newCases": 3
+    },
+    {
+        "date": "2022-04-30T00:00:00.000Z",
+        "dateAsStr": "4/30/22",
+        "cases": 30703,
+        "newCases": 1
+    },
+    {
+        "date": "2022-05-01T00:00:00.000Z",
+        "dateAsStr": "5/1/22",
+        "cases": 30704,
+        "newCases": 1
+    },
+    {
+        "date": "2022-05-02T00:00:00.000Z",
+        "dateAsStr": "5/2/22",
+        "cases": 30705,
+        "newCases": 1
+    },
+    {
         "date": "2022-05-03T00:00:00.000Z",
         "dateAsStr": "5/3/22",
-        "cases": 30697,
-        "newCases": 0
+        "cases": 30707,
+        "newCases": 2
     },
     {
         "date": "2022-05-04T00:00:00.000Z",
         "dateAsStr": "5/4/22",
-        "cases": 30703,
-        "newCases": 6
+        "cases": 30707,
+        "newCases": 0
     },
     {
         "date": "2022-05-05T00:00:00.000Z",
         "dateAsStr": "5/5/22",
-        "cases": 30703,
+        "cases": 30707,
         "newCases": 0
     },
     {
         "date": "2022-05-06T00:00:00.000Z",
         "dateAsStr": "5/6/22",
-        "cases": 30703,
+        "cases": 30707,
         "newCases": 0
     },
     {
         "date": "2022-05-07T00:00:00.000Z",
         "dateAsStr": "5/7/22",
-        "cases": 30703,
-        "newCases": 0
+        "cases": 30712,
+        "newCases": 5
     },
     {
         "date": "2022-05-08T00:00:00.000Z",
         "dateAsStr": "5/8/22",
-        "cases": 30703,
-        "newCases": 0
+        "cases": 30713,
+        "newCases": 1
     },
     {
         "date": "2022-05-09T00:00:00.000Z",
         "dateAsStr": "5/9/22",
-        "cases": 30707,
-        "newCases": 4
+        "cases": 30713,
+        "newCases": 0
     },
     {
         "date": "2022-05-10T00:00:00.000Z",
         "dateAsStr": "5/10/22",
-        "cases": 30707,
+        "cases": 30713,
         "newCases": 0
     },
     {
         "date": "2022-05-11T00:00:00.000Z",
         "dateAsStr": "5/11/22",
-        "cases": 30707,
-        "newCases": 0
+        "cases": 30725,
+        "newCases": 12
     },
     {
         "date": "2022-05-12T00:00:00.000Z",
         "dateAsStr": "5/12/22",
-        "cases": 30713,
-        "newCases": 6
+        "cases": 30730,
+        "newCases": 5
     },
     {
         "date": "2022-05-13T00:00:00.000Z",
         "dateAsStr": "5/13/22",
-        "cases": 30713,
-        "newCases": 0
+        "cases": 30734,
+        "newCases": 4
     },
     {
         "date": "2022-05-14T00:00:00.000Z",
         "dateAsStr": "5/14/22",
-        "cases": 30713,
-        "newCases": 0
+        "cases": 30740,
+        "newCases": 6
     },
     {
         "date": "2022-05-15T00:00:00.000Z",
         "dateAsStr": "5/15/22",
-        "cases": 30713,
-        "newCases": 0
+        "cases": 30746,
+        "newCases": 6
     },
     {
         "date": "2022-05-16T00:00:00.000Z",
         "dateAsStr": "5/16/22",
-        "cases": 30725,
-        "newCases": 12
+        "cases": 30754,
+        "newCases": 8
     },
     {
         "date": "2022-05-17T00:00:00.000Z",
         "dateAsStr": "5/17/22",
-        "cases": 30725,
-        "newCases": 0
+        "cases": 30760,
+        "newCases": 6
     },
     {
         "date": "2022-05-18T00:00:00.000Z",
         "dateAsStr": "5/18/22",
-        "cases": 30725,
-        "newCases": 0
+        "cases": 30771,
+        "newCases": 11
     },
     {
         "date": "2022-05-19T00:00:00.000Z",
         "dateAsStr": "5/19/22",
-        "cases": 30734,
-        "newCases": 9
+        "cases": 30781,
+        "newCases": 10
     },
     {
         "date": "2022-05-20T00:00:00.000Z",
         "dateAsStr": "5/20/22",
-        "cases": 30746,
-        "newCases": 12
+        "cases": 30781,
+        "newCases": 0
     },
     {
         "date": "2022-05-21T00:00:00.000Z",
         "dateAsStr": "5/21/22",
-        "cases": 30746,
-        "newCases": 0
-    },
-    {
-        "date": "2022-05-22T00:00:00.000Z",
-        "dateAsStr": "5/22/22",
-        "cases": 30746,
-        "newCases": 0
+        "cases": 30789,
+        "newCases": 8
     },
     {
         "date": "2022-05-23T00:00:00.000Z",
         "dateAsStr": "5/23/22",
-        "cases": 30746,
-        "newCases": 0
+        "cases": 30803,
+        "newCases": 49
     },
     {
         "date": "2022-05-24T00:00:00.000Z",
         "dateAsStr": "5/24/22",
-        "cases": 30781,
-        "newCases": 35
+        "cases": 30805,
+        "newCases": 2
     },
     {
         "date": "2022-05-25T00:00:00.000Z",
         "dateAsStr": "5/25/22",
-        "cases": 30781,
-        "newCases": 0
+        "cases": 30818,
+        "newCases": 13
     },
     {
         "date": "2022-05-26T00:00:00.000Z",
         "dateAsStr": "5/26/22",
-        "cases": 30781,
+        "cases": 30818,
         "newCases": 0
     },
     {
         "date": "2022-05-27T00:00:00.000Z",
         "dateAsStr": "5/27/22",
-        "cases": 30781,
+        "cases": 30818,
         "newCases": 0
     },
     {
         "date": "2022-05-28T00:00:00.000Z",
         "dateAsStr": "5/28/22",
-        "cases": 30781,
+        "cases": 30818,
         "newCases": 0
     },
     {
         "date": "2022-05-29T00:00:00.000Z",
         "dateAsStr": "5/29/22",
-        "cases": 30800,
-        "newCases": 19
+        "cases": 30818,
+        "newCases": 0
     },
     {
         "date": "2022-05-30T00:00:00.000Z",
         "dateAsStr": "5/30/22",
-        "cases": 30800,
+        "cases": 30818,
         "newCases": 0
     },
     {
         "date": "2022-05-31T00:00:00.000Z",
         "dateAsStr": "5/31/22",
-        "cases": 30818,
-        "newCases": 18
+        "cases": 30892,
+        "newCases": 74
     },
     {
         "date": "2022-06-01T00:00:00.000Z",
         "dateAsStr": "6/1/22",
-        "cases": 30861,
-        "newCases": 43
+        "cases": 30905,
+        "newCases": 13
     },
     {
         "date": "2022-06-02T00:00:00.000Z",
         "dateAsStr": "6/2/22",
-        "cases": 30874,
-        "newCases": 13
+        "cases": 30924,
+        "newCases": 19
     },
     {
         "date": "2022-06-03T00:00:00.000Z",
         "dateAsStr": "6/3/22",
-        "cases": 30892,
-        "newCases": 18
+        "cases": 30940,
+        "newCases": 16
     },
     {
         "date": "2022-06-04T00:00:00.000Z",
         "dateAsStr": "6/4/22",
-        "cases": 30892,
-        "newCases": 0
+        "cases": 30952,
+        "newCases": 12
     },
     {
         "date": "2022-06-05T00:00:00.000Z",
         "dateAsStr": "6/5/22",
-        "cases": 30892,
-        "newCases": 0
+        "cases": 30963,
+        "newCases": 11
     },
     {
         "date": "2022-06-06T00:00:00.000Z",
         "dateAsStr": "6/6/22",
-        "cases": 30892,
-        "newCases": 0
+        "cases": 30970,
+        "newCases": 7
     },
     {
         "date": "2022-06-07T00:00:00.000Z",
         "dateAsStr": "6/7/22",
-        "cases": 30940,
-        "newCases": 48
+        "cases": 30985,
+        "newCases": 15
     },
     {
         "date": "2022-06-08T00:00:00.000Z",
         "dateAsStr": "6/8/22",
-        "cases": 30963,
-        "newCases": 23
+        "cases": 31004,
+        "newCases": 19
     },
     {
         "date": "2022-06-09T00:00:00.000Z",
         "dateAsStr": "6/9/22",
-        "cases": 30963,
-        "newCases": 0
+        "cases": 31025,
+        "newCases": 21
     },
     {
         "date": "2022-06-10T00:00:00.000Z",
         "dateAsStr": "6/10/22",
-        "cases": 31004,
-        "newCases": 41
+        "cases": 31034,
+        "newCases": 9
     },
     {
         "date": "2022-06-11T00:00:00.000Z",
         "dateAsStr": "6/11/22",
-        "cases": 31004,
-        "newCases": 0
-    },
-    {
-        "date": "2022-06-12T00:00:00.000Z",
-        "dateAsStr": "6/12/22",
-        "cases": 31004,
-        "newCases": 0
-    },
-    {
-        "date": "2022-06-13T00:00:00.000Z",
-        "dateAsStr": "6/13/22",
-        "cases": 31004,
-        "newCases": 0
-    },
-    {
-        "date": "2022-06-14T00:00:00.000Z",
-        "dateAsStr": "6/14/22",
-        "cases": 31034,
-        "newCases": 30
-    },
-    {
-        "date": "2022-06-15T00:00:00.000Z",
-        "dateAsStr": "6/15/22",
         "cases": 31054,
         "newCases": 20
     },
     {
+        "date": "2022-06-12T00:00:00.000Z",
+        "dateAsStr": "6/12/22",
+        "cases": 31075,
+        "newCases": 21
+    },
+    {
+        "date": "2022-06-13T00:00:00.000Z",
+        "dateAsStr": "6/13/22",
+        "cases": 31092,
+        "newCases": 17
+    },
+    {
+        "date": "2022-06-14T00:00:00.000Z",
+        "dateAsStr": "6/14/22",
+        "cases": 31115,
+        "newCases": 23
+    },
+    {
+        "date": "2022-06-15T00:00:00.000Z",
+        "dateAsStr": "6/15/22",
+        "cases": 31133,
+        "newCases": 18
+    },
+    {
         "date": "2022-06-16T00:00:00.000Z",
         "dateAsStr": "6/16/22",
-        "cases": 31054,
-        "newCases": 0
+        "cases": 31163,
+        "newCases": 30
     },
     {
         "date": "2022-06-17T00:00:00.000Z",
         "dateAsStr": "6/17/22",
-        "cases": 31054,
-        "newCases": 0
+        "cases": 31195,
+        "newCases": 32
     },
     {
         "date": "2022-06-18T00:00:00.000Z",
         "dateAsStr": "6/18/22",
-        "cases": 31054,
-        "newCases": 0
+        "cases": 31200,
+        "newCases": 5
     },
     {
         "date": "2022-06-19T00:00:00.000Z",
         "dateAsStr": "6/19/22",
-        "cases": 31054,
-        "newCases": 0
+        "cases": 31226,
+        "newCases": 26
     },
     {
         "date": "2022-06-20T00:00:00.000Z",
         "dateAsStr": "6/20/22",
-        "cases": 31115,
-        "newCases": 61
+        "cases": 31242,
+        "newCases": 16
     },
     {
         "date": "2022-06-21T00:00:00.000Z",
         "dateAsStr": "6/21/22",
-        "cases": 31115,
-        "newCases": 0
+        "cases": 31248,
+        "newCases": 6
     },
     {
         "date": "2022-06-22T00:00:00.000Z",
         "dateAsStr": "6/22/22",
-        "cases": 31226,
-        "newCases": 111
-    },
-    {
-        "date": "2022-06-23T00:00:00.000Z",
-        "dateAsStr": "6/23/22",
-        "cases": 31226,
-        "newCases": 0
-    },
-    {
-        "date": "2022-06-24T00:00:00.000Z",
-        "dateAsStr": "6/24/22",
-        "cases": 31248,
-        "newCases": 22
-    },
-    {
-        "date": "2022-06-25T00:00:00.000Z",
-        "dateAsStr": "6/25/22",
         "cases": 31301,
         "newCases": 53
     },
     {
+        "date": "2022-06-23T00:00:00.000Z",
+        "dateAsStr": "6/23/22",
+        "cases": 31355,
+        "newCases": 54
+    },
+    {
+        "date": "2022-06-24T00:00:00.000Z",
+        "dateAsStr": "6/24/22",
+        "cases": 31410,
+        "newCases": 55
+    },
+    {
+        "date": "2022-06-25T00:00:00.000Z",
+        "dateAsStr": "6/25/22",
+        "cases": 31470,
+        "newCases": 60
+    },
+    {
         "date": "2022-06-26T00:00:00.000Z",
         "dateAsStr": "6/26/22",
-        "cases": 31301,
+        "cases": 31470,
         "newCases": 0
     },
     {
         "date": "2022-06-27T00:00:00.000Z",
         "dateAsStr": "6/27/22",
-        "cases": 31410,
-        "newCases": 109
-    },
-    {
-        "date": "2022-06-28T00:00:00.000Z",
-        "dateAsStr": "6/28/22",
-        "cases": 31470,
-        "newCases": 60
-    },
-    {
-        "date": "2022-06-29T00:00:00.000Z",
-        "dateAsStr": "6/29/22",
         "cases": 31550,
         "newCases": 80
     },
     {
-        "date": "2022-06-30T00:00:00.000Z",
-        "dateAsStr": "6/30/22",
-        "cases": 31550,
-        "newCases": 0
-    },
-    {
-        "date": "2022-07-01T00:00:00.000Z",
-        "dateAsStr": "7/1/22",
+        "date": "2022-06-28T00:00:00.000Z",
+        "dateAsStr": "6/28/22",
         "cases": 31603,
         "newCases": 53
     },
     {
+        "date": "2022-06-29T00:00:00.000Z",
+        "dateAsStr": "6/29/22",
+        "cases": 31656,
+        "newCases": 53
+    },
+    {
+        "date": "2022-06-30T00:00:00.000Z",
+        "dateAsStr": "6/30/22",
+        "cases": 31677,
+        "newCases": 21
+    },
+    {
+        "date": "2022-07-01T00:00:00.000Z",
+        "dateAsStr": "7/1/22",
+        "cases": 31703,
+        "newCases": 26
+    },
+    {
         "date": "2022-07-02T00:00:00.000Z",
         "dateAsStr": "7/2/22",
-        "cases": 31603,
-        "newCases": 0
+        "cases": 31767,
+        "newCases": 64
     },
     {
         "date": "2022-07-03T00:00:00.000Z",
         "dateAsStr": "7/3/22",
-        "cases": 31603,
-        "newCases": 0
+        "cases": 31795,
+        "newCases": 28
     },
     {
         "date": "2022-07-04T00:00:00.000Z",
         "dateAsStr": "7/4/22",
-        "cases": 31677,
-        "newCases": 74
+        "cases": 31843,
+        "newCases": 48
     },
     {
         "date": "2022-07-05T00:00:00.000Z",
         "dateAsStr": "7/5/22",
-        "cases": 31677,
-        "newCases": 0
+        "cases": 31884,
+        "newCases": 41
     },
     {
         "date": "2022-07-06T00:00:00.000Z",
         "dateAsStr": "7/6/22",
-        "cases": 31767,
-        "newCases": 90
+        "cases": 31908,
+        "newCases": 24
     },
     {
         "date": "2022-07-07T00:00:00.000Z",
         "dateAsStr": "7/7/22",
-        "cases": 31767,
-        "newCases": 0
+        "cases": 31931,
+        "newCases": 23
     },
     {
         "date": "2022-07-08T00:00:00.000Z",
         "dateAsStr": "7/8/22",
-        "cases": 31767,
-        "newCases": 0
+        "cases": 31980,
+        "newCases": 49
     },
     {
         "date": "2022-07-09T00:00:00.000Z",
         "dateAsStr": "7/9/22",
-        "cases": 31767,
+        "cases": 31980,
         "newCases": 0
     },
     {
         "date": "2022-07-10T00:00:00.000Z",
         "dateAsStr": "7/10/22",
-        "cases": 31767,
+        "cases": 31980,
         "newCases": 0
     },
     {
         "date": "2022-07-11T00:00:00.000Z",
         "dateAsStr": "7/11/22",
-        "cases": 31908,
-        "newCases": 141
+        "cases": 31980,
+        "newCases": 0
     },
     {
         "date": "2022-07-12T00:00:00.000Z",
         "dateAsStr": "7/12/22",
-        "cases": 31980,
-        "newCases": 72
+        "cases": 32103,
+        "newCases": 123
     },
     {
         "date": "2022-07-13T00:00:00.000Z",
         "dateAsStr": "7/13/22",
-        "cases": 31980,
+        "cases": 32103,
         "newCases": 0
     },
     {
         "date": "2022-07-14T00:00:00.000Z",
         "dateAsStr": "7/14/22",
-        "cases": 32070,
-        "newCases": 90
-    },
-    {
-        "date": "2022-07-15T00:00:00.000Z",
-        "dateAsStr": "7/15/22",
-        "cases": 32070,
-        "newCases": 0
-    },
-    {
-        "date": "2022-07-16T00:00:00.000Z",
-        "dateAsStr": "7/16/22",
-        "cases": 32103,
-        "newCases": 33
-    },
-    {
-        "date": "2022-07-17T00:00:00.000Z",
-        "dateAsStr": "7/17/22",
-        "cases": 32103,
-        "newCases": 0
-    },
-    {
-        "date": "2022-07-18T00:00:00.000Z",
-        "dateAsStr": "7/18/22",
-        "cases": 32103,
-        "newCases": 0
-    },
-    {
-        "date": "2022-07-19T00:00:00.000Z",
-        "dateAsStr": "7/19/22",
-        "cases": 32103,
-        "newCases": 0
-    },
-    {
-        "date": "2022-07-20T00:00:00.000Z",
-        "dateAsStr": "7/20/22",
         "cases": 32131,
         "newCases": 28
     },
     {
+        "date": "2022-07-15T00:00:00.000Z",
+        "dateAsStr": "7/15/22",
+        "cases": 32145,
+        "newCases": 14
+    },
+    {
+        "date": "2022-07-16T00:00:00.000Z",
+        "dateAsStr": "7/16/22",
+        "cases": 32155,
+        "newCases": 10
+    },
+    {
+        "date": "2022-07-17T00:00:00.000Z",
+        "dateAsStr": "7/17/22",
+        "cases": 32178,
+        "newCases": 23
+    },
+    {
+        "date": "2022-07-18T00:00:00.000Z",
+        "dateAsStr": "7/18/22",
+        "cases": 32197,
+        "newCases": 19
+    },
+    {
+        "date": "2022-07-19T00:00:00.000Z",
+        "dateAsStr": "7/19/22",
+        "cases": 32223,
+        "newCases": 26
+    },
+    {
+        "date": "2022-07-20T00:00:00.000Z",
+        "dateAsStr": "7/20/22",
+        "cases": 32223,
+        "newCases": 0
+    },
+    {
         "date": "2022-07-21T00:00:00.000Z",
         "dateAsStr": "7/21/22",
-        "cases": 32131,
+        "cases": 32223,
         "newCases": 0
     },
     {
         "date": "2022-07-22T00:00:00.000Z",
         "dateAsStr": "7/22/22",
-        "cases": 32131,
+        "cases": 32223,
         "newCases": 0
     },
     {
         "date": "2022-07-23T00:00:00.000Z",
         "dateAsStr": "7/23/22",
-        "cases": 32131,
+        "cases": 32223,
         "newCases": 0
     },
     {
         "date": "2022-07-24T00:00:00.000Z",
         "dateAsStr": "7/24/22",
-        "cases": 32131,
-        "newCases": 0
+        "cases": 32263,
+        "newCases": 40
     },
     {
         "date": "2022-07-25T00:00:00.000Z",
         "dateAsStr": "7/25/22",
-        "cases": 32178,
-        "newCases": 47
+        "cases": 32263,
+        "newCases": 0
     },
     {
         "date": "2022-07-26T00:00:00.000Z",
         "dateAsStr": "7/26/22",
-        "cases": 32223,
-        "newCases": 45
-    },
-    {
-        "date": "2022-07-27T00:00:00.000Z",
-        "dateAsStr": "7/27/22",
-        "cases": 32223,
-        "newCases": 0
-    },
-    {
-        "date": "2022-07-28T00:00:00.000Z",
-        "dateAsStr": "7/28/22",
-        "cases": 32223,
-        "newCases": 0
-    },
-    {
-        "date": "2022-07-29T00:00:00.000Z",
-        "dateAsStr": "7/29/22",
-        "cases": 32248,
-        "newCases": 25
-    },
-    {
-        "date": "2022-07-30T00:00:00.000Z",
-        "dateAsStr": "7/30/22",
-        "cases": 32263,
-        "newCases": 15
-    },
-    {
-        "date": "2022-07-31T00:00:00.000Z",
-        "dateAsStr": "7/31/22",
-        "cases": 32263,
-        "newCases": 0
-    },
-    {
-        "date": "2022-08-01T00:00:00.000Z",
-        "dateAsStr": "8/1/22",
         "cases": 32272,
         "newCases": 9
     },
     {
+        "date": "2022-07-27T00:00:00.000Z",
+        "dateAsStr": "7/27/22",
+        "cases": 32285,
+        "newCases": 13
+    },
+    {
+        "date": "2022-07-28T00:00:00.000Z",
+        "dateAsStr": "7/28/22",
+        "cases": 32296,
+        "newCases": 11
+    },
+    {
+        "date": "2022-07-29T00:00:00.000Z",
+        "dateAsStr": "7/29/22",
+        "cases": 32314,
+        "newCases": 18
+    },
+    {
+        "date": "2022-07-30T00:00:00.000Z",
+        "dateAsStr": "7/30/22",
+        "cases": 32361,
+        "newCases": 47
+    },
+    {
+        "date": "2022-07-31T00:00:00.000Z",
+        "dateAsStr": "7/31/22",
+        "cases": 32405,
+        "newCases": 44
+    },
+    {
+        "date": "2022-08-01T00:00:00.000Z",
+        "dateAsStr": "8/1/22",
+        "cases": 32464,
+        "newCases": 59
+    },
+    {
         "date": "2022-08-02T00:00:00.000Z",
         "dateAsStr": "8/2/22",
-        "cases": 32272,
-        "newCases": 0
+        "cases": 32516,
+        "newCases": 52
     },
     {
         "date": "2022-08-03T00:00:00.000Z",
         "dateAsStr": "8/3/22",
-        "cases": 32296,
-        "newCases": 24
+        "cases": 32516,
+        "newCases": 0
     },
     {
         "date": "2022-08-04T00:00:00.000Z",
         "dateAsStr": "8/4/22",
-        "cases": 32464,
-        "newCases": 168
+        "cases": 32516,
+        "newCases": 0
     },
     {
         "date": "2022-08-05T00:00:00.000Z",
         "dateAsStr": "8/5/22",
-        "cases": 32464,
+        "cases": 32516,
         "newCases": 0
     },
     {
         "date": "2022-08-06T00:00:00.000Z",
         "dateAsStr": "8/6/22",
-        "cases": 32464,
+        "cases": 32516,
         "newCases": 0
     },
     {
         "date": "2022-08-07T00:00:00.000Z",
         "dateAsStr": "8/7/22",
-        "cases": 32464,
-        "newCases": 0
+        "cases": 32703,
+        "newCases": 187
     },
     {
         "date": "2022-08-08T00:00:00.000Z",
         "dateAsStr": "8/8/22",
-        "cases": 32464,
-        "newCases": 0
+        "cases": 32715,
+        "newCases": 12
     },
     {
         "date": "2022-08-09T00:00:00.000Z",
         "dateAsStr": "8/9/22",
-        "cases": 32577,
-        "newCases": 113
+        "cases": 32738,
+        "newCases": 23
     },
     {
         "date": "2022-08-10T00:00:00.000Z",
         "dateAsStr": "8/10/22",
-        "cases": 32577,
-        "newCases": 0
+        "cases": 32791,
+        "newCases": 53
     },
     {
         "date": "2022-08-11T00:00:00.000Z",
         "dateAsStr": "8/11/22",
-        "cases": 32577,
-        "newCases": 0
+        "cases": 32809,
+        "newCases": 18
     },
     {
         "date": "2022-08-12T00:00:00.000Z",
         "dateAsStr": "8/12/22",
-        "cases": 32577,
-        "newCases": 0
+        "cases": 32843,
+        "newCases": 34
     },
     {
         "date": "2022-08-13T00:00:00.000Z",
         "dateAsStr": "8/13/22",
-        "cases": 32703,
-        "newCases": 126
+        "cases": 32873,
+        "newCases": 30
     },
     {
         "date": "2022-08-14T00:00:00.000Z",
         "dateAsStr": "8/14/22",
-        "cases": 32703,
-        "newCases": 0
+        "cases": 32942,
+        "newCases": 69
     },
     {
         "date": "2022-08-15T00:00:00.000Z",
         "dateAsStr": "8/15/22",
-        "cases": 32703,
-        "newCases": 0
+        "cases": 32961,
+        "newCases": 19
     },
     {
         "date": "2022-08-16T00:00:00.000Z",
         "dateAsStr": "8/16/22",
-        "cases": 32703,
-        "newCases": 0
+        "cases": 32994,
+        "newCases": 33
     },
     {
         "date": "2022-08-17T00:00:00.000Z",
         "dateAsStr": "8/17/22",
-        "cases": 32703,
-        "newCases": 0
+        "cases": 33017,
+        "newCases": 23
     },
     {
         "date": "2022-08-18T00:00:00.000Z",
         "dateAsStr": "8/18/22",
-        "cases": 32703,
-        "newCases": 0
+        "cases": 33043,
+        "newCases": 26
     },
     {
         "date": "2022-08-19T00:00:00.000Z",
         "dateAsStr": "8/19/22",
-        "cases": 32703,
-        "newCases": 0
+        "cases": 33070,
+        "newCases": 27
     },
     {
         "date": "2022-08-20T00:00:00.000Z",
         "dateAsStr": "8/20/22",
-        "cases": 32703,
-        "newCases": 0
+        "cases": 33133,
+        "newCases": 63
     },
     {
         "date": "2022-08-21T00:00:00.000Z",
         "dateAsStr": "8/21/22",
-        "cases": 32703,
-        "newCases": 0
+        "cases": 33189,
+        "newCases": 56
     },
     {
         "date": "2022-08-22T00:00:00.000Z",
         "dateAsStr": "8/22/22",
-        "cases": 32843,
-        "newCases": 140
+        "cases": 33239,
+        "newCases": 50
     },
     {
         "date": "2022-08-23T00:00:00.000Z",
         "dateAsStr": "8/23/22",
-        "cases": 32994,
-        "newCases": 151
+        "cases": 33295,
+        "newCases": 56
     },
     {
         "date": "2022-08-24T00:00:00.000Z",
         "dateAsStr": "8/24/22",
-        "cases": 32994,
-        "newCases": 0
+        "cases": 33331,
+        "newCases": 36
     },
     {
         "date": "2022-08-25T00:00:00.000Z",
         "dateAsStr": "8/25/22",
-        "cases": 33133,
-        "newCases": 139
+        "cases": 33360,
+        "newCases": 29
     },
     {
         "date": "2022-08-26T00:00:00.000Z",
         "dateAsStr": "8/26/22",
-        "cases": 33133,
-        "newCases": 0
+        "cases": 33381,
+        "newCases": 21
     },
     {
         "date": "2022-08-27T00:00:00.000Z",
         "dateAsStr": "8/27/22",
-        "cases": 33295,
-        "newCases": 162
+        "cases": 33400,
+        "newCases": 19
     },
     {
         "date": "2022-08-28T00:00:00.000Z",
         "dateAsStr": "8/28/22",
-        "cases": 33295,
-        "newCases": 0
+        "cases": 33442,
+        "newCases": 42
     },
     {
         "date": "2022-08-29T00:00:00.000Z",
         "dateAsStr": "8/29/22",
-        "cases": 33381,
-        "newCases": 86
+        "cases": 33468,
+        "newCases": 26
     },
     {
         "date": "2022-08-30T00:00:00.000Z",
         "dateAsStr": "8/30/22",
-        "cases": 33381,
-        "newCases": 0
+        "cases": 33520,
+        "newCases": 52
     },
     {
         "date": "2022-08-31T00:00:00.000Z",
         "dateAsStr": "8/31/22",
-        "cases": 33381,
-        "newCases": 0
+        "cases": 33551,
+        "newCases": 31
     },
     {
         "date": "2022-09-01T00:00:00.000Z",
         "dateAsStr": "9/1/22",
-        "cases": 33381,
+        "cases": 33551,
         "newCases": 0
     },
     {
         "date": "2022-09-02T00:00:00.000Z",
         "dateAsStr": "9/2/22",
-        "cases": 33468,
-        "newCases": 87
+        "cases": 33551,
+        "newCases": 0
     },
     {
         "date": "2022-09-03T00:00:00.000Z",
         "dateAsStr": "9/3/22",
-        "cases": 33468,
+        "cases": 33551,
         "newCases": 0
     },
     {
         "date": "2022-09-04T00:00:00.000Z",
         "dateAsStr": "9/4/22",
-        "cases": 33468,
+        "cases": 33551,
         "newCases": 0
     },
     {
         "date": "2022-09-05T00:00:00.000Z",
         "dateAsStr": "9/5/22",
         "cases": 33551,
-        "newCases": 83
+        "newCases": 0
     },
     {
         "date": "2022-09-06T00:00:00.000Z",
