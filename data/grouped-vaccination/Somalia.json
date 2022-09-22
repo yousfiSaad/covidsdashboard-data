@@ -4531,5 +4531,59 @@
         "daily_people_vaccinated": 18068,
         "daily_people_vaccinated_per_hundred": 0.106,
         "dateAsStr": "2022-09-12"
+    },
+    {
+        "date": "2022-09-13T00:00:00.000Z",
+        "daily_vaccinations": 21846,
+        "daily_vaccinations_per_million": 1280,
+        "daily_people_vaccinated": 21846,
+        "daily_people_vaccinated_per_hundred": 0.128,
+        "dateAsStr": "2022-09-13"
+    },
+    {
+        "date": "2022-09-14T00:00:00.000Z",
+        "daily_vaccinations": 25625,
+        "daily_vaccinations_per_million": 1502,
+        "daily_people_vaccinated": 25625,
+        "daily_people_vaccinated_per_hundred": 0.15,
+        "dateAsStr": "2022-09-14"
+    },
+    {
+        "date": "2022-09-15T00:00:00.000Z",
+        "daily_vaccinations": 29403,
+        "daily_vaccinations_per_million": 1723,
+        "daily_people_vaccinated": 29403,
+        "daily_people_vaccinated_per_hundred": 0.172,
+        "dateAsStr": "2022-09-15"
+    },
+    {
+        "date": "2022-09-16T00:00:00.000Z",
+        "daily_vaccinations": 33182,
+        "daily_vaccinations_per_million": 1944,
+        "daily_people_vaccinated": 33182,
+        "daily_people_vaccinated_per_hundred": 0.194,
+        "dateAsStr": "2022-09-16"
+    },
+    {
+        "date": "2022-09-17T00:00:00.000Z",
+        "daily_vaccinations": 36961,
+        "daily_vaccinations_per_million": 2166,
+        "daily_people_vaccinated": 36961,
+        "daily_people_vaccinated_per_hundred": 0.217,
+        "dateAsStr": "2022-09-17"
+    },
+    {
+        "date": "2022-09-18T00:00:00.000Z",
+        "total_vaccinations": 5029419,
+        "people_vaccinated": 4052789,
+        "people_fully_vaccinated": 2925403,
+        "daily_vaccinations": 40739,
+        "total_vaccinations_per_hundred": 29.47,
+        "people_vaccinated_per_hundred": 23.75,
+        "people_fully_vaccinated_per_hundred": 17.14,
+        "daily_vaccinations_per_million": 2387,
+        "daily_people_vaccinated": 40739,
+        "daily_people_vaccinated_per_hundred": 0.239,
+        "dateAsStr": "2022-09-18"
     }
 ]
