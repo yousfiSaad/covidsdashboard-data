@@ -8509,6 +8509,8 @@
         "total_vaccinations_per_hundred": 65.74,
         "people_fully_vaccinated_per_hundred": 30.06,
         "daily_vaccinations_per_million": 118,
+        "daily_people_vaccinated": 92,
+        "daily_people_vaccinated_per_hundred": 0.001,
         "dateAsStr": "2022-09-05"
     },
     {
@@ -8520,6 +8522,8 @@
         "total_vaccinations_per_hundred": 65.74,
         "people_fully_vaccinated_per_hundred": 30.06,
         "daily_vaccinations_per_million": 87,
+        "daily_people_vaccinated": 88,
+        "daily_people_vaccinated_per_hundred": 0.001,
         "dateAsStr": "2022-09-06"
     },
     {
@@ -8531,6 +8535,8 @@
         "total_vaccinations_per_hundred": 65.76,
         "people_fully_vaccinated_per_hundred": 30.06,
         "daily_vaccinations_per_million": 83,
+        "daily_people_vaccinated": 84,
+        "daily_people_vaccinated_per_hundred": 0.001,
         "dateAsStr": "2022-09-07"
     },
     {
@@ -8542,6 +8548,8 @@
         "total_vaccinations_per_hundred": 65.78,
         "people_fully_vaccinated_per_hundred": 30.06,
         "daily_vaccinations_per_million": 89,
+        "daily_people_vaccinated": 81,
+        "daily_people_vaccinated_per_hundred": 0.001,
         "dateAsStr": "2022-09-08"
     },
     {
@@ -8553,6 +8561,8 @@
         "total_vaccinations_per_hundred": 65.79,
         "people_fully_vaccinated_per_hundred": 30.07,
         "daily_vaccinations_per_million": 89,
+        "daily_people_vaccinated": 77,
+        "daily_people_vaccinated_per_hundred": 0.001,
         "dateAsStr": "2022-09-09"
     },
     {
@@ -8564,6 +8574,8 @@
         "total_vaccinations_per_hundred": 65.79,
         "people_fully_vaccinated_per_hundred": 30.07,
         "daily_vaccinations_per_million": 90,
+        "daily_people_vaccinated": 73,
+        "daily_people_vaccinated_per_hundred": 0.001,
         "dateAsStr": "2022-09-10"
     },
     {
@@ -8575,6 +8587,8 @@
         "total_vaccinations_per_hundred": 65.79,
         "people_fully_vaccinated_per_hundred": 30.07,
         "daily_vaccinations_per_million": 82,
+        "daily_people_vaccinated": 70,
+        "daily_people_vaccinated_per_hundred": 0.001,
         "dateAsStr": "2022-09-11"
     },
     {
@@ -8586,6 +8600,8 @@
         "total_vaccinations_per_hundred": 65.8,
         "people_fully_vaccinated_per_hundred": 30.07,
         "daily_vaccinations_per_million": 91,
+        "daily_people_vaccinated": 70,
+        "daily_people_vaccinated_per_hundred": 0.001,
         "dateAsStr": "2022-09-12"
     },
     {
@@ -8597,6 +8613,8 @@
         "total_vaccinations_per_hundred": 65.82,
         "people_fully_vaccinated_per_hundred": 30.07,
         "daily_vaccinations_per_million": 114,
+        "daily_people_vaccinated": 70,
+        "daily_people_vaccinated_per_hundred": 0.001,
         "dateAsStr": "2022-09-13"
     },
     {
@@ -8608,6 +8626,8 @@
         "total_vaccinations_per_hundred": 65.84,
         "people_fully_vaccinated_per_hundred": 30.07,
         "daily_vaccinations_per_million": 119,
+        "daily_people_vaccinated": 70,
+        "daily_people_vaccinated_per_hundred": 0.001,
         "dateAsStr": "2022-09-14"
     },
     {
@@ -8619,6 +8639,8 @@
         "total_vaccinations_per_hundred": 65.86,
         "people_fully_vaccinated_per_hundred": 30.07,
         "daily_vaccinations_per_million": 117,
+        "daily_people_vaccinated": 70,
+        "daily_people_vaccinated_per_hundred": 0.001,
         "dateAsStr": "2022-09-15"
     },
     {
@@ -8630,6 +8652,8 @@
         "total_vaccinations_per_hundred": 65.88,
         "people_fully_vaccinated_per_hundred": 30.08,
         "daily_vaccinations_per_million": 121,
+        "daily_people_vaccinated": 70,
+        "daily_people_vaccinated_per_hundred": 0.001,
         "dateAsStr": "2022-09-16"
     },
     {
@@ -8641,24 +8665,24 @@
         "total_vaccinations_per_hundred": 65.88,
         "people_fully_vaccinated_per_hundred": 30.08,
         "daily_vaccinations_per_million": 122,
+        "daily_people_vaccinated": 70,
+        "daily_people_vaccinated_per_hundred": 0.001,
         "dateAsStr": "2022-09-17"
     },
     {
         "date": "2022-09-18T00:00:00.000Z",
-        "total_vaccinations": 4536305,
-        "people_fully_vaccinated": 2070966,
-        "daily_vaccinations_raw": 93,
-        "daily_vaccinations": 851,
-        "total_vaccinations_per_hundred": 65.88,
-        "people_fully_vaccinated_per_hundred": 30.08,
-        "daily_vaccinations_per_million": 124,
+        "people_vaccinated": 2101905,
+        "daily_vaccinations": 915,
+        "people_vaccinated_per_hundred": 30.52,
+        "daily_vaccinations_per_million": 133,
+        "daily_people_vaccinated": 70,
+        "daily_people_vaccinated_per_hundred": 0.001,
         "dateAsStr": "2022-09-18"
     },
     {
         "date": "2022-09-19T00:00:00.000Z",
         "total_vaccinations": 4537303,
         "people_fully_vaccinated": 2071061,
-        "daily_vaccinations_raw": 998,
         "daily_vaccinations": 871,
         "total_vaccinations_per_hundred": 65.89,
         "people_fully_vaccinated_per_hundred": 30.08,
@@ -8725,10 +8749,10 @@
         "total_vaccinations": 4542002,
         "people_fully_vaccinated": 2071439,
         "daily_vaccinations_raw": 59,
-        "daily_vaccinations": 814,
+        "daily_vaccinations": 749,
         "total_vaccinations_per_hundred": 65.96,
         "people_fully_vaccinated_per_hundred": 30.08,
-        "daily_vaccinations_per_million": 118,
+        "daily_vaccinations_per_million": 109,
         "dateAsStr": "2022-09-25"
     },
     {
@@ -8763,5 +8787,16 @@
         "people_fully_vaccinated_per_hundred": 30.09,
         "daily_vaccinations_per_million": 122,
         "dateAsStr": "2022-09-28"
+    },
+    {
+        "date": "2022-09-29T00:00:00.000Z",
+        "total_vaccinations": 4548405,
+        "people_fully_vaccinated": 2071809,
+        "daily_vaccinations_raw": 2043,
+        "daily_vaccinations": 1124,
+        "total_vaccinations_per_hundred": 66.05,
+        "people_fully_vaccinated_per_hundred": 30.09,
+        "daily_vaccinations_per_million": 163,
+        "dateAsStr": "2022-09-29"
     }
 ]
