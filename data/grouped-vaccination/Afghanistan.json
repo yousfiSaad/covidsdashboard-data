@@ -5091,5 +5091,59 @@
         "daily_people_vaccinated": 6143,
         "daily_people_vaccinated_per_hundred": 0.015,
         "dateAsStr": "2022-09-28"
+    },
+    {
+        "date": "2022-09-29T00:00:00.000Z",
+        "daily_vaccinations": 6721,
+        "daily_vaccinations_per_million": 168,
+        "daily_people_vaccinated": 6011,
+        "daily_people_vaccinated_per_hundred": 0.015,
+        "dateAsStr": "2022-09-29"
+    },
+    {
+        "date": "2022-09-30T00:00:00.000Z",
+        "daily_vaccinations": 6741,
+        "daily_vaccinations_per_million": 168,
+        "daily_people_vaccinated": 5879,
+        "daily_people_vaccinated_per_hundred": 0.015,
+        "dateAsStr": "2022-09-30"
+    },
+    {
+        "date": "2022-10-01T00:00:00.000Z",
+        "daily_vaccinations": 6762,
+        "daily_vaccinations_per_million": 169,
+        "daily_people_vaccinated": 5747,
+        "daily_people_vaccinated_per_hundred": 0.014,
+        "dateAsStr": "2022-10-01"
+    },
+    {
+        "date": "2022-10-02T00:00:00.000Z",
+        "daily_vaccinations": 6782,
+        "daily_vaccinations_per_million": 169,
+        "daily_people_vaccinated": 5615,
+        "daily_people_vaccinated_per_hundred": 0.014,
+        "dateAsStr": "2022-10-02"
+    },
+    {
+        "date": "2022-10-03T00:00:00.000Z",
+        "daily_vaccinations": 6803,
+        "daily_vaccinations_per_million": 170,
+        "daily_people_vaccinated": 5483,
+        "daily_people_vaccinated_per_hundred": 0.014,
+        "dateAsStr": "2022-10-03"
+    },
+    {
+        "date": "2022-10-04T00:00:00.000Z",
+        "total_vaccinations": 11923733,
+        "people_vaccinated": 10961643,
+        "people_fully_vaccinated": 10278516,
+        "daily_vaccinations": 6960,
+        "total_vaccinations_per_hundred": 29.74,
+        "people_vaccinated_per_hundred": 27.34,
+        "people_fully_vaccinated_per_hundred": 25.63,
+        "daily_vaccinations_per_million": 174,
+        "daily_people_vaccinated": 5416,
+        "daily_people_vaccinated_per_hundred": 0.014,
+        "dateAsStr": "2022-10-04"
     }
 ]
