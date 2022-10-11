@@ -4422,5 +4422,61 @@
         "daily_people_vaccinated": 1,
         "daily_people_vaccinated_per_hundred": 0,
         "dateAsStr": "2022-10-04"
+    },
+    {
+        "date": "2022-10-05T00:00:00.000Z",
+        "daily_vaccinations": 28,
+        "daily_vaccinations_per_million": 128,
+        "daily_people_vaccinated": 1,
+        "daily_people_vaccinated_per_hundred": 0,
+        "dateAsStr": "2022-10-05"
+    },
+    {
+        "date": "2022-10-06T00:00:00.000Z",
+        "daily_vaccinations": 23,
+        "daily_vaccinations_per_million": 105,
+        "daily_people_vaccinated": 1,
+        "daily_people_vaccinated_per_hundred": 0,
+        "dateAsStr": "2022-10-06"
+    },
+    {
+        "date": "2022-10-07T00:00:00.000Z",
+        "daily_vaccinations": 19,
+        "daily_vaccinations_per_million": 87,
+        "daily_people_vaccinated": 1,
+        "daily_people_vaccinated_per_hundred": 0,
+        "dateAsStr": "2022-10-07"
+    },
+    {
+        "date": "2022-10-08T00:00:00.000Z",
+        "daily_vaccinations": 15,
+        "daily_vaccinations_per_million": 69,
+        "daily_people_vaccinated": 1,
+        "daily_people_vaccinated_per_hundred": 0,
+        "dateAsStr": "2022-10-08"
+    },
+    {
+        "date": "2022-10-09T00:00:00.000Z",
+        "daily_vaccinations": 11,
+        "daily_vaccinations_per_million": 50,
+        "daily_people_vaccinated": 1,
+        "daily_people_vaccinated_per_hundred": 0,
+        "dateAsStr": "2022-10-09"
+    },
+    {
+        "date": "2022-10-10T00:00:00.000Z",
+        "total_vaccinations": 448276,
+        "people_vaccinated": 191084,
+        "people_fully_vaccinated": 177521,
+        "total_boosters": 78675,
+        "daily_vaccinations": 6,
+        "total_vaccinations_per_hundred": 204.91,
+        "people_vaccinated_per_hundred": 87.35,
+        "people_fully_vaccinated_per_hundred": 81.15,
+        "total_boosters_per_hundred": 35.96,
+        "daily_vaccinations_per_million": 27,
+        "daily_people_vaccinated": 1,
+        "daily_people_vaccinated_per_hundred": 0,
+        "dateAsStr": "2022-10-10"
     }
 ]
