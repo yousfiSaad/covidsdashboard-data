@@ -9186,5 +9186,16 @@
         "people_fully_vaccinated_per_hundred": 30.57,
         "daily_vaccinations_per_million": 123,
         "dateAsStr": "2022-10-31"
+    },
+    {
+        "date": "2022-11-01T00:00:00.000Z",
+        "total_vaccinations": 4579803,
+        "people_fully_vaccinated": 2073318,
+        "daily_vaccinations_raw": 823,
+        "daily_vaccinations": 785,
+        "total_vaccinations_per_hundred": 67.53,
+        "people_fully_vaccinated_per_hundred": 30.57,
+        "daily_vaccinations_per_million": 116,
+        "dateAsStr": "2022-11-01"
     }
 ]
