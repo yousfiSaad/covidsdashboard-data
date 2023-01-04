@@ -7839,5 +7839,14 @@
         "total_vaccinations_per_hundred": 243.98,
         "daily_vaccinations_per_million": 580,
         "dateAsStr": "2023-01-02"
+    },
+    {
+        "date": "2023-01-03T00:00:00.000Z",
+        "total_vaccinations": 3479607000,
+        "daily_vaccinations_raw": 661000,
+        "daily_vaccinations": 756857,
+        "total_vaccinations_per_hundred": 244.03,
+        "daily_vaccinations_per_million": 531,
+        "dateAsStr": "2023-01-03"
     }
 ]

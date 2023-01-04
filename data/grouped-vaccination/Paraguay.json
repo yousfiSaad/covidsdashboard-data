@@ -7050,30 +7050,40 @@
     },
     {
         "date": "2022-12-17T00:00:00.000Z",
+        "daily_vaccinations": 689,
+        "daily_vaccinations_per_million": 102,
         "daily_people_vaccinated": 0,
         "daily_people_vaccinated_per_hundred": 0,
         "dateAsStr": "2022-12-17"
     },
     {
         "date": "2022-12-18T00:00:00.000Z",
+        "daily_vaccinations": 628,
+        "daily_vaccinations_per_million": 93,
         "daily_people_vaccinated": 0,
         "daily_people_vaccinated_per_hundred": 0,
         "dateAsStr": "2022-12-18"
     },
     {
         "date": "2022-12-19T00:00:00.000Z",
+        "daily_vaccinations": 566,
+        "daily_vaccinations_per_million": 83,
         "daily_people_vaccinated": 0,
         "daily_people_vaccinated_per_hundred": 0,
         "dateAsStr": "2022-12-19"
     },
     {
         "date": "2022-12-20T00:00:00.000Z",
+        "daily_vaccinations": 504,
+        "daily_vaccinations_per_million": 74,
         "daily_people_vaccinated": 0,
         "daily_people_vaccinated_per_hundred": 0,
         "dateAsStr": "2022-12-20"
     },
     {
         "date": "2022-12-21T00:00:00.000Z",
+        "daily_vaccinations": 443,
+        "daily_vaccinations_per_million": 65,
         "daily_people_vaccinated": 0,
         "daily_people_vaccinated_per_hundred": 0,
         "dateAsStr": "2022-12-21"
@@ -7082,10 +7092,88 @@
         "date": "2022-12-22T00:00:00.000Z",
         "people_vaccinated": 3975338,
         "people_fully_vaccinated": 3530179,
+        "daily_vaccinations": 381,
         "people_vaccinated_per_hundred": 58.63,
         "people_fully_vaccinated_per_hundred": 52.06,
+        "daily_vaccinations_per_million": 56,
         "daily_people_vaccinated": 0,
         "daily_people_vaccinated_per_hundred": 0,
         "dateAsStr": "2022-12-22"
+    },
+    {
+        "date": "2022-12-23T00:00:00.000Z",
+        "daily_vaccinations": 320,
+        "daily_vaccinations_per_million": 47,
+        "dateAsStr": "2022-12-23"
+    },
+    {
+        "date": "2022-12-24T00:00:00.000Z",
+        "daily_vaccinations": 320,
+        "daily_vaccinations_per_million": 47,
+        "dateAsStr": "2022-12-24"
+    },
+    {
+        "date": "2022-12-25T00:00:00.000Z",
+        "daily_vaccinations": 320,
+        "daily_vaccinations_per_million": 47,
+        "dateAsStr": "2022-12-25"
+    },
+    {
+        "date": "2022-12-26T00:00:00.000Z",
+        "daily_vaccinations": 320,
+        "daily_vaccinations_per_million": 47,
+        "dateAsStr": "2022-12-26"
+    },
+    {
+        "date": "2022-12-27T00:00:00.000Z",
+        "daily_vaccinations": 320,
+        "daily_vaccinations_per_million": 47,
+        "dateAsStr": "2022-12-27"
+    },
+    {
+        "date": "2022-12-28T00:00:00.000Z",
+        "daily_vaccinations": 320,
+        "daily_vaccinations_per_million": 47,
+        "dateAsStr": "2022-12-28"
+    },
+    {
+        "date": "2022-12-29T00:00:00.000Z",
+        "daily_vaccinations": 320,
+        "daily_vaccinations_per_million": 47,
+        "dateAsStr": "2022-12-29"
+    },
+    {
+        "date": "2022-12-30T00:00:00.000Z",
+        "daily_vaccinations": 320,
+        "daily_vaccinations_per_million": 47,
+        "dateAsStr": "2022-12-30"
+    },
+    {
+        "date": "2022-12-31T00:00:00.000Z",
+        "daily_vaccinations": 320,
+        "daily_vaccinations_per_million": 47,
+        "dateAsStr": "2022-12-31"
+    },
+    {
+        "date": "2023-01-01T00:00:00.000Z",
+        "daily_vaccinations": 320,
+        "daily_vaccinations_per_million": 47,
+        "dateAsStr": "2023-01-01"
+    },
+    {
+        "date": "2023-01-02T00:00:00.000Z",
+        "daily_vaccinations": 320,
+        "daily_vaccinations_per_million": 47,
+        "dateAsStr": "2023-01-02"
+    },
+    {
+        "date": "2023-01-03T00:00:00.000Z",
+        "total_vaccinations": 9492529,
+        "total_boosters": 1987012,
+        "daily_vaccinations": 320,
+        "total_vaccinations_per_hundred": 139.99,
+        "total_boosters_per_hundred": 29.3,
+        "daily_vaccinations_per_million": 47,
+        "dateAsStr": "2023-01-03"
     }
 ]
