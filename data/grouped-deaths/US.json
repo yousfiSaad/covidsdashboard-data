@@ -6608,61 +6608,67 @@
     {
         "date": "2023-01-29T00:00:00.000Z",
         "dateAsStr": "1/29/23",
-        "cases": 1107602,
-        "newCases": 0
+        "cases": 1107606,
+        "newCases": 4
     },
     {
         "date": "2023-01-30T00:00:00.000Z",
         "dateAsStr": "1/30/23",
-        "cases": 1107812,
-        "newCases": 210
+        "cases": 1107822,
+        "newCases": 216
     },
     {
         "date": "2023-01-31T00:00:00.000Z",
         "dateAsStr": "1/31/23",
-        "cases": 1108568,
-        "newCases": 756
+        "cases": 1108585,
+        "newCases": 763
     },
     {
         "date": "2023-02-01T00:00:00.000Z",
         "dateAsStr": "2/1/23",
-        "cases": 1109829,
-        "newCases": 1261
+        "cases": 1109887,
+        "newCases": 1302
     },
     {
         "date": "2023-02-02T00:00:00.000Z",
         "dateAsStr": "2/2/23",
-        "cases": 1110985,
-        "newCases": 1156
+        "cases": 1111048,
+        "newCases": 1161
     },
     {
         "date": "2023-02-03T00:00:00.000Z",
         "dateAsStr": "2/3/23",
-        "cases": 1111485,
-        "newCases": 500
+        "cases": 1111564,
+        "newCases": 516
     },
     {
         "date": "2023-02-04T00:00:00.000Z",
         "dateAsStr": "2/4/23",
-        "cases": 1111495,
+        "cases": 1111574,
         "newCases": 10
     },
     {
         "date": "2023-02-05T00:00:00.000Z",
         "dateAsStr": "2/5/23",
-        "cases": 1111495,
+        "cases": 1111574,
         "newCases": 0
     },
     {
         "date": "2023-02-06T00:00:00.000Z",
         "dateAsStr": "2/6/23",
-        "cases": 1111678,
+        "cases": 1111757,
         "newCases": 183
     },
     {
         "date": "2023-02-07T00:00:00.000Z",
         "dateAsStr": "2/7/23",
-        "cases": 1112124,
+        "cases": 1112203,
         "newCases": 446
+    },
+    {
+        "date": "2023-02-08T00:00:00.000Z",
+        "dateAsStr": "2/8/23",
+        "cases": 1113236,
+        "newCases": 1033
     }
 ]
