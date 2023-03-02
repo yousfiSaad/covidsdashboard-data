@@ -12188,5 +12188,22 @@
         "daily_people_vaccinated": 837,
         "daily_people_vaccinated_per_hundred": 0,
         "dateAsStr": "2023-02-28"
+    },
+    {
+        "date": "2023-03-01T00:00:00.000Z",
+        "total_vaccinations": 2206367997,
+        "people_vaccinated": 1027374842,
+        "people_fully_vaccinated": 951884144,
+        "total_boosters": 227109011,
+        "daily_vaccinations_raw": 6500,
+        "daily_vaccinations": 5810,
+        "total_vaccinations_per_hundred": 155.69,
+        "people_vaccinated_per_hundred": 72.49,
+        "people_fully_vaccinated_per_hundred": 67.17,
+        "total_boosters_per_hundred": 16.03,
+        "daily_vaccinations_per_million": 4,
+        "daily_people_vaccinated": 825,
+        "daily_people_vaccinated_per_hundred": 0,
+        "dateAsStr": "2023-03-01"
     }
 ]
