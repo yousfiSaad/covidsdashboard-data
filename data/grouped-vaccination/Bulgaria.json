@@ -11335,5 +11335,16 @@
         "people_fully_vaccinated_per_hundred": 30.63,
         "daily_vaccinations_per_million": 8,
         "dateAsStr": "2023-05-01"
+    },
+    {
+        "date": "2023-05-02T00:00:00.000Z",
+        "total_vaccinations": 4612292,
+        "people_fully_vaccinated": 2077458,
+        "daily_vaccinations_raw": 88,
+        "daily_vaccinations": 56,
+        "total_vaccinations_per_hundred": 68.01,
+        "people_fully_vaccinated_per_hundred": 30.63,
+        "daily_vaccinations_per_million": 8,
+        "dateAsStr": "2023-05-02"
     }
 ]
