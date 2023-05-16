@@ -8876,5 +8876,61 @@
         "daily_people_vaccinated": 9,
         "daily_people_vaccinated_per_hundred": 0,
         "dateAsStr": "2023-05-03"
+    },
+    {
+        "date": "2023-05-04T00:00:00.000Z",
+        "daily_vaccinations": 80,
+        "daily_vaccinations_per_million": 6,
+        "daily_people_vaccinated": 10,
+        "daily_people_vaccinated_per_hundred": 0,
+        "dateAsStr": "2023-05-04"
+    },
+    {
+        "date": "2023-05-05T00:00:00.000Z",
+        "daily_vaccinations": 85,
+        "daily_vaccinations_per_million": 7,
+        "daily_people_vaccinated": 11,
+        "daily_people_vaccinated_per_hundred": 0,
+        "dateAsStr": "2023-05-05"
+    },
+    {
+        "date": "2023-05-06T00:00:00.000Z",
+        "daily_vaccinations": 91,
+        "daily_vaccinations_per_million": 7,
+        "daily_people_vaccinated": 13,
+        "daily_people_vaccinated_per_hundred": 0,
+        "dateAsStr": "2023-05-06"
+    },
+    {
+        "date": "2023-05-07T00:00:00.000Z",
+        "daily_vaccinations": 96,
+        "daily_vaccinations_per_million": 8,
+        "daily_people_vaccinated": 14,
+        "daily_people_vaccinated_per_hundred": 0,
+        "dateAsStr": "2023-05-07"
+    },
+    {
+        "date": "2023-05-08T00:00:00.000Z",
+        "daily_vaccinations": 82,
+        "daily_vaccinations_per_million": 7,
+        "daily_people_vaccinated": 13,
+        "daily_people_vaccinated_per_hundred": 0,
+        "dateAsStr": "2023-05-08"
+    },
+    {
+        "date": "2023-05-09T00:00:00.000Z",
+        "total_vaccinations": 13249161,
+        "people_vaccinated": 7218536,
+        "people_fully_vaccinated": 6399465,
+        "total_boosters": 1257762,
+        "daily_vaccinations": 67,
+        "total_vaccinations_per_hundred": 107.23,
+        "people_vaccinated_per_hundred": 58.42,
+        "people_fully_vaccinated_per_hundred": 51.79,
+        "total_boosters_per_hundred": 10.18,
+        "daily_vaccinations_per_million": 5,
+        "daily_people_vaccinated": 11,
+        "daily_people_vaccinated_per_hundred": 0,
+        "dateAsStr": "2023-05-09"
     }
 ]
