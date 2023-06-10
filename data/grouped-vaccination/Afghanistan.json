@@ -7346,5 +7346,77 @@
         "daily_people_vaccinated": 83956,
         "daily_people_vaccinated_per_hundred": 0.204,
         "dateAsStr": "2023-05-29"
+    },
+    {
+        "date": "2023-05-30T00:00:00.000Z",
+        "daily_vaccinations": 125181,
+        "daily_vaccinations_per_million": 3044,
+        "daily_people_vaccinated": 87953,
+        "daily_people_vaccinated_per_hundred": 0.214,
+        "dateAsStr": "2023-05-30"
+    },
+    {
+        "date": "2023-05-31T00:00:00.000Z",
+        "daily_vaccinations": 130945,
+        "daily_vaccinations_per_million": 3184,
+        "daily_people_vaccinated": 91950,
+        "daily_people_vaccinated_per_hundred": 0.224,
+        "dateAsStr": "2023-05-31"
+    },
+    {
+        "date": "2023-06-01T00:00:00.000Z",
+        "daily_vaccinations": 136709,
+        "daily_vaccinations_per_million": 3324,
+        "daily_people_vaccinated": 95946,
+        "daily_people_vaccinated_per_hundred": 0.233,
+        "dateAsStr": "2023-06-01"
+    },
+    {
+        "date": "2023-06-02T00:00:00.000Z",
+        "daily_vaccinations": 142473,
+        "daily_vaccinations_per_million": 3464,
+        "daily_people_vaccinated": 99943,
+        "daily_people_vaccinated_per_hundred": 0.243,
+        "dateAsStr": "2023-06-02"
+    },
+    {
+        "date": "2023-06-03T00:00:00.000Z",
+        "daily_vaccinations": 148237,
+        "daily_vaccinations_per_million": 3604,
+        "daily_people_vaccinated": 103940,
+        "daily_people_vaccinated_per_hundred": 0.253,
+        "dateAsStr": "2023-06-03"
+    },
+    {
+        "date": "2023-06-04T00:00:00.000Z",
+        "daily_vaccinations": 154002,
+        "daily_vaccinations_per_million": 3744,
+        "daily_people_vaccinated": 107937,
+        "daily_people_vaccinated_per_hundred": 0.262,
+        "dateAsStr": "2023-06-04"
+    },
+    {
+        "date": "2023-06-05T00:00:00.000Z",
+        "daily_vaccinations": 159766,
+        "daily_vaccinations_per_million": 3885,
+        "daily_people_vaccinated": 111934,
+        "daily_people_vaccinated_per_hundred": 0.272,
+        "dateAsStr": "2023-06-05"
+    },
+    {
+        "date": "2023-06-06T00:00:00.000Z",
+        "total_vaccinations": 19712836,
+        "people_vaccinated": 16770724,
+        "people_fully_vaccinated": 16064707,
+        "total_boosters": 1893518,
+        "daily_vaccinations": 159766,
+        "total_vaccinations_per_hundred": 47.93,
+        "people_vaccinated_per_hundred": 40.78,
+        "people_fully_vaccinated_per_hundred": 39.06,
+        "total_boosters_per_hundred": 4.6,
+        "daily_vaccinations_per_million": 3885,
+        "daily_people_vaccinated": 111934,
+        "daily_people_vaccinated_per_hundred": 0.272,
+        "dateAsStr": "2023-06-06"
     }
 ]
