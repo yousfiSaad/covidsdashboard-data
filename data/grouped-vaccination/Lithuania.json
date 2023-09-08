@@ -15368,7 +15368,7 @@
     },
     {
         "date": "2023-09-02T00:00:00.000Z",
-        "daily_vaccinations": 2,
+        "daily_vaccinations": 3,
         "daily_vaccinations_per_million": 1,
         "daily_people_vaccinated": 0,
         "daily_people_vaccinated_per_hundred": 0,
@@ -15392,11 +15392,11 @@
     },
     {
         "date": "2023-09-05T00:00:00.000Z",
-        "total_vaccinations": 4546207,
+        "total_vaccinations": 4546209,
         "people_vaccinated": 1957180,
         "people_fully_vaccinated": 1880556,
         "total_boosters": 944397,
-        "daily_vaccinations": 2,
+        "daily_vaccinations": 3,
         "total_vaccinations_per_hundred": 165.31,
         "people_vaccinated_per_hundred": 71.17,
         "people_fully_vaccinated_per_hundred": 68.38,
@@ -15408,12 +15408,12 @@
     },
     {
         "date": "2023-09-06T00:00:00.000Z",
-        "total_vaccinations": 4546208,
+        "total_vaccinations": 4546211,
         "people_vaccinated": 1957181,
         "people_fully_vaccinated": 1880556,
         "total_boosters": 944397,
-        "daily_vaccinations_raw": 1,
-        "daily_vaccinations": 2,
+        "daily_vaccinations_raw": 2,
+        "daily_vaccinations": 3,
         "total_vaccinations_per_hundred": 165.31,
         "people_vaccinated_per_hundred": 71.17,
         "people_fully_vaccinated_per_hundred": 68.38,
@@ -15422,5 +15422,22 @@
         "daily_people_vaccinated": 0,
         "daily_people_vaccinated_per_hundred": 0,
         "dateAsStr": "2023-09-06"
+    },
+    {
+        "date": "2023-09-07T00:00:00.000Z",
+        "total_vaccinations": 4546215,
+        "people_vaccinated": 1957182,
+        "people_fully_vaccinated": 1880556,
+        "total_boosters": 944397,
+        "daily_vaccinations_raw": 4,
+        "daily_vaccinations": 2,
+        "total_vaccinations_per_hundred": 165.31,
+        "people_vaccinated_per_hundred": 71.17,
+        "people_fully_vaccinated_per_hundred": 68.38,
+        "total_boosters_per_hundred": 34.34,
+        "daily_vaccinations_per_million": 1,
+        "daily_people_vaccinated": 0,
+        "daily_people_vaccinated_per_hundred": 0,
+        "dateAsStr": "2023-09-07"
     }
 ]
