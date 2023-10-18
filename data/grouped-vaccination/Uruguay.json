@@ -13564,5 +13564,37 @@
         "daily_people_vaccinated": 2,
         "daily_people_vaccinated_per_hundred": 0,
         "dateAsStr": "2023-10-14"
+    },
+    {
+        "date": "2023-10-15T00:00:00.000Z",
+        "daily_vaccinations": 26477,
+        "daily_vaccinations_per_million": 7735,
+        "daily_people_vaccinated": 2,
+        "daily_people_vaccinated_per_hundred": 0,
+        "dateAsStr": "2023-10-15"
+    },
+    {
+        "date": "2023-10-16T00:00:00.000Z",
+        "daily_vaccinations": 26476,
+        "daily_vaccinations_per_million": 7735,
+        "daily_people_vaccinated": 2,
+        "daily_people_vaccinated_per_hundred": 0,
+        "dateAsStr": "2023-10-16"
+    },
+    {
+        "date": "2023-10-17T00:00:00.000Z",
+        "total_vaccinations": 9035593,
+        "people_vaccinated": 3010386,
+        "people_fully_vaccinated": 2903043,
+        "total_boosters": 3122164,
+        "daily_vaccinations": 26475,
+        "total_vaccinations_per_hundred": 263.98,
+        "people_vaccinated_per_hundred": 87.95,
+        "people_fully_vaccinated_per_hundred": 84.81,
+        "total_boosters_per_hundred": 91.22,
+        "daily_vaccinations_per_million": 7735,
+        "daily_people_vaccinated": 1,
+        "daily_people_vaccinated_per_hundred": 0,
+        "dateAsStr": "2023-10-17"
     }
 ]
