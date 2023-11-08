@@ -12684,5 +12684,59 @@
         "daily_people_vaccinated": 24,
         "daily_people_vaccinated_per_hundred": 0.001,
         "dateAsStr": "2023-10-30"
+    },
+    {
+        "date": "2023-10-31T00:00:00.000Z",
+        "daily_vaccinations": 181,
+        "daily_vaccinations_per_million": 45,
+        "daily_people_vaccinated": 25,
+        "daily_people_vaccinated_per_hundred": 0.001,
+        "dateAsStr": "2023-10-31"
+    },
+    {
+        "date": "2023-11-01T00:00:00.000Z",
+        "daily_vaccinations": 172,
+        "daily_vaccinations_per_million": 43,
+        "daily_people_vaccinated": 25,
+        "daily_people_vaccinated_per_hundred": 0.001,
+        "dateAsStr": "2023-11-01"
+    },
+    {
+        "date": "2023-11-02T00:00:00.000Z",
+        "daily_vaccinations": 162,
+        "daily_vaccinations_per_million": 40,
+        "daily_people_vaccinated": 26,
+        "daily_people_vaccinated_per_hundred": 0.001,
+        "dateAsStr": "2023-11-02"
+    },
+    {
+        "date": "2023-11-03T00:00:00.000Z",
+        "daily_vaccinations": 153,
+        "daily_vaccinations_per_million": 38,
+        "daily_people_vaccinated": 26,
+        "daily_people_vaccinated_per_hundred": 0.001,
+        "dateAsStr": "2023-11-03"
+    },
+    {
+        "date": "2023-11-04T00:00:00.000Z",
+        "daily_vaccinations": 144,
+        "daily_vaccinations_per_million": 36,
+        "daily_people_vaccinated": 27,
+        "daily_people_vaccinated_per_hundred": 0.001,
+        "dateAsStr": "2023-11-04"
+    },
+    {
+        "date": "2023-11-05T00:00:00.000Z",
+        "total_vaccinations": 5371140,
+        "people_vaccinated": 2322639,
+        "people_fully_vaccinated": 2251766,
+        "daily_vaccinations": 134,
+        "total_vaccinations_per_hundred": 133.27,
+        "people_vaccinated_per_hundred": 57.63,
+        "people_fully_vaccinated_per_hundred": 55.87,
+        "daily_vaccinations_per_million": 33,
+        "daily_people_vaccinated": 27,
+        "daily_people_vaccinated_per_hundred": 0.001,
+        "dateAsStr": "2023-11-05"
     }
 ]
