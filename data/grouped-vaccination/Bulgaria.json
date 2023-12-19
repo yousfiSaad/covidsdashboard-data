@@ -13997,5 +13997,21 @@
         "people_fully_vaccinated_per_hundred": 30.64,
         "daily_vaccinations_per_million": 25,
         "dateAsStr": "2023-12-16"
+    },
+    {
+        "date": "2023-12-17T00:00:00.000Z",
+        "daily_vaccinations": 180,
+        "daily_vaccinations_per_million": 27,
+        "dateAsStr": "2023-12-17"
+    },
+    {
+        "date": "2023-12-18T00:00:00.000Z",
+        "total_vaccinations": 4723767,
+        "people_fully_vaccinated": 2077994,
+        "daily_vaccinations": 167,
+        "total_vaccinations_per_hundred": 69.65,
+        "people_fully_vaccinated_per_hundred": 30.64,
+        "daily_vaccinations_per_million": 25,
+        "dateAsStr": "2023-12-18"
     }
 ]
