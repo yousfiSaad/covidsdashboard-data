@@ -14516,5 +14516,21 @@
         "people_fully_vaccinated_per_hundred": 30.64,
         "daily_vaccinations_per_million": 1,
         "dateAsStr": "2024-02-10"
+    },
+    {
+        "date": "2024-02-11T00:00:00.000Z",
+        "daily_vaccinations": 10,
+        "daily_vaccinations_per_million": 1,
+        "dateAsStr": "2024-02-11"
+    },
+    {
+        "date": "2024-02-12T00:00:00.000Z",
+        "total_vaccinations": 4725981,
+        "people_fully_vaccinated": 2078002,
+        "daily_vaccinations": 10,
+        "total_vaccinations_per_hundred": 69.68,
+        "people_fully_vaccinated_per_hundred": 30.64,
+        "daily_vaccinations_per_million": 1,
+        "dateAsStr": "2024-02-12"
     }
 ]
