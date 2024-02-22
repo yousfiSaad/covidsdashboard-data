@@ -17816,11 +17816,11 @@
     },
     {
         "date": "2024-02-14T00:00:00.000Z",
-        "total_vaccinations": 4604505,
+        "total_vaccinations": 4604506,
         "people_vaccinated": 1958235,
         "people_fully_vaccinated": 1881093,
         "total_boosters": 948562,
-        "daily_vaccinations_raw": 13,
+        "daily_vaccinations_raw": 14,
         "daily_vaccinations": 8,
         "total_vaccinations_per_hundred": 167.43,
         "people_vaccinated_per_hundred": 71.21,
@@ -17833,12 +17833,12 @@
     },
     {
         "date": "2024-02-15T00:00:00.000Z",
-        "total_vaccinations": 4604534,
+        "total_vaccinations": 4604541,
         "people_vaccinated": 1958238,
         "people_fully_vaccinated": 1881093,
         "total_boosters": 948568,
-        "daily_vaccinations_raw": 29,
-        "daily_vaccinations": 10,
+        "daily_vaccinations_raw": 35,
+        "daily_vaccinations": 11,
         "total_vaccinations_per_hundred": 167.43,
         "people_vaccinated_per_hundred": 71.21,
         "people_fully_vaccinated_per_hundred": 68.4,
@@ -17850,7 +17850,7 @@
     },
     {
         "date": "2024-02-16T00:00:00.000Z",
-        "daily_vaccinations": 8,
+        "daily_vaccinations": 9,
         "daily_vaccinations_per_million": 3,
         "daily_people_vaccinated": 0,
         "daily_people_vaccinated_per_hundred": 0,
@@ -17858,7 +17858,7 @@
     },
     {
         "date": "2024-02-17T00:00:00.000Z",
-        "daily_vaccinations": 8,
+        "daily_vaccinations": 9,
         "daily_vaccinations_per_million": 3,
         "daily_people_vaccinated": 0,
         "daily_people_vaccinated_per_hundred": 0,
@@ -17866,7 +17866,7 @@
     },
     {
         "date": "2024-02-18T00:00:00.000Z",
-        "daily_vaccinations": 8,
+        "daily_vaccinations": 9,
         "daily_vaccinations_per_million": 3,
         "daily_people_vaccinated": 1,
         "daily_people_vaccinated_per_hundred": 0,
@@ -17874,11 +17874,11 @@
     },
     {
         "date": "2024-02-19T00:00:00.000Z",
-        "total_vaccinations": 4604541,
+        "total_vaccinations": 4604548,
         "people_vaccinated": 1958239,
         "people_fully_vaccinated": 1881093,
         "total_boosters": 948569,
-        "daily_vaccinations": 8,
+        "daily_vaccinations": 9,
         "total_vaccinations_per_hundred": 167.43,
         "people_vaccinated_per_hundred": 71.21,
         "people_fully_vaccinated_per_hundred": 68.4,
@@ -17887,5 +17887,22 @@
         "daily_people_vaccinated": 1,
         "daily_people_vaccinated_per_hundred": 0,
         "dateAsStr": "2024-02-19"
+    },
+    {
+        "date": "2024-02-20T00:00:00.000Z",
+        "total_vaccinations": 4604557,
+        "people_vaccinated": 1958241,
+        "people_fully_vaccinated": 1881093,
+        "total_boosters": 948570,
+        "daily_vaccinations_raw": 9,
+        "daily_vaccinations": 9,
+        "total_vaccinations_per_hundred": 167.43,
+        "people_vaccinated_per_hundred": 71.21,
+        "people_fully_vaccinated_per_hundred": 68.4,
+        "total_boosters_per_hundred": 34.49,
+        "daily_vaccinations_per_million": 3,
+        "daily_people_vaccinated": 1,
+        "daily_people_vaccinated_per_hundred": 0,
+        "dateAsStr": "2024-02-20"
     }
 ]
