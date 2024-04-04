@@ -17381,5 +17381,51 @@
         "total_boosters_per_hundred": 89.8,
         "daily_vaccinations_per_million": 35,
         "dateAsStr": "2024-03-27"
+    },
+    {
+        "date": "2024-03-28T00:00:00.000Z",
+        "daily_vaccinations": 1165,
+        "daily_vaccinations_per_million": 30,
+        "dateAsStr": "2024-03-28"
+    },
+    {
+        "date": "2024-03-29T00:00:00.000Z",
+        "daily_vaccinations": 1082,
+        "daily_vaccinations_per_million": 28,
+        "dateAsStr": "2024-03-29"
+    },
+    {
+        "date": "2024-03-30T00:00:00.000Z",
+        "daily_vaccinations": 997,
+        "daily_vaccinations_per_million": 26,
+        "dateAsStr": "2024-03-30"
+    },
+    {
+        "date": "2024-03-31T00:00:00.000Z",
+        "daily_vaccinations": 990,
+        "daily_vaccinations_per_million": 26,
+        "dateAsStr": "2024-03-31"
+    },
+    {
+        "date": "2024-04-01T00:00:00.000Z",
+        "daily_vaccinations": 492,
+        "daily_vaccinations_per_million": 13,
+        "dateAsStr": "2024-04-01"
+    },
+    {
+        "date": "2024-04-02T00:00:00.000Z",
+        "daily_vaccinations": 415,
+        "daily_vaccinations_per_million": 11,
+        "dateAsStr": "2024-04-02"
+    },
+    {
+        "date": "2024-04-03T00:00:00.000Z",
+        "total_vaccinations": 102437443,
+        "total_boosters": 34533173,
+        "daily_vaccinations": 365,
+        "total_vaccinations_per_hundred": 266.39,
+        "total_boosters_per_hundred": 89.8,
+        "daily_vaccinations_per_million": 9,
+        "dateAsStr": "2024-04-03"
     }
 ]
