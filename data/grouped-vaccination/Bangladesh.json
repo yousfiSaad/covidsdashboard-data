@@ -13727,5 +13727,61 @@
         "daily_people_vaccinated": 1,
         "daily_people_vaccinated_per_hundred": 0,
         "dateAsStr": "2024-05-05"
+    },
+    {
+        "date": "2024-05-06T00:00:00.000Z",
+        "daily_vaccinations": 90,
+        "daily_vaccinations_per_million": 1,
+        "daily_people_vaccinated": 1,
+        "daily_people_vaccinated_per_hundred": 0,
+        "dateAsStr": "2024-05-06"
+    },
+    {
+        "date": "2024-05-07T00:00:00.000Z",
+        "daily_vaccinations": 172,
+        "daily_vaccinations_per_million": 1,
+        "daily_people_vaccinated": 1,
+        "daily_people_vaccinated_per_hundred": 0,
+        "dateAsStr": "2024-05-07"
+    },
+    {
+        "date": "2024-05-08T00:00:00.000Z",
+        "daily_vaccinations": 254,
+        "daily_vaccinations_per_million": 1,
+        "daily_people_vaccinated": 1,
+        "daily_people_vaccinated_per_hundred": 0,
+        "dateAsStr": "2024-05-08"
+    },
+    {
+        "date": "2024-05-09T00:00:00.000Z",
+        "daily_vaccinations": 335,
+        "daily_vaccinations_per_million": 2,
+        "daily_people_vaccinated": 1,
+        "daily_people_vaccinated_per_hundred": 0,
+        "dateAsStr": "2024-05-09"
+    },
+    {
+        "date": "2024-05-10T00:00:00.000Z",
+        "daily_vaccinations": 417,
+        "daily_vaccinations_per_million": 2,
+        "daily_people_vaccinated": 1,
+        "daily_people_vaccinated_per_hundred": 0,
+        "dateAsStr": "2024-05-10"
+    },
+    {
+        "date": "2024-05-11T00:00:00.000Z",
+        "total_vaccinations": 361735576,
+        "people_vaccinated": 151507145,
+        "people_fully_vaccinated": 142201168,
+        "total_boosters": 68608805,
+        "daily_vaccinations": 499,
+        "total_vaccinations_per_hundred": 211.31,
+        "people_vaccinated_per_hundred": 88.5,
+        "people_fully_vaccinated_per_hundred": 83.07,
+        "total_boosters_per_hundred": 40.08,
+        "daily_vaccinations_per_million": 3,
+        "daily_people_vaccinated": 1,
+        "daily_people_vaccinated_per_hundred": 0,
+        "dateAsStr": "2024-05-11"
     }
 ]
