@@ -19139,11 +19139,11 @@
     },
     {
         "date": "2024-05-23T00:00:00.000Z",
-        "total_vaccinations": 4604775,
+        "total_vaccinations": 4604776,
         "people_vaccinated": 1958284,
         "people_fully_vaccinated": 1881102,
         "total_boosters": 948606,
-        "daily_vaccinations_raw": 1,
+        "daily_vaccinations_raw": 2,
         "daily_vaccinations": 2,
         "total_vaccinations_per_hundred": 167.44,
         "people_vaccinated_per_hundred": 71.21,
@@ -19156,7 +19156,7 @@
     },
     {
         "date": "2024-05-24T00:00:00.000Z",
-        "total_vaccinations": 4604778,
+        "total_vaccinations": 4604779,
         "people_vaccinated": 1958284,
         "people_fully_vaccinated": 1881102,
         "total_boosters": 948608,
@@ -19170,5 +19170,45 @@
         "daily_people_vaccinated": 0,
         "daily_people_vaccinated_per_hundred": 0,
         "dateAsStr": "2024-05-24"
+    },
+    {
+        "date": "2024-05-25T00:00:00.000Z",
+        "daily_vaccinations": 2,
+        "daily_vaccinations_per_million": 1,
+        "daily_people_vaccinated": 0,
+        "daily_people_vaccinated_per_hundred": 0,
+        "dateAsStr": "2024-05-25"
+    },
+    {
+        "date": "2024-05-26T00:00:00.000Z",
+        "daily_vaccinations": 2,
+        "daily_vaccinations_per_million": 1,
+        "daily_people_vaccinated": 0,
+        "daily_people_vaccinated_per_hundred": 0,
+        "dateAsStr": "2024-05-26"
+    },
+    {
+        "date": "2024-05-27T00:00:00.000Z",
+        "daily_vaccinations": 2,
+        "daily_vaccinations_per_million": 1,
+        "daily_people_vaccinated": 0,
+        "daily_people_vaccinated_per_hundred": 0,
+        "dateAsStr": "2024-05-27"
+    },
+    {
+        "date": "2024-05-28T00:00:00.000Z",
+        "total_vaccinations": 4604781,
+        "people_vaccinated": 1958285,
+        "people_fully_vaccinated": 1881102,
+        "total_boosters": 948608,
+        "daily_vaccinations": 2,
+        "total_vaccinations_per_hundred": 167.44,
+        "people_vaccinated_per_hundred": 71.21,
+        "people_fully_vaccinated_per_hundred": 68.4,
+        "total_boosters_per_hundred": 34.49,
+        "daily_vaccinations_per_million": 1,
+        "daily_people_vaccinated": 0,
+        "daily_people_vaccinated_per_hundred": 0,
+        "dateAsStr": "2024-05-28"
     }
 ]
