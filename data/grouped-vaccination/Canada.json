@@ -18045,13 +18045,79 @@
     },
     {
         "date": "2024-05-30T00:00:00.000Z",
-        "total_vaccinations": 102696412,
-        "total_boosters": 34740189,
-        "daily_vaccinations_raw": 23227,
-        "daily_vaccinations": 7012,
-        "total_vaccinations_per_hundred": 267.06,
-        "total_boosters_per_hundred": 90.34,
-        "daily_vaccinations_per_million": 182,
+        "total_vaccinations": 102706456,
+        "total_boosters": 34752541,
+        "daily_vaccinations_raw": 33271,
+        "daily_vaccinations": 8447,
+        "total_vaccinations_per_hundred": 267.09,
+        "total_boosters_per_hundred": 90.37,
+        "daily_vaccinations_per_million": 220,
         "dateAsStr": "2024-05-30"
+    },
+    {
+        "date": "2024-05-31T00:00:00.000Z",
+        "total_vaccinations": 102712768,
+        "total_boosters": 34758791,
+        "daily_vaccinations_raw": 6312,
+        "daily_vaccinations": 8326,
+        "total_vaccinations_per_hundred": 267.1,
+        "total_boosters_per_hundred": 90.39,
+        "daily_vaccinations_per_million": 217,
+        "dateAsStr": "2024-05-31"
+    },
+    {
+        "date": "2024-06-01T00:00:00.000Z",
+        "total_vaccinations": 102718282,
+        "total_boosters": 34764228,
+        "daily_vaccinations_raw": 5514,
+        "daily_vaccinations": 8326,
+        "total_vaccinations_per_hundred": 267.12,
+        "total_boosters_per_hundred": 90.4,
+        "daily_vaccinations_per_million": 217,
+        "dateAsStr": "2024-06-01"
+    },
+    {
+        "date": "2024-06-02T00:00:00.000Z",
+        "total_vaccinations": 102719620,
+        "total_boosters": 34765537,
+        "daily_vaccinations_raw": 1338,
+        "daily_vaccinations": 8307,
+        "total_vaccinations_per_hundred": 267.12,
+        "total_boosters_per_hundred": 90.41,
+        "daily_vaccinations_per_million": 216,
+        "dateAsStr": "2024-06-02"
+    },
+    {
+        "date": "2024-06-03T00:00:00.000Z",
+        "total_vaccinations": 102720106,
+        "total_boosters": 34766017,
+        "daily_vaccinations_raw": 486,
+        "daily_vaccinations": 8272,
+        "total_vaccinations_per_hundred": 267.12,
+        "total_boosters_per_hundred": 90.41,
+        "daily_vaccinations_per_million": 215,
+        "dateAsStr": "2024-06-03"
+    },
+    {
+        "date": "2024-06-04T00:00:00.000Z",
+        "total_vaccinations": 102724399,
+        "total_boosters": 34770233,
+        "daily_vaccinations_raw": 4293,
+        "daily_vaccinations": 8128,
+        "total_vaccinations_per_hundred": 267.13,
+        "total_boosters_per_hundred": 90.42,
+        "daily_vaccinations_per_million": 211,
+        "dateAsStr": "2024-06-04"
+    },
+    {
+        "date": "2024-06-05T00:00:00.000Z",
+        "total_vaccinations": 102728926,
+        "total_boosters": 34774677,
+        "daily_vaccinations_raw": 4527,
+        "daily_vaccinations": 7963,
+        "total_vaccinations_per_hundred": 267.15,
+        "total_boosters_per_hundred": 90.43,
+        "daily_vaccinations_per_million": 207,
+        "dateAsStr": "2024-06-05"
     }
 ]
